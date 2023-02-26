@@ -1,0 +1,56 @@
+#################################################################
+# For structure relaxation, 
+nx = number of unit cells in x-direction
+ny = number of unit cells in y-direction
+nz = number of unit cells in z-direction
+
+For a given nx ny nz, in the structure_minimization/minimization directory,
+
+Step1:
+initial configuration can be generated in 1_initial folder with the command of
+'python initial_nc.py nx ny nz'
+
+Step2: 
+With the configuration from step1, in 2_partial_charge folder, assining different partial charge for surface Cs atoms can be done with the command of 
+'python partial_cs.py lammpsconf.par'
+
+Step3:
+Using the lammps initial configuration file from step 2, in 3_minimization folder, the command for the minimization is
+'lmp_serial < in.min' 
+
+Step4:
+The command for visualization (name.xyz) of the resultant structure in step 3 is
+'python read_partial.py min.traj'
+
+
+For strcutural analysis for angle and distance, in the property directory, modify number of unit cell in each direction, then the command for that is 
+'./make_*_rec.bat'
+
+Final structures in xyz format are all stored in structure_minimization/xyz_files directory
+
+#################################################################
+# For DFT data
+
+DFT_analysis/cube2_dft/* has the information on initial and final structures
+
+The command for structural analysis is
+'python (code name).py ../dft_data/prop.xyz 2 2 2'
+in DFT_analysis/prop_dft/python_code directory
+
+#################################################################
+# For bulk CsPbI3 simulation
+
+To generate the initial configuration, in the CsPbI3/initial directory, the commend is
+'python initial_CsPbI3.py'
+
+With the initial configuration, equilibration should be done in CsPbI3/equi_npt directory.
+To run simulation to get a trajectory or restart files, the lammps command is
+'lmp_serial < input/in.equi'
+
+Using the restart files from the equilibration step, to run low temperature simulations,
+in the CsPbI3/lowT_sim directory, the command is
+'lmp_serial < input/in.lowT.1'
+
+For visualization, the command is 'python vmd/read_bulk.py trajectory/(name of traj.)'
+
+#################################################################

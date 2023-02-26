@@ -1,0 +1,86 @@
+# 3-d simulation of MAPbI3
+units metal
+dimension	3
+boundary	p p p
+atom_style	full
+
+read_data initial/init.dat
+log            logfile/log.equi
+
+variable T index 300.00
+
+neighbor	2.0 bin
+neigh_modify	one 10000 check yes delay 0
+
+# Pb - 1 / I - 2 / Cs - 3 
+pair_style     lj/cut/coul/long 10.0 10.0
+
+# set epsilon, sigma
+pair_coeff              1 1 0.001086   3.210 # Pb
+pair_coeff              1 2 0.008330   3.612 # Pb-I
+pair_coeff              1 3 0.009161 3.397 # Pb-Cs
+
+pair_coeff              2 2 0.06389 4.014 # I
+pair_coeff              2 3 0.070267 3.799 # I-Cs
+pair_coeff              3 3 0.07728  3.584 # Cs
+
+kspace_style pppm 1e-5		# Electrostatics 
+dielectric 1.0
+
+# define groups
+group PbX type 1 2
+group Cs type 3
+
+velocity all create ${T} 32156
+
+#fix 		  1 all nve
+#fix 	     2 all langevin ${T} ${T} 100 123
+
+fix     		2 all npt temp ${T} ${T} 100 aniso 1.0 1.0 400
+
+#fix	     	2 PbX npt temp ${T} ${T} 500 iso 1.0 1.0 1000
+
+# Run
+timestep		0.001 # 0.001 ps = 1.0 fs
+thermo		5000
+#compute_modify thermo_temp dynamic yes
+
+thermo_style custom step temp pe etotal press vol
+
+dump		3 all custom 100 trajectory/dump.lammpstrj type xu yu zu q
+dump_modify		3 sort id
+run		10000
+
+undump 3 
+
+# equi
+dump    1 all custom 1000 trajectory/dump.trajcheck type xu yu zu q
+dump_modify   1 sort id
+
+run   100000
+
+undump 1
+
+run   400000
+write_restart restart/restart.equi
+
+dump    2 all custom 1000 trajectory/dump.lammpstrj type xu yu zu q
+dump_modify   2 sort id
+
+run 100000
+write_restart restart/restart.1
+
+run 100000
+write_restart restart/restart.2
+
+run 100000
+write_restart restart/restart.3
+
+run 100000
+write_restart restart/restart.4
+
+run 100000
+write_restart restart/restart.5
+
+
+

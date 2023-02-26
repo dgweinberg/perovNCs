@@ -1,0 +1,1436 @@
+Thu Oct  6 13:03:23 2022
+
+******************************************************************************
+
+ist->nx = 176	ist->dx = 0.500000
+ist->ny = 176	ist->dy = 0.500000
+ist->nz = 176	ist->dz = 0.500000
+par->espz = 6.1 par->espz = 6.1 par->espz = 6.1
+The number of openMP threads used = 16
+Total # of filtered hole eigenstates = 40
+Total # of filtered electron eigenstates = 24
+The eval.par index of the HOMO state = 218
+The eval.par index of the LUMO state = 220
+The HOMO energy = -0.23192946 -6.31112535
+The LUMO energy = -0.15613541 -4.24866319
+Fundamental gap = 0.0757940482 2.0624621620
+The total number of atoms = 929
+Number of grid points used: nx = 176  ny = 176  nz = 176
+Length of pseudopotential files, npot = 8192
+Kinetic energy maximum = 10.0000
+Dielectric Constant: epsx = 6.1000 epsy = 6.1000 epsz = 6.1000
+Maximum sigma for an eigenstate, deps = 0.0000
+Energy windows, electrons = 0.2000 holes = 0.1000
+The number of hole eigenstates within 0.1000 of the HOMO energy = 40
+The number of electron eigenstates within 0.2000 of the LUMO energy = 24
+Total number of carrier states, ms = 64
+QD (minimum) dimensions: xd = 35.00 yd = 35.00 zd = 41.00
+Final Box Dimensions: xd = 44 yd = 44 zd = 44
+Gamma = 0.085366
+Grid point spacing: dx = 0.5000 dy = 0.5000 dz = 0.5000 dv = 0.125000 dr = 0.866025
+The index of lowest energy occupied level used = 178
+allocating memory for 40 hole and 24 electron states
+starting to read at offset 218
+217
+moving file head back by 2
+216
+moving file head back by 2
+215
+moving file head back by 2
+214
+moving file head back by 2
+213
+moving file head back by 2
+212
+moving file head back by 2
+211
+moving file head back by 2
+210
+moving file head back by 2
+209
+moving file head back by 2
+208
+moving file head back by 2
+207
+moving file head back by 2
+206
+moving file head back by 2
+205
+moving file head back by 2
+204
+moving file head back by 2
+203
+moving file head back by 2
+202
+moving file head back by 2
+201
+moving file head back by 2
+200
+moving file head back by 2
+199
+moving file head back by 2
+198
+moving file head back by 2
+197
+moving file head back by 2
+196
+moving file head back by 2
+195
+moving file head back by 2
+194
+moving file head back by 2
+193
+moving file head back by 2
+192
+moving file head back by 2
+191
+moving file head back by 2
+190
+moving file head back by 2
+189
+moving file head back by 2
+188
+moving file head back by 2
+187
+moving file head back by 2
+186
+moving file head back by 2
+185
+moving file head back by 2
+184
+moving file head back by 2
+183
+moving file head back by 2
+182
+moving file head back by 2
+181
+moving file head back by 2
+180
+moving file head back by 2
+179
+moving file head back by 2
+178
+moving file head back by 2
+177
+moving file head back by 2
+tlumo: 0 nstates:40 counter:220
+tlumo: 1 nstates:41 counter:221
+tlumo: 2 nstates:42 counter:222
+tlumo: 3 nstates:43 counter:223
+tlumo: 4 nstates:44 counter:224
+tlumo: 5 nstates:45 counter:225
+tlumo: 6 nstates:46 counter:226
+tlumo: 7 nstates:47 counter:227
+tlumo: 8 nstates:48 counter:228
+tlumo: 9 nstates:49 counter:229
+tlumo: 10 nstates:50 counter:230
+tlumo: 11 nstates:51 counter:231
+tlumo: 12 nstates:52 counter:232
+tlumo: 13 nstates:53 counter:233
+tlumo: 14 nstates:54 counter:234
+tlumo: 15 nstates:55 counter:235
+tlumo: 16 nstates:56 counter:236
+tlumo: 17 nstates:57 counter:237
+tlumo: 18 nstates:58 counter:238
+tlumo: 19 nstates:59 counter:239
+tlumo: 20 nstates:60 counter:240
+tlumo: 21 nstates:61 counter:241
+tlumo: 22 nstates:62 counter:242
+tlumo: 23 nstates:63 counter:243
+tlumo: 23 nstates:63 counter:244
+tlumo: 24 nstates:64 counter:245
+freeing psidummy
+closed ppsiclosed eval and psifreeing evalindex
+freeing psihomo
+freeing psidlumo
+freeing ThingsNumber of hole eigenstates used in the BSE calculation = 40
+Number of electron eigenstates used in the BSE calculation =  24
+Total number of eigenstates used in the BSE calculation = 64
+
+Stats on state0: (E=-0.249666)
+ Spin up fraction: 0.601448
+ Spin dn fraction: 0.398552
+
+Stats on state1: (E=-0.249603)
+ Spin up fraction: 0.623644
+ Spin dn fraction: 0.376356
+
+Stats on state2: (E=-0.249345)
+ Spin up fraction: 0.497623
+ Spin dn fraction: 0.502377
+
+Stats on state3: (E=-0.249345)
+ Spin up fraction: 0.502378
+ Spin dn fraction: 0.497622
+
+Stats on state4: (E=-0.249169)
+ Spin up fraction: 0.793575
+ Spin dn fraction: 0.206425
+
+Stats on state5: (E=-0.249169)
+ Spin up fraction: 0.206425
+ Spin dn fraction: 0.793575
+
+Stats on state6: (E=-0.248774)
+ Spin up fraction: 0.458755
+ Spin dn fraction: 0.541245
+
+Stats on state7: (E=-0.248774)
+ Spin up fraction: 0.541244
+ Spin dn fraction: 0.458756
+
+Stats on state8: (E=-0.248367)
+ Spin up fraction: 0.834773
+ Spin dn fraction: 0.165227
+
+Stats on state9: (E=-0.248367)
+ Spin up fraction: 0.165228
+ Spin dn fraction: 0.834772
+
+Stats on state10: (E=-0.248323)
+ Spin up fraction: 0.860781
+ Spin dn fraction: 0.139219
+
+Stats on state11: (E=-0.248323)
+ Spin up fraction: 0.139219
+ Spin dn fraction: 0.860781
+
+Stats on state12: (E=-0.248076)
+ Spin up fraction: 0.351037
+ Spin dn fraction: 0.648963
+
+Stats on state13: (E=-0.248076)
+ Spin up fraction: 0.648964
+ Spin dn fraction: 0.351036
+
+Stats on state14: (E=-0.247806)
+ Spin up fraction: 0.162762
+ Spin dn fraction: 0.837238
+
+Stats on state15: (E=-0.247806)
+ Spin up fraction: 0.837238
+ Spin dn fraction: 0.162762
+
+Stats on state16: (E=-0.247723)
+ Spin up fraction: 0.459878
+ Spin dn fraction: 0.540122
+
+Stats on state17: (E=-0.247723)
+ Spin up fraction: 0.540122
+ Spin dn fraction: 0.459878
+
+Stats on state18: (E=-0.245185)
+ Spin up fraction: 0.151344
+ Spin dn fraction: 0.848656
+
+Stats on state19: (E=-0.245185)
+ Spin up fraction: 0.848656
+ Spin dn fraction: 0.151344
+
+Stats on state20: (E=-0.244038)
+ Spin up fraction: 0.291954
+ Spin dn fraction: 0.708046
+
+Stats on state21: (E=-0.244038)
+ Spin up fraction: 0.708046
+ Spin dn fraction: 0.291954
+
+Stats on state22: (E=-0.243243)
+ Spin up fraction: 0.371603
+ Spin dn fraction: 0.628397
+
+Stats on state23: (E=-0.243243)
+ Spin up fraction: 0.628397
+ Spin dn fraction: 0.371603
+
+Stats on state24: (E=-0.243096)
+ Spin up fraction: 0.632169
+ Spin dn fraction: 0.367831
+
+Stats on state25: (E=-0.243096)
+ Spin up fraction: 0.367831
+ Spin dn fraction: 0.632169
+
+Stats on state26: (E=-0.242868)
+ Spin up fraction: 0.492109
+ Spin dn fraction: 0.507891
+
+Stats on state27: (E=-0.242868)
+ Spin up fraction: 0.507891
+ Spin dn fraction: 0.492109
+
+Stats on state28: (E=-0.242831)
+ Spin up fraction: 0.386830
+ Spin dn fraction: 0.613170
+
+Stats on state29: (E=-0.242831)
+ Spin up fraction: 0.613170
+ Spin dn fraction: 0.386830
+
+Stats on state30: (E=-0.241545)
+ Spin up fraction: 0.512114
+ Spin dn fraction: 0.487886
+
+Stats on state31: (E=-0.241545)
+ Spin up fraction: 0.487886
+ Spin dn fraction: 0.512114
+
+Stats on state32: (E=-0.23787)
+ Spin up fraction: 0.820123
+ Spin dn fraction: 0.179877
+
+Stats on state33: (E=-0.23787)
+ Spin up fraction: 0.179877
+ Spin dn fraction: 0.820123
+
+Stats on state34: (E=-0.23764)
+ Spin up fraction: 0.229697
+ Spin dn fraction: 0.770303
+
+Stats on state35: (E=-0.23764)
+ Spin up fraction: 0.770303
+ Spin dn fraction: 0.229697
+
+Stats on state36: (E=-0.237055)
+ Spin up fraction: 0.366174
+ Spin dn fraction: 0.633826
+
+Stats on state37: (E=-0.237055)
+ Spin up fraction: 0.633826
+ Spin dn fraction: 0.366174
+
+Stats on state38: (E=-0.231929)
+ Spin up fraction: 0.090247
+ Spin dn fraction: 0.909753
+
+Stats on state39: (E=-0.231929)
+ Spin up fraction: 0.909753
+ Spin dn fraction: 0.090247
+
+Stats on state40: (E=-0.156135)
+ Spin up fraction: 0.610433
+ Spin dn fraction: 0.389567
+
+Stats on state41: (E=-0.156135)
+ Spin up fraction: 0.389567
+ Spin dn fraction: 0.610433
+
+Stats on state42: (E=-0.150911)
+ Spin up fraction: 0.513555
+ Spin dn fraction: 0.486445
+
+Stats on state43: (E=-0.150911)
+ Spin up fraction: 0.486445
+ Spin dn fraction: 0.513555
+
+Stats on state44: (E=-0.150555)
+ Spin up fraction: 0.485866
+ Spin dn fraction: 0.514134
+
+Stats on state45: (E=-0.150555)
+ Spin up fraction: 0.514134
+ Spin dn fraction: 0.485866
+
+Stats on state46: (E=-0.149488)
+ Spin up fraction: 0.439283
+ Spin dn fraction: 0.560717
+
+Stats on state47: (E=-0.149488)
+ Spin up fraction: 0.560717
+ Spin dn fraction: 0.439283
+
+Stats on state48: (E=-0.146407)
+ Spin up fraction: 0.432646
+ Spin dn fraction: 0.567354
+
+Stats on state49: (E=-0.146407)
+ Spin up fraction: 0.567354
+ Spin dn fraction: 0.432646
+
+Stats on state50: (E=-0.145161)
+ Spin up fraction: 0.523280
+ Spin dn fraction: 0.476720
+
+Stats on state51: (E=-0.145161)
+ Spin up fraction: 0.476720
+ Spin dn fraction: 0.523280
+
+Stats on state52: (E=-0.144567)
+ Spin up fraction: 0.483756
+ Spin dn fraction: 0.516244
+
+Stats on state53: (E=-0.144567)
+ Spin up fraction: 0.516244
+ Spin dn fraction: 0.483756
+
+Stats on state54: (E=-0.144296)
+ Spin up fraction: 0.472128
+ Spin dn fraction: 0.527872
+
+Stats on state55: (E=-0.144296)
+ Spin up fraction: 0.527872
+ Spin dn fraction: 0.472128
+
+Stats on state56: (E=-0.142838)
+ Spin up fraction: 0.453902
+ Spin dn fraction: 0.546098
+
+Stats on state57: (E=-0.142838)
+ Spin up fraction: 0.546098
+ Spin dn fraction: 0.453902
+
+Stats on state58: (E=-0.142591)
+ Spin up fraction: 0.489934
+ Spin dn fraction: 0.510066
+
+Stats on state59: (E=-0.142591)
+ Spin up fraction: 0.510066
+ Spin dn fraction: 0.489934
+
+Stats on state60: (E=-0.142212)
+ Spin up fraction: 0.531451
+ Spin dn fraction: 0.468549
+
+Stats on state61: (E=-0.142212)
+ Spin up fraction: 0.468549
+ Spin dn fraction: 0.531451
+
+Stats on state62: (E=-0.141179)
+ Spin up fraction: 0.494493
+ Spin dn fraction: 0.505507
+
+Stats on state63: (E=-0.141004)
+ Spin up fraction: 0.502425
+ Spin dn fraction: 0.497575
+a:40 i:0 ibs:0
+a:40 i:1 ibs:1
+a:40 i:2 ibs:2
+a:40 i:3 ibs:3
+a:40 i:4 ibs:4
+a:40 i:5 ibs:5
+a:40 i:6 ibs:6
+a:40 i:7 ibs:7
+a:40 i:8 ibs:8
+a:40 i:9 ibs:9
+a:40 i:10 ibs:10
+a:40 i:11 ibs:11
+a:40 i:12 ibs:12
+a:40 i:13 ibs:13
+a:40 i:14 ibs:14
+a:40 i:15 ibs:15
+a:40 i:16 ibs:16
+a:40 i:17 ibs:17
+a:40 i:18 ibs:18
+a:40 i:19 ibs:19
+a:40 i:20 ibs:20
+a:40 i:21 ibs:21
+a:40 i:22 ibs:22
+a:40 i:23 ibs:23
+a:40 i:24 ibs:24
+a:40 i:25 ibs:25
+a:40 i:26 ibs:26
+a:40 i:27 ibs:27
+a:40 i:28 ibs:28
+a:40 i:29 ibs:29
+a:40 i:30 ibs:30
+a:40 i:31 ibs:31
+a:40 i:32 ibs:32
+a:40 i:33 ibs:33
+a:40 i:34 ibs:34
+a:40 i:35 ibs:35
+a:40 i:36 ibs:36
+a:40 i:37 ibs:37
+a:40 i:38 ibs:38
+a:40 i:39 ibs:39
+a:41 i:0 ibs:40
+a:41 i:1 ibs:41
+a:41 i:2 ibs:42
+a:41 i:3 ibs:43
+a:41 i:4 ibs:44
+a:41 i:5 ibs:45
+a:41 i:6 ibs:46
+a:41 i:7 ibs:47
+a:41 i:8 ibs:48
+a:41 i:9 ibs:49
+a:41 i:10 ibs:50
+a:41 i:11 ibs:51
+a:41 i:12 ibs:52
+a:41 i:13 ibs:53
+a:41 i:14 ibs:54
+a:41 i:15 ibs:55
+a:41 i:16 ibs:56
+a:41 i:17 ibs:57
+a:41 i:18 ibs:58
+a:41 i:19 ibs:59
+a:41 i:20 ibs:60
+a:41 i:21 ibs:61
+a:41 i:22 ibs:62
+a:41 i:23 ibs:63
+a:41 i:24 ibs:64
+a:41 i:25 ibs:65
+a:41 i:26 ibs:66
+a:41 i:27 ibs:67
+a:41 i:28 ibs:68
+a:41 i:29 ibs:69
+a:41 i:30 ibs:70
+a:41 i:31 ibs:71
+a:41 i:32 ibs:72
+a:41 i:33 ibs:73
+a:41 i:34 ibs:74
+a:41 i:35 ibs:75
+a:41 i:36 ibs:76
+a:41 i:37 ibs:77
+a:41 i:38 ibs:78
+a:41 i:39 ibs:79
+a:42 i:0 ibs:80
+a:42 i:1 ibs:81
+a:42 i:2 ibs:82
+a:42 i:3 ibs:83
+a:42 i:4 ibs:84
+a:42 i:5 ibs:85
+a:42 i:6 ibs:86
+a:42 i:7 ibs:87
+a:42 i:8 ibs:88
+a:42 i:9 ibs:89
+a:42 i:10 ibs:90
+a:42 i:11 ibs:91
+a:42 i:12 ibs:92
+a:42 i:13 ibs:93
+a:42 i:14 ibs:94
+a:42 i:15 ibs:95
+a:42 i:16 ibs:96
+a:42 i:17 ibs:97
+a:42 i:18 ibs:98
+a:42 i:19 ibs:99
+a:42 i:20 ibs:100
+a:42 i:21 ibs:101
+a:42 i:22 ibs:102
+a:42 i:23 ibs:103
+a:42 i:24 ibs:104
+a:42 i:25 ibs:105
+a:42 i:26 ibs:106
+a:42 i:27 ibs:107
+a:42 i:28 ibs:108
+a:42 i:29 ibs:109
+a:42 i:30 ibs:110
+a:42 i:31 ibs:111
+a:42 i:32 ibs:112
+a:42 i:33 ibs:113
+a:42 i:34 ibs:114
+a:42 i:35 ibs:115
+a:42 i:36 ibs:116
+a:42 i:37 ibs:117
+a:42 i:38 ibs:118
+a:42 i:39 ibs:119
+a:43 i:0 ibs:120
+a:43 i:1 ibs:121
+a:43 i:2 ibs:122
+a:43 i:3 ibs:123
+a:43 i:4 ibs:124
+a:43 i:5 ibs:125
+a:43 i:6 ibs:126
+a:43 i:7 ibs:127
+a:43 i:8 ibs:128
+a:43 i:9 ibs:129
+a:43 i:10 ibs:130
+a:43 i:11 ibs:131
+a:43 i:12 ibs:132
+a:43 i:13 ibs:133
+a:43 i:14 ibs:134
+a:43 i:15 ibs:135
+a:43 i:16 ibs:136
+a:43 i:17 ibs:137
+a:43 i:18 ibs:138
+a:43 i:19 ibs:139
+a:43 i:20 ibs:140
+a:43 i:21 ibs:141
+a:43 i:22 ibs:142
+a:43 i:23 ibs:143
+a:43 i:24 ibs:144
+a:43 i:25 ibs:145
+a:43 i:26 ibs:146
+a:43 i:27 ibs:147
+a:43 i:28 ibs:148
+a:43 i:29 ibs:149
+a:43 i:30 ibs:150
+a:43 i:31 ibs:151
+a:43 i:32 ibs:152
+a:43 i:33 ibs:153
+a:43 i:34 ibs:154
+a:43 i:35 ibs:155
+a:43 i:36 ibs:156
+a:43 i:37 ibs:157
+a:43 i:38 ibs:158
+a:43 i:39 ibs:159
+a:44 i:0 ibs:160
+a:44 i:1 ibs:161
+a:44 i:2 ibs:162
+a:44 i:3 ibs:163
+a:44 i:4 ibs:164
+a:44 i:5 ibs:165
+a:44 i:6 ibs:166
+a:44 i:7 ibs:167
+a:44 i:8 ibs:168
+a:44 i:9 ibs:169
+a:44 i:10 ibs:170
+a:44 i:11 ibs:171
+a:44 i:12 ibs:172
+a:44 i:13 ibs:173
+a:44 i:14 ibs:174
+a:44 i:15 ibs:175
+a:44 i:16 ibs:176
+a:44 i:17 ibs:177
+a:44 i:18 ibs:178
+a:44 i:19 ibs:179
+a:44 i:20 ibs:180
+a:44 i:21 ibs:181
+a:44 i:22 ibs:182
+a:44 i:23 ibs:183
+a:44 i:24 ibs:184
+a:44 i:25 ibs:185
+a:44 i:26 ibs:186
+a:44 i:27 ibs:187
+a:44 i:28 ibs:188
+a:44 i:29 ibs:189
+a:44 i:30 ibs:190
+a:44 i:31 ibs:191
+a:44 i:32 ibs:192
+a:44 i:33 ibs:193
+a:44 i:34 ibs:194
+a:44 i:35 ibs:195
+a:44 i:36 ibs:196
+a:44 i:37 ibs:197
+a:44 i:38 ibs:198
+a:44 i:39 ibs:199
+a:45 i:0 ibs:200
+a:45 i:1 ibs:201
+a:45 i:2 ibs:202
+a:45 i:3 ibs:203
+a:45 i:4 ibs:204
+a:45 i:5 ibs:205
+a:45 i:6 ibs:206
+a:45 i:7 ibs:207
+a:45 i:8 ibs:208
+a:45 i:9 ibs:209
+a:45 i:10 ibs:210
+a:45 i:11 ibs:211
+a:45 i:12 ibs:212
+a:45 i:13 ibs:213
+a:45 i:14 ibs:214
+a:45 i:15 ibs:215
+a:45 i:16 ibs:216
+a:45 i:17 ibs:217
+a:45 i:18 ibs:218
+a:45 i:19 ibs:219
+a:45 i:20 ibs:220
+a:45 i:21 ibs:221
+a:45 i:22 ibs:222
+a:45 i:23 ibs:223
+a:45 i:24 ibs:224
+a:45 i:25 ibs:225
+a:45 i:26 ibs:226
+a:45 i:27 ibs:227
+a:45 i:28 ibs:228
+a:45 i:29 ibs:229
+a:45 i:30 ibs:230
+a:45 i:31 ibs:231
+a:45 i:32 ibs:232
+a:45 i:33 ibs:233
+a:45 i:34 ibs:234
+a:45 i:35 ibs:235
+a:45 i:36 ibs:236
+a:45 i:37 ibs:237
+a:45 i:38 ibs:238
+a:45 i:39 ibs:239
+a:46 i:0 ibs:240
+a:46 i:1 ibs:241
+a:46 i:2 ibs:242
+a:46 i:3 ibs:243
+a:46 i:4 ibs:244
+a:46 i:5 ibs:245
+a:46 i:6 ibs:246
+a:46 i:7 ibs:247
+a:46 i:8 ibs:248
+a:46 i:9 ibs:249
+a:46 i:10 ibs:250
+a:46 i:11 ibs:251
+a:46 i:12 ibs:252
+a:46 i:13 ibs:253
+a:46 i:14 ibs:254
+a:46 i:15 ibs:255
+a:46 i:16 ibs:256
+a:46 i:17 ibs:257
+a:46 i:18 ibs:258
+a:46 i:19 ibs:259
+a:46 i:20 ibs:260
+a:46 i:21 ibs:261
+a:46 i:22 ibs:262
+a:46 i:23 ibs:263
+a:46 i:24 ibs:264
+a:46 i:25 ibs:265
+a:46 i:26 ibs:266
+a:46 i:27 ibs:267
+a:46 i:28 ibs:268
+a:46 i:29 ibs:269
+a:46 i:30 ibs:270
+a:46 i:31 ibs:271
+a:46 i:32 ibs:272
+a:46 i:33 ibs:273
+a:46 i:34 ibs:274
+a:46 i:35 ibs:275
+a:46 i:36 ibs:276
+a:46 i:37 ibs:277
+a:46 i:38 ibs:278
+a:46 i:39 ibs:279
+a:47 i:0 ibs:280
+a:47 i:1 ibs:281
+a:47 i:2 ibs:282
+a:47 i:3 ibs:283
+a:47 i:4 ibs:284
+a:47 i:5 ibs:285
+a:47 i:6 ibs:286
+a:47 i:7 ibs:287
+a:47 i:8 ibs:288
+a:47 i:9 ibs:289
+a:47 i:10 ibs:290
+a:47 i:11 ibs:291
+a:47 i:12 ibs:292
+a:47 i:13 ibs:293
+a:47 i:14 ibs:294
+a:47 i:15 ibs:295
+a:47 i:16 ibs:296
+a:47 i:17 ibs:297
+a:47 i:18 ibs:298
+a:47 i:19 ibs:299
+a:47 i:20 ibs:300
+a:47 i:21 ibs:301
+a:47 i:22 ibs:302
+a:47 i:23 ibs:303
+a:47 i:24 ibs:304
+a:47 i:25 ibs:305
+a:47 i:26 ibs:306
+a:47 i:27 ibs:307
+a:47 i:28 ibs:308
+a:47 i:29 ibs:309
+a:47 i:30 ibs:310
+a:47 i:31 ibs:311
+a:47 i:32 ibs:312
+a:47 i:33 ibs:313
+a:47 i:34 ibs:314
+a:47 i:35 ibs:315
+a:47 i:36 ibs:316
+a:47 i:37 ibs:317
+a:47 i:38 ibs:318
+a:47 i:39 ibs:319
+a:48 i:0 ibs:320
+a:48 i:1 ibs:321
+a:48 i:2 ibs:322
+a:48 i:3 ibs:323
+a:48 i:4 ibs:324
+a:48 i:5 ibs:325
+a:48 i:6 ibs:326
+a:48 i:7 ibs:327
+a:48 i:8 ibs:328
+a:48 i:9 ibs:329
+a:48 i:10 ibs:330
+a:48 i:11 ibs:331
+a:48 i:12 ibs:332
+a:48 i:13 ibs:333
+a:48 i:14 ibs:334
+a:48 i:15 ibs:335
+a:48 i:16 ibs:336
+a:48 i:17 ibs:337
+a:48 i:18 ibs:338
+a:48 i:19 ibs:339
+a:48 i:20 ibs:340
+a:48 i:21 ibs:341
+a:48 i:22 ibs:342
+a:48 i:23 ibs:343
+a:48 i:24 ibs:344
+a:48 i:25 ibs:345
+a:48 i:26 ibs:346
+a:48 i:27 ibs:347
+a:48 i:28 ibs:348
+a:48 i:29 ibs:349
+a:48 i:30 ibs:350
+a:48 i:31 ibs:351
+a:48 i:32 ibs:352
+a:48 i:33 ibs:353
+a:48 i:34 ibs:354
+a:48 i:35 ibs:355
+a:48 i:36 ibs:356
+a:48 i:37 ibs:357
+a:48 i:38 ibs:358
+a:48 i:39 ibs:359
+a:49 i:0 ibs:360
+a:49 i:1 ibs:361
+a:49 i:2 ibs:362
+a:49 i:3 ibs:363
+a:49 i:4 ibs:364
+a:49 i:5 ibs:365
+a:49 i:6 ibs:366
+a:49 i:7 ibs:367
+a:49 i:8 ibs:368
+a:49 i:9 ibs:369
+a:49 i:10 ibs:370
+a:49 i:11 ibs:371
+a:49 i:12 ibs:372
+a:49 i:13 ibs:373
+a:49 i:14 ibs:374
+a:49 i:15 ibs:375
+a:49 i:16 ibs:376
+a:49 i:17 ibs:377
+a:49 i:18 ibs:378
+a:49 i:19 ibs:379
+a:49 i:20 ibs:380
+a:49 i:21 ibs:381
+a:49 i:22 ibs:382
+a:49 i:23 ibs:383
+a:49 i:24 ibs:384
+a:49 i:25 ibs:385
+a:49 i:26 ibs:386
+a:49 i:27 ibs:387
+a:49 i:28 ibs:388
+a:49 i:29 ibs:389
+a:49 i:30 ibs:390
+a:49 i:31 ibs:391
+a:49 i:32 ibs:392
+a:49 i:33 ibs:393
+a:49 i:34 ibs:394
+a:49 i:35 ibs:395
+a:49 i:36 ibs:396
+a:49 i:37 ibs:397
+a:49 i:38 ibs:398
+a:49 i:39 ibs:399
+a:50 i:0 ibs:400
+a:50 i:1 ibs:401
+a:50 i:2 ibs:402
+a:50 i:3 ibs:403
+a:50 i:4 ibs:404
+a:50 i:5 ibs:405
+a:50 i:6 ibs:406
+a:50 i:7 ibs:407
+a:50 i:8 ibs:408
+a:50 i:9 ibs:409
+a:50 i:10 ibs:410
+a:50 i:11 ibs:411
+a:50 i:12 ibs:412
+a:50 i:13 ibs:413
+a:50 i:14 ibs:414
+a:50 i:15 ibs:415
+a:50 i:16 ibs:416
+a:50 i:17 ibs:417
+a:50 i:18 ibs:418
+a:50 i:19 ibs:419
+a:50 i:20 ibs:420
+a:50 i:21 ibs:421
+a:50 i:22 ibs:422
+a:50 i:23 ibs:423
+a:50 i:24 ibs:424
+a:50 i:25 ibs:425
+a:50 i:26 ibs:426
+a:50 i:27 ibs:427
+a:50 i:28 ibs:428
+a:50 i:29 ibs:429
+a:50 i:30 ibs:430
+a:50 i:31 ibs:431
+a:50 i:32 ibs:432
+a:50 i:33 ibs:433
+a:50 i:34 ibs:434
+a:50 i:35 ibs:435
+a:50 i:36 ibs:436
+a:50 i:37 ibs:437
+a:50 i:38 ibs:438
+a:50 i:39 ibs:439
+a:51 i:0 ibs:440
+a:51 i:1 ibs:441
+a:51 i:2 ibs:442
+a:51 i:3 ibs:443
+a:51 i:4 ibs:444
+a:51 i:5 ibs:445
+a:51 i:6 ibs:446
+a:51 i:7 ibs:447
+a:51 i:8 ibs:448
+a:51 i:9 ibs:449
+a:51 i:10 ibs:450
+a:51 i:11 ibs:451
+a:51 i:12 ibs:452
+a:51 i:13 ibs:453
+a:51 i:14 ibs:454
+a:51 i:15 ibs:455
+a:51 i:16 ibs:456
+a:51 i:17 ibs:457
+a:51 i:18 ibs:458
+a:51 i:19 ibs:459
+a:51 i:20 ibs:460
+a:51 i:21 ibs:461
+a:51 i:22 ibs:462
+a:51 i:23 ibs:463
+a:51 i:24 ibs:464
+a:51 i:25 ibs:465
+a:51 i:26 ibs:466
+a:51 i:27 ibs:467
+a:51 i:28 ibs:468
+a:51 i:29 ibs:469
+a:51 i:30 ibs:470
+a:51 i:31 ibs:471
+a:51 i:32 ibs:472
+a:51 i:33 ibs:473
+a:51 i:34 ibs:474
+a:51 i:35 ibs:475
+a:51 i:36 ibs:476
+a:51 i:37 ibs:477
+a:51 i:38 ibs:478
+a:51 i:39 ibs:479
+a:52 i:0 ibs:480
+a:52 i:1 ibs:481
+a:52 i:2 ibs:482
+a:52 i:3 ibs:483
+a:52 i:4 ibs:484
+a:52 i:5 ibs:485
+a:52 i:6 ibs:486
+a:52 i:7 ibs:487
+a:52 i:8 ibs:488
+a:52 i:9 ibs:489
+a:52 i:10 ibs:490
+a:52 i:11 ibs:491
+a:52 i:12 ibs:492
+a:52 i:13 ibs:493
+a:52 i:14 ibs:494
+a:52 i:15 ibs:495
+a:52 i:16 ibs:496
+a:52 i:17 ibs:497
+a:52 i:18 ibs:498
+a:52 i:19 ibs:499
+a:52 i:20 ibs:500
+a:52 i:21 ibs:501
+a:52 i:22 ibs:502
+a:52 i:23 ibs:503
+a:52 i:24 ibs:504
+a:52 i:25 ibs:505
+a:52 i:26 ibs:506
+a:52 i:27 ibs:507
+a:52 i:28 ibs:508
+a:52 i:29 ibs:509
+a:52 i:30 ibs:510
+a:52 i:31 ibs:511
+a:52 i:32 ibs:512
+a:52 i:33 ibs:513
+a:52 i:34 ibs:514
+a:52 i:35 ibs:515
+a:52 i:36 ibs:516
+a:52 i:37 ibs:517
+a:52 i:38 ibs:518
+a:52 i:39 ibs:519
+a:53 i:0 ibs:520
+a:53 i:1 ibs:521
+a:53 i:2 ibs:522
+a:53 i:3 ibs:523
+a:53 i:4 ibs:524
+a:53 i:5 ibs:525
+a:53 i:6 ibs:526
+a:53 i:7 ibs:527
+a:53 i:8 ibs:528
+a:53 i:9 ibs:529
+a:53 i:10 ibs:530
+a:53 i:11 ibs:531
+a:53 i:12 ibs:532
+a:53 i:13 ibs:533
+a:53 i:14 ibs:534
+a:53 i:15 ibs:535
+a:53 i:16 ibs:536
+a:53 i:17 ibs:537
+a:53 i:18 ibs:538
+a:53 i:19 ibs:539
+a:53 i:20 ibs:540
+a:53 i:21 ibs:541
+a:53 i:22 ibs:542
+a:53 i:23 ibs:543
+a:53 i:24 ibs:544
+a:53 i:25 ibs:545
+a:53 i:26 ibs:546
+a:53 i:27 ibs:547
+a:53 i:28 ibs:548
+a:53 i:29 ibs:549
+a:53 i:30 ibs:550
+a:53 i:31 ibs:551
+a:53 i:32 ibs:552
+a:53 i:33 ibs:553
+a:53 i:34 ibs:554
+a:53 i:35 ibs:555
+a:53 i:36 ibs:556
+a:53 i:37 ibs:557
+a:53 i:38 ibs:558
+a:53 i:39 ibs:559
+a:54 i:0 ibs:560
+a:54 i:1 ibs:561
+a:54 i:2 ibs:562
+a:54 i:3 ibs:563
+a:54 i:4 ibs:564
+a:54 i:5 ibs:565
+a:54 i:6 ibs:566
+a:54 i:7 ibs:567
+a:54 i:8 ibs:568
+a:54 i:9 ibs:569
+a:54 i:10 ibs:570
+a:54 i:11 ibs:571
+a:54 i:12 ibs:572
+a:54 i:13 ibs:573
+a:54 i:14 ibs:574
+a:54 i:15 ibs:575
+a:54 i:16 ibs:576
+a:54 i:17 ibs:577
+a:54 i:18 ibs:578
+a:54 i:19 ibs:579
+a:54 i:20 ibs:580
+a:54 i:21 ibs:581
+a:54 i:22 ibs:582
+a:54 i:23 ibs:583
+a:54 i:24 ibs:584
+a:54 i:25 ibs:585
+a:54 i:26 ibs:586
+a:54 i:27 ibs:587
+a:54 i:28 ibs:588
+a:54 i:29 ibs:589
+a:54 i:30 ibs:590
+a:54 i:31 ibs:591
+a:54 i:32 ibs:592
+a:54 i:33 ibs:593
+a:54 i:34 ibs:594
+a:54 i:35 ibs:595
+a:54 i:36 ibs:596
+a:54 i:37 ibs:597
+a:54 i:38 ibs:598
+a:54 i:39 ibs:599
+a:55 i:0 ibs:600
+a:55 i:1 ibs:601
+a:55 i:2 ibs:602
+a:55 i:3 ibs:603
+a:55 i:4 ibs:604
+a:55 i:5 ibs:605
+a:55 i:6 ibs:606
+a:55 i:7 ibs:607
+a:55 i:8 ibs:608
+a:55 i:9 ibs:609
+a:55 i:10 ibs:610
+a:55 i:11 ibs:611
+a:55 i:12 ibs:612
+a:55 i:13 ibs:613
+a:55 i:14 ibs:614
+a:55 i:15 ibs:615
+a:55 i:16 ibs:616
+a:55 i:17 ibs:617
+a:55 i:18 ibs:618
+a:55 i:19 ibs:619
+a:55 i:20 ibs:620
+a:55 i:21 ibs:621
+a:55 i:22 ibs:622
+a:55 i:23 ibs:623
+a:55 i:24 ibs:624
+a:55 i:25 ibs:625
+a:55 i:26 ibs:626
+a:55 i:27 ibs:627
+a:55 i:28 ibs:628
+a:55 i:29 ibs:629
+a:55 i:30 ibs:630
+a:55 i:31 ibs:631
+a:55 i:32 ibs:632
+a:55 i:33 ibs:633
+a:55 i:34 ibs:634
+a:55 i:35 ibs:635
+a:55 i:36 ibs:636
+a:55 i:37 ibs:637
+a:55 i:38 ibs:638
+a:55 i:39 ibs:639
+a:56 i:0 ibs:640
+a:56 i:1 ibs:641
+a:56 i:2 ibs:642
+a:56 i:3 ibs:643
+a:56 i:4 ibs:644
+a:56 i:5 ibs:645
+a:56 i:6 ibs:646
+a:56 i:7 ibs:647
+a:56 i:8 ibs:648
+a:56 i:9 ibs:649
+a:56 i:10 ibs:650
+a:56 i:11 ibs:651
+a:56 i:12 ibs:652
+a:56 i:13 ibs:653
+a:56 i:14 ibs:654
+a:56 i:15 ibs:655
+a:56 i:16 ibs:656
+a:56 i:17 ibs:657
+a:56 i:18 ibs:658
+a:56 i:19 ibs:659
+a:56 i:20 ibs:660
+a:56 i:21 ibs:661
+a:56 i:22 ibs:662
+a:56 i:23 ibs:663
+a:56 i:24 ibs:664
+a:56 i:25 ibs:665
+a:56 i:26 ibs:666
+a:56 i:27 ibs:667
+a:56 i:28 ibs:668
+a:56 i:29 ibs:669
+a:56 i:30 ibs:670
+a:56 i:31 ibs:671
+a:56 i:32 ibs:672
+a:56 i:33 ibs:673
+a:56 i:34 ibs:674
+a:56 i:35 ibs:675
+a:56 i:36 ibs:676
+a:56 i:37 ibs:677
+a:56 i:38 ibs:678
+a:56 i:39 ibs:679
+a:57 i:0 ibs:680
+a:57 i:1 ibs:681
+a:57 i:2 ibs:682
+a:57 i:3 ibs:683
+a:57 i:4 ibs:684
+a:57 i:5 ibs:685
+a:57 i:6 ibs:686
+a:57 i:7 ibs:687
+a:57 i:8 ibs:688
+a:57 i:9 ibs:689
+a:57 i:10 ibs:690
+a:57 i:11 ibs:691
+a:57 i:12 ibs:692
+a:57 i:13 ibs:693
+a:57 i:14 ibs:694
+a:57 i:15 ibs:695
+a:57 i:16 ibs:696
+a:57 i:17 ibs:697
+a:57 i:18 ibs:698
+a:57 i:19 ibs:699
+a:57 i:20 ibs:700
+a:57 i:21 ibs:701
+a:57 i:22 ibs:702
+a:57 i:23 ibs:703
+a:57 i:24 ibs:704
+a:57 i:25 ibs:705
+a:57 i:26 ibs:706
+a:57 i:27 ibs:707
+a:57 i:28 ibs:708
+a:57 i:29 ibs:709
+a:57 i:30 ibs:710
+a:57 i:31 ibs:711
+a:57 i:32 ibs:712
+a:57 i:33 ibs:713
+a:57 i:34 ibs:714
+a:57 i:35 ibs:715
+a:57 i:36 ibs:716
+a:57 i:37 ibs:717
+a:57 i:38 ibs:718
+a:57 i:39 ibs:719
+a:58 i:0 ibs:720
+a:58 i:1 ibs:721
+a:58 i:2 ibs:722
+a:58 i:3 ibs:723
+a:58 i:4 ibs:724
+a:58 i:5 ibs:725
+a:58 i:6 ibs:726
+a:58 i:7 ibs:727
+a:58 i:8 ibs:728
+a:58 i:9 ibs:729
+a:58 i:10 ibs:730
+a:58 i:11 ibs:731
+a:58 i:12 ibs:732
+a:58 i:13 ibs:733
+a:58 i:14 ibs:734
+a:58 i:15 ibs:735
+a:58 i:16 ibs:736
+a:58 i:17 ibs:737
+a:58 i:18 ibs:738
+a:58 i:19 ibs:739
+a:58 i:20 ibs:740
+a:58 i:21 ibs:741
+a:58 i:22 ibs:742
+a:58 i:23 ibs:743
+a:58 i:24 ibs:744
+a:58 i:25 ibs:745
+a:58 i:26 ibs:746
+a:58 i:27 ibs:747
+a:58 i:28 ibs:748
+a:58 i:29 ibs:749
+a:58 i:30 ibs:750
+a:58 i:31 ibs:751
+a:58 i:32 ibs:752
+a:58 i:33 ibs:753
+a:58 i:34 ibs:754
+a:58 i:35 ibs:755
+a:58 i:36 ibs:756
+a:58 i:37 ibs:757
+a:58 i:38 ibs:758
+a:58 i:39 ibs:759
+a:59 i:0 ibs:760
+a:59 i:1 ibs:761
+a:59 i:2 ibs:762
+a:59 i:3 ibs:763
+a:59 i:4 ibs:764
+a:59 i:5 ibs:765
+a:59 i:6 ibs:766
+a:59 i:7 ibs:767
+a:59 i:8 ibs:768
+a:59 i:9 ibs:769
+a:59 i:10 ibs:770
+a:59 i:11 ibs:771
+a:59 i:12 ibs:772
+a:59 i:13 ibs:773
+a:59 i:14 ibs:774
+a:59 i:15 ibs:775
+a:59 i:16 ibs:776
+a:59 i:17 ibs:777
+a:59 i:18 ibs:778
+a:59 i:19 ibs:779
+a:59 i:20 ibs:780
+a:59 i:21 ibs:781
+a:59 i:22 ibs:782
+a:59 i:23 ibs:783
+a:59 i:24 ibs:784
+a:59 i:25 ibs:785
+a:59 i:26 ibs:786
+a:59 i:27 ibs:787
+a:59 i:28 ibs:788
+a:59 i:29 ibs:789
+a:59 i:30 ibs:790
+a:59 i:31 ibs:791
+a:59 i:32 ibs:792
+a:59 i:33 ibs:793
+a:59 i:34 ibs:794
+a:59 i:35 ibs:795
+a:59 i:36 ibs:796
+a:59 i:37 ibs:797
+a:59 i:38 ibs:798
+a:59 i:39 ibs:799
+a:60 i:0 ibs:800
+a:60 i:1 ibs:801
+a:60 i:2 ibs:802
+a:60 i:3 ibs:803
+a:60 i:4 ibs:804
+a:60 i:5 ibs:805
+a:60 i:6 ibs:806
+a:60 i:7 ibs:807
+a:60 i:8 ibs:808
+a:60 i:9 ibs:809
+a:60 i:10 ibs:810
+a:60 i:11 ibs:811
+a:60 i:12 ibs:812
+a:60 i:13 ibs:813
+a:60 i:14 ibs:814
+a:60 i:15 ibs:815
+a:60 i:16 ibs:816
+a:60 i:17 ibs:817
+a:60 i:18 ibs:818
+a:60 i:19 ibs:819
+a:60 i:20 ibs:820
+a:60 i:21 ibs:821
+a:60 i:22 ibs:822
+a:60 i:23 ibs:823
+a:60 i:24 ibs:824
+a:60 i:25 ibs:825
+a:60 i:26 ibs:826
+a:60 i:27 ibs:827
+a:60 i:28 ibs:828
+a:60 i:29 ibs:829
+a:60 i:30 ibs:830
+a:60 i:31 ibs:831
+a:60 i:32 ibs:832
+a:60 i:33 ibs:833
+a:60 i:34 ibs:834
+a:60 i:35 ibs:835
+a:60 i:36 ibs:836
+a:60 i:37 ibs:837
+a:60 i:38 ibs:838
+a:60 i:39 ibs:839
+a:61 i:0 ibs:840
+a:61 i:1 ibs:841
+a:61 i:2 ibs:842
+a:61 i:3 ibs:843
+a:61 i:4 ibs:844
+a:61 i:5 ibs:845
+a:61 i:6 ibs:846
+a:61 i:7 ibs:847
+a:61 i:8 ibs:848
+a:61 i:9 ibs:849
+a:61 i:10 ibs:850
+a:61 i:11 ibs:851
+a:61 i:12 ibs:852
+a:61 i:13 ibs:853
+a:61 i:14 ibs:854
+a:61 i:15 ibs:855
+a:61 i:16 ibs:856
+a:61 i:17 ibs:857
+a:61 i:18 ibs:858
+a:61 i:19 ibs:859
+a:61 i:20 ibs:860
+a:61 i:21 ibs:861
+a:61 i:22 ibs:862
+a:61 i:23 ibs:863
+a:61 i:24 ibs:864
+a:61 i:25 ibs:865
+a:61 i:26 ibs:866
+a:61 i:27 ibs:867
+a:61 i:28 ibs:868
+a:61 i:29 ibs:869
+a:61 i:30 ibs:870
+a:61 i:31 ibs:871
+a:61 i:32 ibs:872
+a:61 i:33 ibs:873
+a:61 i:34 ibs:874
+a:61 i:35 ibs:875
+a:61 i:36 ibs:876
+a:61 i:37 ibs:877
+a:61 i:38 ibs:878
+a:61 i:39 ibs:879
+a:62 i:0 ibs:880
+a:62 i:1 ibs:881
+a:62 i:2 ibs:882
+a:62 i:3 ibs:883
+a:62 i:4 ibs:884
+a:62 i:5 ibs:885
+a:62 i:6 ibs:886
+a:62 i:7 ibs:887
+a:62 i:8 ibs:888
+a:62 i:9 ibs:889
+a:62 i:10 ibs:890
+a:62 i:11 ibs:891
+a:62 i:12 ibs:892
+a:62 i:13 ibs:893
+a:62 i:14 ibs:894
+a:62 i:15 ibs:895
+a:62 i:16 ibs:896
+a:62 i:17 ibs:897
+a:62 i:18 ibs:898
+a:62 i:19 ibs:899
+a:62 i:20 ibs:900
+a:62 i:21 ibs:901
+a:62 i:22 ibs:902
+a:62 i:23 ibs:903
+a:62 i:24 ibs:904
+a:62 i:25 ibs:905
+a:62 i:26 ibs:906
+a:62 i:27 ibs:907
+a:62 i:28 ibs:908
+a:62 i:29 ibs:909
+a:62 i:30 ibs:910
+a:62 i:31 ibs:911
+a:62 i:32 ibs:912
+a:62 i:33 ibs:913
+a:62 i:34 ibs:914
+a:62 i:35 ibs:915
+a:62 i:36 ibs:916
+a:62 i:37 ibs:917
+a:62 i:38 ibs:918
+a:62 i:39 ibs:919
+a:63 i:0 ibs:920
+a:63 i:1 ibs:921
+a:63 i:2 ibs:922
+a:63 i:3 ibs:923
+a:63 i:4 ibs:924
+a:63 i:5 ibs:925
+a:63 i:6 ibs:926
+a:63 i:7 ibs:927
+a:63 i:8 ibs:928
+a:63 i:9 ibs:929
+a:63 i:10 ibs:930
+a:63 i:11 ibs:931
+a:63 i:12 ibs:932
+a:63 i:13 ibs:933
+a:63 i:14 ibs:934
+a:63 i:15 ibs:935
+a:63 i:16 ibs:936
+a:63 i:17 ibs:937
+a:63 i:18 ibs:938
+a:63 i:19 ibs:939
+a:63 i:20 ibs:940
+a:63 i:21 ibs:941
+a:63 i:22 ibs:942
+a:63 i:23 ibs:943
+a:63 i:24 ibs:944
+a:63 i:25 ibs:945
+a:63 i:26 ibs:946
+a:63 i:27 ibs:947
+a:63 i:28 ibs:948
+a:63 i:29 ibs:949
+a:63 i:30 ibs:950
+a:63 i:31 ibs:951
+a:63 i:32 ibs:952
+a:63 i:33 ibs:953
+a:63 i:34 ibs:954
+a:63 i:35 ibs:955
+a:63 i:36 ibs:956
+a:63 i:37 ibs:957
+a:63 i:38 ibs:958
+a:63 i:39 ibs:959
+Hole States:
+0	0	-0.383664	0.169784	0.355158	739.426816	-0.900858
+1	1	0.286594	0.295774	-0.584816	757.795952	-0.126325
+2	2	0.081812	-0.056570	-0.152974	872.898130	0.068354
+3	3	-0.081813	0.056567	0.152975	872.899932	0.068353
+4	4	-0.259098	-0.067822	0.019664	613.264796	0.245526
+5	5	0.259083	0.067828	-0.019665	613.266718	0.245514
+6	6	-0.004494	-0.111738	-0.045011	743.395337	0.005897
+7	7	0.004490	0.111736	0.045007	743.392859	0.005897
+8	8	-0.253892	0.176278	-0.303831	578.451494	0.137058
+9	9	0.253893	-0.176277	0.303833	578.451176	0.137059
+10	10	0.116856	0.045114	-0.167661	594.753987	-0.235001
+11	11	-0.116855	-0.045113	0.167660	594.754507	-0.235001
+12	12	-0.984587	-0.513969	-0.147661	858.956920	-0.661252
+13	13	0.984588	0.513970	0.147658	858.957293	-0.661249
+14	14	0.506490	-0.863402	1.279738	874.939338	1.319690
+15	15	-0.506489	0.863403	-1.279738	874.939665	1.319690
+16	16	-0.463587	-0.668729	-0.243675	870.669563	1.643575
+17	17	0.463586	0.668727	0.243676	870.669667	1.643574
+18	18	-0.210886	0.260748	-0.114133	730.626566	0.370667
+19	19	0.210886	-0.260749	0.114133	730.626560	0.370667
+20	20	0.396084	0.055724	-0.158305	757.548186	-0.608295
+21	21	-0.396084	-0.055724	0.158305	757.548187	-0.608295
+22	22	-0.094267	0.560492	-0.034371	622.851556	-0.424702
+23	23	0.094267	-0.560492	0.034371	622.851558	-0.424702
+24	24	0.309104	-0.396411	-0.583085	703.938588	-1.411401
+25	25	-0.309104	0.396411	0.583085	703.938589	-1.411401
+26	26	-0.387457	0.137892	0.407853	788.053506	0.689785
+27	27	0.387457	-0.137892	-0.407853	788.053507	0.689785
+28	28	0.619763	-0.302492	1.606274	781.799675	1.007275
+29	29	-0.619764	0.302492	-1.606274	781.799676	1.007275
+30	30	-0.737462	-0.231923	0.036062	804.445199	0.744521
+31	31	0.737462	0.231923	-0.036062	804.445199	0.744521
+32	32	0.038963	0.285732	0.814017	638.096969	-0.976749
+33	33	-0.038963	-0.285732	-0.814017	638.096970	-0.976749
+34	34	-0.225179	0.170260	0.630409	633.716567	-0.208696
+35	35	0.225179	-0.170260	-0.630409	633.716567	-0.208696
+36	36	-0.486379	-0.129223	-0.134965	712.521541	0.547818
+37	37	0.486379	0.129223	0.134965	712.521541	0.547818
+38	38	-0.144626	0.056457	-0.247574	479.961136	-0.469013
+39	39	0.144626	-0.056457	0.247574	479.961136	-0.469013
+Electron States:
+40	40	0.241742	0.051823	-0.582215	388.613020	-0.926658
+41	41	-0.241742	-0.051823	0.582215	388.613020	-0.926658
+42	42	-1.658708	0.676333	0.499490	560.059044	-1.548527
+43	43	1.658708	-0.676333	-0.499490	560.059044	-1.548527
+44	44	-0.598324	-0.370688	0.985209	509.410276	-1.188926
+45	45	0.598324	0.370688	-0.985209	509.410276	-1.188926
+46	46	0.275722	1.376032	0.608622	564.813000	1.362365
+47	47	-0.275722	-1.376032	-0.608622	564.813000	1.362365
+48	48	-1.239601	0.645161	0.059944	711.743091	-1.350437
+49	49	1.239601	-0.645161	-0.059944	711.743097	-1.350437
+50	50	0.921358	-0.753152	-0.674625	585.127957	-1.434875
+51	51	-0.921358	0.753151	0.674625	585.127996	-1.434875
+52	52	-0.071790	0.236113	0.111215	520.631611	-0.580170
+53	53	0.071790	-0.236113	-0.111215	520.631586	-0.580170
+54	54	-1.236025	0.288457	-0.629000	648.477951	-1.996100
+55	55	1.236025	-0.288457	0.629000	648.477839	-1.996100
+56	56	1.449939	-0.600434	0.043091	646.280821	1.862472
+57	57	-1.449937	0.600434	-0.043091	646.279882	1.862471
+58	58	-1.121404	-0.283380	0.833823	625.841957	1.925466
+59	59	1.121405	0.283378	-0.833816	625.842253	1.925467
+60	60	0.320929	-0.830714	-0.135342	615.051949	-1.071374
+61	61	-0.320931	0.830716	0.135343	615.051830	-1.071377
+62	62	0.156308	-0.485299	-0.025214	506.486455	-0.459218
+63	63	-0.210171	0.129948	-0.109167	522.104653	-0.526595
+The number of electron-hole pairs in the exciton basis = 960
+Ground state exciton has energy = 0.0686647150 (1.8684630247 eV) (0.0000000000 Imag)
+
+******************************************************************************
+
+Thu Oct  6 17:19:30 2022

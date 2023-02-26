@@ -1,0 +1,21 @@
+Dirrectory "nx x ny x nz" should contain:
+	Dirrectory conf:
+		conf.par  -- configuration generated from relaxation
+	
+	runScript -- submission script to generate input files. The grid
+	setting will have to expand the number of grid points for larger
+	NCs, and the filter settings need to be adjusted for optimal
+	calculation. 
+
+To run submit runScript via PBS:
+	qsub runScript
+or run on the local machine
+	bash runScript
+
+Scripts will likely need re-configuring to run properly on a new machine
+
+After execution:
+	Dirrectory filter -- results of the single quasiparticle calculation
+
+	Dirrectory bse -- results of the excitonic calculation
+

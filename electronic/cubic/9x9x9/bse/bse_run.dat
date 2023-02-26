@@ -1,0 +1,49 @@
+Sat Nov  5 21:30:07 2022
+
+******************************************************************************
+
+ist->nx = 240	ist->dx = 0.500000
+ist->ny = 240	ist->dy = 0.500000
+ist->nz = 240	ist->dz = 0.500000
+par->espz = 6.1 par->espz = 6.1 par->espz = 6.1
+The number of openMP threads used = 16
+Total # of filtered hole eigenstates = 0
+Total # of filtered electron eigenstates = 0
+The eval.par index of the HOMO state = 0
+The eval.par index of the LUMO state = 0
+The HOMO energy = -0.27006471 -7.34883892
+The LUMO energy = -0.27006471 -7.34883892
+Fundamental gap = 0.0000000000 0.0000000000
+The total number of atoms = 4159
+Number of grid points used: nx = 240  ny = 240  nz = 240
+Length of pseudopotential files, npot = 8192
+Kinetic energy maximum = 10.0000
+Dielectric Constant: epsx = 6.1000 epsy = 6.1000 epsz = 6.1000
+Maximum sigma for an eigenstate, deps = 0.0000
+Energy windows, electrons = 0.2000 holes = 0.1000
+The number of hole eigenstates within 0.1000 of the HOMO energy = 0
+The number of electron eigenstates within 0.2000 of the LUMO energy = 0
+Total number of carrier states, ms = 0
+QD (minimum) dimensions: xd = 58.00 yd = 58.00 zd = 58.00
+Final Box Dimensions: xd = 60 yd = 60 zd = 60
+Gamma = 0.060345
+Grid point spacing: dx = 0.5000 dy = 0.5000 dz = 0.5000 dv = 0.125000 dr = 0.866025
+The index of lowest energy occupied level used = 0
+allocating memory for 0 hole and 0 electron states
+starting to read at offset 0
+-1
+freeing psidummy
+closed ppsiclosed eval and psifreeing evalindex
+freeing psihomo
+freeing psidlumo
+freeing ThingsNumber of hole eigenstates used in the BSE calculation = 0
+Number of electron eigenstates used in the BSE calculation =  0
+Total number of eigenstates used in the BSE calculation = 0
+Hole States:
+Electron States:
+The number of electron-hole pairs in the exciton basis = 0
+Ground state exciton has energy = 0.0000000000 (0.0000000000 eV) (0.0000000000 Imag)
+
+******************************************************************************
+
+Sat Nov  5 21:30:18 2022

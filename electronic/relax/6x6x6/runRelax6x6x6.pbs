@@ -1,0 +1,174 @@
+#!/bin/bash 
+#PBS -N perovRelax6x6x6
+#PBS -l nodes=1:ppn=16:turtle
+#PBS -l mem=120GB
+#PBS -q batch
+
+source /opt/intel/oneapi/setvars.sh
+
+###########################################################################
+				#Edit these#
+###########################################################################
+# Perov build settings
+nXCell=2
+nYCell=2
+nZCell=2
+
+# Grid settings
+nXGrid="176"
+nYGrid="176"
+nZGrid="176"
+dGrid="0.5"
+
+# Filter settings
+nFiltWindows='20'
+nStatePerWindow='16'
+newtonLength='8192'
+vbMin='-0.238'; vbMax='-0.221'
+cbMin='-0.15'; cbMax='-0.135'
+SOFlag='1'
+
+# BSE settings
+epsilon="6.1 6.1 6.1"
+bseDeltaEe="0.2"
+bseDeltaEh="0.1"
+maxElecStates="60"
+maxHoleStates="80"
+sigmaCutoff="0.00001"
+
+
+# OpenMP settings
+export OMP_NUM_THREADS=16
+export OMP_PLACES=threads
+export OMP_PROC_BIND=spread
+
+
+###########################################################################
+###########################################################################
+echo "running on node $(hostname)"
+date
+
+# Define the necessary paths to executables and 
+# pseudopotential files
+#check if running in PBS environment
+if [[ -z "$PBS_O_WORKDIR" ]]; then
+        cwd=$(pwd)
+        scratchDir=$(pwd)
+else
+        cd $PBS_O_WORKDIR
+        cwd=$(pwd)
+        echo "Submit dirrectory:" 
+        echo $cwd
+        scratchDir="/scratch/$PBS_JOBNAME"
+fi
+filtDir="$scratchDir/filter"
+bseDir="$scratchDir/bse"
+pseudoDir="$cwd/../../pots/"
+hfiltDir="$cwd/filter"
+hbseDir="$cwd/bse"
+filtXDir="/home/dweinberg/Projects/rashba/code/perovCubeFilter2"
+bseXDir="/home/dweinberg/Projects/rashba/code/spinor_bse"
+
+
+# Make necessary home and scratch directories
+mkdir -p $filtDir; rm -rf $filtDir/*
+mkdir -p $hfiltDir
+mkdir -p $bseDir; rm -rf $bseDir/*
+mkdir -p $hbseDir
+
+
+# make configuration
+cd $filtDir
+#python ~/scripts/python/perovBuild.py $nXCell $nYCell $nZCell
+cp $cwd/conf/conf.par $filtDir
+
+
+#make filter input.par
+cat > $filtDir/input.par << EOF
+$nXGrid
+$nYGrid
+$nZGrid
+$dGrid
+$nFiltWindows
+$nStatePerWindow
+$newtonLength
+$vbMin $vbMax
+$cbMin $cbMax
+$OMP_NUM_THREADS
+$SOFlag
+EOF
+
+#copy pots for filter
+cp $pseudoDir/cubic/pot_I.dat $filtDir/CpotI.par
+cp $pseudoDir/ortho/pot_I.dat $filtDir/OpotI.par
+cp $pseudoDir/cubic/pot_Cs.dat $filtDir/CpotCs.par
+cp $pseudoDir/ortho/pot_Cs.dat $filtDir/OpotCs.par
+cp $pseudoDir/cubic/pot_Pb.dat $filtDir/CpotPb.par
+cp $pseudoDir/ortho/pot_Pb.dat $filtDir/OpotPb.par
+
+
+cp $pseudoDir/ortho/ISO.dat $filtDir/I_ortho_SO.par
+cp $pseudoDir/cubic/ISO.dat $filtDir/I_cubic_SO.par
+cp $pseudoDir/ortho/CsSO.dat $filtDir/Cs_ortho_SO.par
+cp $pseudoDir/cubic/CsSO.dat $filtDir/Cs_cubic_SO.par
+cp $pseudoDir/ortho/PbSO.dat $filtDir/Pb_ortho_SO.par
+cp $pseudoDir/cubic/PbSO.dat $filtDir/Pb_cubic_SO.par
+
+
+#copy and run filter
+cd $filtDir
+ln -sf $filtXDir/spinOrbitFilter.x $filtDir
+./spinOrbitFilter.x > filter_run.dat
+
+if [ $? -eq 0 ]
+then
+	echo "Done with filter!"
+	date
+else
+	echo "Error in filter!" >&2
+	echo "$(cat error)" >&2
+	exit 1
+fi
+
+
+# move selected output to home dir
+cp $filtDir/eval.dat $hfiltDir
+cp $filtDir/filter_run.dat $hfiltDir
+
+
+# link data for bse
+ln -sf $filtDir/psi.dat $bseDir/psi.par
+cp $filtDir/eval.dat $bseDir/eval.par
+cp $filtDir/conf.par $bseDir/conf.par
+
+#make bse input.par
+cat > $bseDir/input.par << EOF
+$nXGrid $dGrid
+$nYGrid $dGrid
+$nZGrid $dGrid
+$epsilon
+$bseDeltaEe $bseDeltaEh $sigmaCutoff
+$maxElecStates $maxHoleStates
+$OMP_NUM_THREADS
+EOF
+
+# copy and run bse
+cd $bseDir
+ln -sf $bseXDir/bs.x $bseDir
+./bs.x > bse_run.dat
+
+if [ $? -eq 0 ]
+then
+        echo "Done with bse!"
+else
+        echo "Error in bse!" >&2
+        exit 1
+fi
+
+
+# Move BSE results to BSE home directories 
+sort -k 4 OS0.dat > sorted_OS0.dat
+#sort -k 4 M0.dat > sorted_M0.dat
+#sort -k 3 rs.dat > sorted_rs.dat
+cp bse_run.dat exciton.dat OS.dat OS0.dat spins.dat orbital.dat couple.dat BSEeval.par conf.par input.par $hbseDir/ 
+

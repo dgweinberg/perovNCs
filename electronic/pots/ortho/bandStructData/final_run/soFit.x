@@ -1,0 +1,1 @@
+/home/dweinberg/Projects/rashba/code/bandStructFit/soFit.x

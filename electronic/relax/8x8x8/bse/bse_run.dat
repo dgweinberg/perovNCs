@@ -1,0 +1,523 @@
+Tue Oct 18 22:40:26 2022
+
+******************************************************************************
+
+ist->nx = 216	ist->dx = 0.500000
+ist->ny = 216	ist->dy = 0.500000
+ist->nz = 216	ist->dz = 0.500000
+par->espz = 6.1 par->espz = 6.1 par->espz = 6.1
+The number of openMP threads used = 16
+Total # of filtered hole eigenstates = 9
+Total # of filtered electron eigenstates = 27
+The eval.par index of the HOMO state = 72
+The eval.par index of the LUMO state = 74
+The HOMO energy = -0.22851269 -6.21815022
+The LUMO energy = -0.15995495 -4.35259822
+Fundamental gap = 0.0685577370 1.8655520043
+The total number of atoms = 2961
+Number of grid points used: nx = 216  ny = 216  nz = 216
+Length of pseudopotential files, npot = 8192
+Kinetic energy maximum = 10.0000
+Dielectric Constant: epsx = 6.1000 epsy = 6.1000 epsz = 6.1000
+Maximum sigma for an eigenstate, deps = 0.0000
+Energy windows, electrons = 0.2000 holes = 0.1000
+The number of hole eigenstates within 0.1000 of the HOMO energy = 9
+The number of electron eigenstates within 0.2000 of the LUMO energy = 27
+Total number of carrier states, ms = 36
+QD (minimum) dimensions: xd = 52.00 yd = 52.00 zd = 53.00
+Final Box Dimensions: xd = 54 yd = 54 zd = 54
+Gamma = 0.066038
+Grid point spacing: dx = 0.5000 dy = 0.5000 dz = 0.5000 dv = 0.125000 dr = 0.866025
+The index of lowest energy occupied level used = 64
+allocating memory for 9 hole and 27 electron states
+starting to read at offset 72
+71
+moving file head back by 2
+70
+moving file head back by 2
+69
+moving file head back by 2
+68
+moving file head back by 2
+67
+moving file head back by 2
+66
+moving file head back by 2
+65
+moving file head back by 2
+64
+moving file head back by 2
+63
+moving file head back by 2
+tlumo: 0 nstates:9 counter:74
+tlumo: 1 nstates:10 counter:75
+tlumo: 2 nstates:11 counter:76
+tlumo: 3 nstates:12 counter:77
+tlumo: 4 nstates:13 counter:78
+tlumo: 5 nstates:14 counter:79
+tlumo: 6 nstates:15 counter:80
+tlumo: 7 nstates:16 counter:81
+tlumo: 8 nstates:17 counter:82
+tlumo: 9 nstates:18 counter:83
+tlumo: 10 nstates:19 counter:84
+tlumo: 11 nstates:20 counter:85
+tlumo: 12 nstates:21 counter:86
+tlumo: 13 nstates:22 counter:87
+tlumo: 14 nstates:23 counter:88
+tlumo: 15 nstates:24 counter:89
+tlumo: 16 nstates:25 counter:90
+tlumo: 17 nstates:26 counter:91
+tlumo: 18 nstates:27 counter:92
+tlumo: 19 nstates:28 counter:93
+tlumo: 20 nstates:29 counter:94
+tlumo: 21 nstates:30 counter:95
+tlumo: 22 nstates:31 counter:96
+tlumo: 23 nstates:32 counter:97
+tlumo: 24 nstates:33 counter:98
+tlumo: 25 nstates:34 counter:99
+tlumo: 25 nstates:34 counter:100
+tlumo: 25 nstates:34 counter:101
+tlumo: 25 nstates:34 counter:102
+tlumo: 26 nstates:35 counter:103
+tlumo: 26 nstates:35 counter:104
+tlumo: 26 nstates:35 counter:105
+tlumo: 26 nstates:35 counter:106
+tlumo: 27 nstates:36 counter:107
+freeing psidummy
+closed ppsiclosed eval and psifreeing evalindex
+freeing psihomo
+freeing psidlumo
+freeing ThingsNumber of hole eigenstates used in the BSE calculation = 9
+Number of electron eigenstates used in the BSE calculation =  27
+Total number of eigenstates used in the BSE calculation = 36
+
+Stats on state0: (E=-0.234904)
+ Spin up fraction: 0.898490
+ Spin dn fraction: 0.101510
+
+Stats on state1: (E=-0.232027)
+ Spin up fraction: 0.352144
+ Spin dn fraction: 0.647856
+
+Stats on state2: (E=-0.232027)
+ Spin up fraction: 0.647856
+ Spin dn fraction: 0.352144
+
+Stats on state3: (E=-0.231633)
+ Spin up fraction: 0.053732
+ Spin dn fraction: 0.946268
+
+Stats on state4: (E=-0.231633)
+ Spin up fraction: 0.946268
+ Spin dn fraction: 0.053732
+
+Stats on state5: (E=-0.231488)
+ Spin up fraction: 0.299254
+ Spin dn fraction: 0.700746
+
+Stats on state6: (E=-0.231488)
+ Spin up fraction: 0.700746
+ Spin dn fraction: 0.299254
+
+Stats on state7: (E=-0.228513)
+ Spin up fraction: 0.421823
+ Spin dn fraction: 0.578177
+
+Stats on state8: (E=-0.228513)
+ Spin up fraction: 0.578177
+ Spin dn fraction: 0.421823
+
+Stats on state9: (E=-0.159955)
+ Spin up fraction: 0.431972
+ Spin dn fraction: 0.568028
+
+Stats on state10: (E=-0.159955)
+ Spin up fraction: 0.568028
+ Spin dn fraction: 0.431972
+
+Stats on state11: (E=-0.157673)
+ Spin up fraction: 0.541948
+ Spin dn fraction: 0.458052
+
+Stats on state12: (E=-0.157673)
+ Spin up fraction: 0.458052
+ Spin dn fraction: 0.541948
+
+Stats on state13: (E=-0.157297)
+ Spin up fraction: 0.562598
+ Spin dn fraction: 0.437402
+
+Stats on state14: (E=-0.157297)
+ Spin up fraction: 0.437402
+ Spin dn fraction: 0.562598
+
+Stats on state15: (E=-0.156511)
+ Spin up fraction: 0.325520
+ Spin dn fraction: 0.674480
+
+Stats on state16: (E=-0.156511)
+ Spin up fraction: 0.674480
+ Spin dn fraction: 0.325520
+
+Stats on state17: (E=-0.154655)
+ Spin up fraction: 0.489376
+ Spin dn fraction: 0.510624
+
+Stats on state18: (E=-0.154655)
+ Spin up fraction: 0.510624
+ Spin dn fraction: 0.489376
+
+Stats on state19: (E=-0.153932)
+ Spin up fraction: 0.497728
+ Spin dn fraction: 0.502272
+
+Stats on state20: (E=-0.153932)
+ Spin up fraction: 0.502272
+ Spin dn fraction: 0.497728
+
+Stats on state21: (E=-0.153864)
+ Spin up fraction: 0.560064
+ Spin dn fraction: 0.439936
+
+Stats on state22: (E=-0.153864)
+ Spin up fraction: 0.439936
+ Spin dn fraction: 0.560064
+
+Stats on state23: (E=-0.153299)
+ Spin up fraction: 0.600850
+ Spin dn fraction: 0.399150
+
+Stats on state24: (E=-0.153299)
+ Spin up fraction: 0.399150
+ Spin dn fraction: 0.600850
+
+Stats on state25: (E=-0.153254)
+ Spin up fraction: 0.488420
+ Spin dn fraction: 0.511580
+
+Stats on state26: (E=-0.153254)
+ Spin up fraction: 0.511580
+ Spin dn fraction: 0.488420
+
+Stats on state27: (E=-0.152816)
+ Spin up fraction: 0.390715
+ Spin dn fraction: 0.609285
+
+Stats on state28: (E=-0.152816)
+ Spin up fraction: 0.609285
+ Spin dn fraction: 0.390715
+
+Stats on state29: (E=-0.150881)
+ Spin up fraction: 0.499032
+ Spin dn fraction: 0.500968
+
+Stats on state30: (E=-0.150881)
+ Spin up fraction: 0.500968
+ Spin dn fraction: 0.499032
+
+Stats on state31: (E=-0.150718)
+ Spin up fraction: 0.511002
+ Spin dn fraction: 0.488998
+
+Stats on state32: (E=-0.150718)
+ Spin up fraction: 0.488997
+ Spin dn fraction: 0.511003
+
+Stats on state33: (E=-0.150393)
+ Spin up fraction: 0.450221
+ Spin dn fraction: 0.549779
+
+Stats on state34: (E=-0.149899)
+ Spin up fraction: 0.542303
+ Spin dn fraction: 0.457697
+
+Stats on state35: (E=-0.149419)
+ Spin up fraction: 0.502087
+ Spin dn fraction: 0.497913
+a:9 i:0 ibs:0
+a:9 i:1 ibs:1
+a:9 i:2 ibs:2
+a:9 i:3 ibs:3
+a:9 i:4 ibs:4
+a:9 i:5 ibs:5
+a:9 i:6 ibs:6
+a:9 i:7 ibs:7
+a:9 i:8 ibs:8
+a:10 i:0 ibs:9
+a:10 i:1 ibs:10
+a:10 i:2 ibs:11
+a:10 i:3 ibs:12
+a:10 i:4 ibs:13
+a:10 i:5 ibs:14
+a:10 i:6 ibs:15
+a:10 i:7 ibs:16
+a:10 i:8 ibs:17
+a:11 i:0 ibs:18
+a:11 i:1 ibs:19
+a:11 i:2 ibs:20
+a:11 i:3 ibs:21
+a:11 i:4 ibs:22
+a:11 i:5 ibs:23
+a:11 i:6 ibs:24
+a:11 i:7 ibs:25
+a:11 i:8 ibs:26
+a:12 i:0 ibs:27
+a:12 i:1 ibs:28
+a:12 i:2 ibs:29
+a:12 i:3 ibs:30
+a:12 i:4 ibs:31
+a:12 i:5 ibs:32
+a:12 i:6 ibs:33
+a:12 i:7 ibs:34
+a:12 i:8 ibs:35
+a:13 i:0 ibs:36
+a:13 i:1 ibs:37
+a:13 i:2 ibs:38
+a:13 i:3 ibs:39
+a:13 i:4 ibs:40
+a:13 i:5 ibs:41
+a:13 i:6 ibs:42
+a:13 i:7 ibs:43
+a:13 i:8 ibs:44
+a:14 i:0 ibs:45
+a:14 i:1 ibs:46
+a:14 i:2 ibs:47
+a:14 i:3 ibs:48
+a:14 i:4 ibs:49
+a:14 i:5 ibs:50
+a:14 i:6 ibs:51
+a:14 i:7 ibs:52
+a:14 i:8 ibs:53
+a:15 i:0 ibs:54
+a:15 i:1 ibs:55
+a:15 i:2 ibs:56
+a:15 i:3 ibs:57
+a:15 i:4 ibs:58
+a:15 i:5 ibs:59
+a:15 i:6 ibs:60
+a:15 i:7 ibs:61
+a:15 i:8 ibs:62
+a:16 i:0 ibs:63
+a:16 i:1 ibs:64
+a:16 i:2 ibs:65
+a:16 i:3 ibs:66
+a:16 i:4 ibs:67
+a:16 i:5 ibs:68
+a:16 i:6 ibs:69
+a:16 i:7 ibs:70
+a:16 i:8 ibs:71
+a:17 i:0 ibs:72
+a:17 i:1 ibs:73
+a:17 i:2 ibs:74
+a:17 i:3 ibs:75
+a:17 i:4 ibs:76
+a:17 i:5 ibs:77
+a:17 i:6 ibs:78
+a:17 i:7 ibs:79
+a:17 i:8 ibs:80
+a:18 i:0 ibs:81
+a:18 i:1 ibs:82
+a:18 i:2 ibs:83
+a:18 i:3 ibs:84
+a:18 i:4 ibs:85
+a:18 i:5 ibs:86
+a:18 i:6 ibs:87
+a:18 i:7 ibs:88
+a:18 i:8 ibs:89
+a:19 i:0 ibs:90
+a:19 i:1 ibs:91
+a:19 i:2 ibs:92
+a:19 i:3 ibs:93
+a:19 i:4 ibs:94
+a:19 i:5 ibs:95
+a:19 i:6 ibs:96
+a:19 i:7 ibs:97
+a:19 i:8 ibs:98
+a:20 i:0 ibs:99
+a:20 i:1 ibs:100
+a:20 i:2 ibs:101
+a:20 i:3 ibs:102
+a:20 i:4 ibs:103
+a:20 i:5 ibs:104
+a:20 i:6 ibs:105
+a:20 i:7 ibs:106
+a:20 i:8 ibs:107
+a:21 i:0 ibs:108
+a:21 i:1 ibs:109
+a:21 i:2 ibs:110
+a:21 i:3 ibs:111
+a:21 i:4 ibs:112
+a:21 i:5 ibs:113
+a:21 i:6 ibs:114
+a:21 i:7 ibs:115
+a:21 i:8 ibs:116
+a:22 i:0 ibs:117
+a:22 i:1 ibs:118
+a:22 i:2 ibs:119
+a:22 i:3 ibs:120
+a:22 i:4 ibs:121
+a:22 i:5 ibs:122
+a:22 i:6 ibs:123
+a:22 i:7 ibs:124
+a:22 i:8 ibs:125
+a:23 i:0 ibs:126
+a:23 i:1 ibs:127
+a:23 i:2 ibs:128
+a:23 i:3 ibs:129
+a:23 i:4 ibs:130
+a:23 i:5 ibs:131
+a:23 i:6 ibs:132
+a:23 i:7 ibs:133
+a:23 i:8 ibs:134
+a:24 i:0 ibs:135
+a:24 i:1 ibs:136
+a:24 i:2 ibs:137
+a:24 i:3 ibs:138
+a:24 i:4 ibs:139
+a:24 i:5 ibs:140
+a:24 i:6 ibs:141
+a:24 i:7 ibs:142
+a:24 i:8 ibs:143
+a:25 i:0 ibs:144
+a:25 i:1 ibs:145
+a:25 i:2 ibs:146
+a:25 i:3 ibs:147
+a:25 i:4 ibs:148
+a:25 i:5 ibs:149
+a:25 i:6 ibs:150
+a:25 i:7 ibs:151
+a:25 i:8 ibs:152
+a:26 i:0 ibs:153
+a:26 i:1 ibs:154
+a:26 i:2 ibs:155
+a:26 i:3 ibs:156
+a:26 i:4 ibs:157
+a:26 i:5 ibs:158
+a:26 i:6 ibs:159
+a:26 i:7 ibs:160
+a:26 i:8 ibs:161
+a:27 i:0 ibs:162
+a:27 i:1 ibs:163
+a:27 i:2 ibs:164
+a:27 i:3 ibs:165
+a:27 i:4 ibs:166
+a:27 i:5 ibs:167
+a:27 i:6 ibs:168
+a:27 i:7 ibs:169
+a:27 i:8 ibs:170
+a:28 i:0 ibs:171
+a:28 i:1 ibs:172
+a:28 i:2 ibs:173
+a:28 i:3 ibs:174
+a:28 i:4 ibs:175
+a:28 i:5 ibs:176
+a:28 i:6 ibs:177
+a:28 i:7 ibs:178
+a:28 i:8 ibs:179
+a:29 i:0 ibs:180
+a:29 i:1 ibs:181
+a:29 i:2 ibs:182
+a:29 i:3 ibs:183
+a:29 i:4 ibs:184
+a:29 i:5 ibs:185
+a:29 i:6 ibs:186
+a:29 i:7 ibs:187
+a:29 i:8 ibs:188
+a:30 i:0 ibs:189
+a:30 i:1 ibs:190
+a:30 i:2 ibs:191
+a:30 i:3 ibs:192
+a:30 i:4 ibs:193
+a:30 i:5 ibs:194
+a:30 i:6 ibs:195
+a:30 i:7 ibs:196
+a:30 i:8 ibs:197
+a:31 i:0 ibs:198
+a:31 i:1 ibs:199
+a:31 i:2 ibs:200
+a:31 i:3 ibs:201
+a:31 i:4 ibs:202
+a:31 i:5 ibs:203
+a:31 i:6 ibs:204
+a:31 i:7 ibs:205
+a:31 i:8 ibs:206
+a:32 i:0 ibs:207
+a:32 i:1 ibs:208
+a:32 i:2 ibs:209
+a:32 i:3 ibs:210
+a:32 i:4 ibs:211
+a:32 i:5 ibs:212
+a:32 i:6 ibs:213
+a:32 i:7 ibs:214
+a:32 i:8 ibs:215
+a:33 i:0 ibs:216
+a:33 i:1 ibs:217
+a:33 i:2 ibs:218
+a:33 i:3 ibs:219
+a:33 i:4 ibs:220
+a:33 i:5 ibs:221
+a:33 i:6 ibs:222
+a:33 i:7 ibs:223
+a:33 i:8 ibs:224
+a:34 i:0 ibs:225
+a:34 i:1 ibs:226
+a:34 i:2 ibs:227
+a:34 i:3 ibs:228
+a:34 i:4 ibs:229
+a:34 i:5 ibs:230
+a:34 i:6 ibs:231
+a:34 i:7 ibs:232
+a:34 i:8 ibs:233
+a:35 i:0 ibs:234
+a:35 i:1 ibs:235
+a:35 i:2 ibs:236
+a:35 i:3 ibs:237
+a:35 i:4 ibs:238
+a:35 i:5 ibs:239
+a:35 i:6 ibs:240
+a:35 i:7 ibs:241
+a:35 i:8 ibs:242
+Hole States:
+0	0	0.093844	-0.216642	-0.169823	1612.737400	0.180091
+1	1	0.506587	-0.537378	-0.118212	1418.927092	-0.654701
+2	2	-0.506587	0.537378	0.118211	1418.927102	-0.654701
+3	3	0.079165	0.137267	-0.507346	1349.165170	-0.749492
+4	4	-0.079165	-0.137267	0.507345	1349.165188	-0.749492
+5	5	0.227430	0.227610	0.041583	1343.846202	0.007124
+6	6	-0.227430	-0.227610	-0.041583	1343.846174	0.007124
+7	7	-0.376304	-0.164117	-0.066774	1042.980141	-0.636922
+8	8	0.376304	0.164117	0.066774	1042.980134	-0.636922
+Electron States:
+9	9	-0.571396	-0.584983	0.486450	924.525460	-1.421746
+10	10	0.571392	0.584980	-0.486448	924.525704	-1.421743
+11	11	-0.736886	-0.163620	-0.128644	1144.445520	-1.249263
+12	12	0.736884	0.163624	0.128662	1144.445221	-1.249266
+13	13	-0.303198	0.392422	-0.478867	1145.942053	-1.063583
+14	14	0.303187	-0.392435	0.478902	1145.942068	-1.063592
+15	15	-0.272960	-0.176980	0.750566	1268.277199	-0.710779
+16	16	0.272961	0.176981	-0.750563	1268.277688	-0.710781
+17	17	0.711861	-1.087149	0.183811	1357.258946	-1.547589
+18	18	-0.711876	1.087144	-0.183768	1357.259042	-1.547586
+19	19	-0.433281	1.216586	-0.063293	1200.957660	-0.852622
+20	20	0.433281	-1.216588	0.063331	1200.957407	-0.852623
+21	21	-0.521466	-0.070310	-0.874506	1307.616697	-2.354566
+22	22	0.521453	0.070296	0.874514	1307.616104	-2.354569
+23	23	-0.764194	-0.741586	-1.735121	1440.725665	-1.109584
+24	24	0.764194	0.741586	1.735189	1440.726337	-1.109602
+25	25	-0.823284	-1.310917	-0.140323	1282.757477	1.480237
+26	26	0.823282	1.310918	0.140339	1282.758672	1.480239
+27	27	-0.628420	0.625886	0.491140	1235.635683	0.343458
+28	28	0.628382	-0.625925	-0.491090	1235.635623	0.343463
+29	29	1.219987	-0.907339	-1.929120	1386.257393	-2.896782
+30	30	-1.219995	0.907339	1.929153	1386.270683	-2.896814
+31	31	-0.882355	1.412274	-0.055602	1430.651515	-2.571805
+32	32	0.882375	-1.412275	0.055643	1430.645409	-2.571796
+33	33	0.293182	0.304823	2.444932	1349.611842	0.137192
+34	34	-0.503082	-0.525026	-0.593065	1393.480334	-0.576474
+35	35	0.084767	-0.078254	0.505323	1270.368501	-0.827626
+The number of electron-hole pairs in the exciton basis = 243
+Ground state exciton has energy = 0.0639194924 (1.7393388753 eV) (0.0000000000 Imag)
+
+******************************************************************************
+
+Wed Oct 19 00:00:19 2022

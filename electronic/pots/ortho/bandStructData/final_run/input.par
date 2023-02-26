@@ -1,0 +1,16 @@
+nBandStructures = 1
+nAtoms = 20
+nBands = 128
+maxKE = 7.00
+nIterations = 000
+nKPoints = 51
+beta = 10 10
+stepSize = 0.5 0.7
+stepsAtTemp = 0 0
+indexGap = 2
+indexVB = 103
+indexCB = 104
+effMassWeight = 0.0 
+defWeight = 0
+nThreads = 16
+SOWidth = 0.7

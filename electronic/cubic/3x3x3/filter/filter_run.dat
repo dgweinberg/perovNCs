@@ -1,0 +1,591 @@
+This calculation began at: Fri Sep 23 14:38:24 2022
+input as read from input.par
+nx = 92	ny = 92	nz = 92
+dx = 0.5
+ms = 40	ns = 32	nc = 4096
+VBmin = -0.3	, VBmzx=-0.23
+CBmin = -0.16	, CBmzx=-0.1
+nthreads = 16
+flagSO = 1
+flagCenter = 194
+natomtype = 1
+Found new atom with Zval: 55
+The atoms so far found are [ 55 ]
+natomtype = 2
+Found new atom with Zval: 53
+The atoms so far found are [ 55 53 ]
+natomtype = 3
+Found new atom with Zval: 82
+The atoms so far found are [ 55 53 82 ]
+atom 0 (Cs) is dumb
+atom 1 (I) is an edge atom (nbonded=1)
+atom 2 (I) is an edge atom (nbonded=1)
+atom 3 (Cs) is dumb
+atom 4 (Cs) is dumb
+atom 5 (Cs) is dumb
+atom 6 (I) is an edge atom (nbonded=1)
+atom 7 (I) is an edge atom (nbonded=1)
+atom 8 (I) is an edge atom (nbonded=1)
+atom 9 (I) is an edge atom (nbonded=1)
+atom 10 (I) has bond angle 180
+atom 11 (Cs) is dumb
+atom 12 (Cs) is dumb
+atom 13 (I) is an edge atom (nbonded=1)
+atom 14 (Cs) is dumb
+atom 15 (Cs) is dumb
+atom 16 (Cs) is dumb
+atom 17 (Cs) is dumb
+atom 18 (I) has bond angle 180
+atom 19 (I) is an edge atom (nbonded=1)
+atom 20 (I) is an edge atom (nbonded=1)
+atom 21 (Cs) is dumb
+atom 22 (Cs) is dumb
+atom 23 (Cs) is dumb
+atom 24 (Cs) is dumb
+atom 25 (I) is an edge atom (nbonded=1)
+atom 26 (I) has bond angle 180
+atom 27 (I) is an edge atom (nbonded=1)
+atom 28 (I) is an edge atom (nbonded=1)
+atom 29 (I) has bond angle 180
+atom 30 (I) is an edge atom (nbonded=1)
+atom 31 (I) has bond angle 180
+atom 32 (I) has bond angle 180
+atom 33 (Cs) is dumb
+atom 34 (Cs) is dumb
+atom 35 (I) is an edge atom (nbonded=1)
+atom 36 (I) is an edge atom (nbonded=1)
+atom 37 (Cs) is dumb
+atom 38 (Cs) is dumb
+atom 39 (I) has bond angle 180
+atom 40 (I) has bond angle 180
+atom 41 (I) is an edge atom (nbonded=1)
+atom 42 (I) is an edge atom (nbonded=1)
+atom 43 (Cs) is dumb
+atom 44 (Cs) is dumb
+atom 45 (Cs) is dumb
+atom 46 (Cs) is dumb
+atom 51 (I) has bond angle 180
+atom 52 (I) has bond angle 180
+atom 53 (I) has bond angle 180
+atom 54 (I) has bond angle 180
+atom 55 (I) has bond angle 180
+atom 56 (I) has bond angle 180
+atom 57 (I) has bond angle 180
+atom 58 (I) has bond angle 180
+atom 59 (I) has bond angle 180
+atom 60 (I) has bond angle 180
+atom 61 (I) has bond angle 180
+atom 62 (I) has bond angle 180
+atom 63 (Cs) is dumb
+atom 64 (Cs) is dumb
+atom 67 (I) has bond angle 180
+atom 68 (I) has bond angle 180
+atom 69 (I) is an edge atom (nbonded=1)
+atom 70 (I) is an edge atom (nbonded=1)
+atom 71 (Cs) is dumb
+atom 72 (I) is an edge atom (nbonded=1)
+atom 73 (I) is an edge atom (nbonded=1)
+atom 74 (I) is an edge atom (nbonded=1)
+atom 75 (Cs) is dumb
+atom 76 (Cs) is dumb
+atom 77 (Cs) is dumb
+atom 80 (I) is an edge atom (nbonded=1)
+atom 81 (I) has bond angle 180
+atom 82 (I) is an edge atom (nbonded=1)
+atom 83 (I) is an edge atom (nbonded=1)
+atom 84 (I) has bond angle 180
+atom 85 (I) is an edge atom (nbonded=1)
+atom 86 (I) has bond angle 180
+atom 87 (I) has bond angle 180
+atom 88 (Cs) is dumb
+atom 89 (Cs) is dumb
+atom 91 (I) is an edge atom (nbonded=1)
+atom 92 (I) has bond angle 180
+atom 93 (Cs) is dumb
+atom 94 (Cs) is dumb
+atom 95 (Cs) is dumb
+atom 96 (Cs) is dumb
+atom 97 (Cs) is dumb
+atom 98 (Cs) is dumb
+atom 99 (I) is an edge atom (nbonded=1)
+atom 100 (I) has bond angle 180
+atom 101 (Cs) is dumb
+atom 102 (Cs) is dumb
+atom 103 (Cs) is dumb
+atom 106 (I) is an edge atom (nbonded=1)
+atom 107 (I) is an edge atom (nbonded=1)
+atom 108 (I) has bond angle 180
+atom 109 (I) is an edge atom (nbonded=1)
+atom 110 (I) is an edge atom (nbonded=1)
+atom 111 (I) has bond angle 180
+atom 112 (I) has bond angle 180
+atom 113 (I) has bond angle 180
+atom 114 (Cs) is dumb
+atom 116 (I) is an edge atom (nbonded=1)
+atom 117 (I) is an edge atom (nbonded=1)
+atom 118 (I) is an edge atom (nbonded=1)
+atom 119 (Cs) is dumb
+atom 120 (Cs) is dumb
+atom 121 (I) has bond angle 180
+atom 122 (I) has bond angle 180
+atom 123 (I) is an edge atom (nbonded=1)
+atom 124 (I) is an edge atom (nbonded=1)
+atom 125 (Cs) is dumb
+atom 126 (Cs) is dumb
+atom 127 (Cs) is dumb
+atom 128 (Cs) is dumb
+atom 133 (I) has bond angle 180
+atom 134 (I) has bond angle 180
+atom 135 (I) has bond angle 180
+atom 136 (I) has bond angle 180
+atom 137 (I) has bond angle 180
+atom 138 (I) has bond angle 180
+atom 139 (I) has bond angle 180
+atom 140 (I) has bond angle 180
+atom 141 (I) has bond angle 180
+atom 142 (I) has bond angle 180
+atom 143 (I) has bond angle 180
+atom 144 (I) has bond angle 180
+atom 145 (Cs) is dumb
+atom 146 (Cs) is dumb
+atom 149 (I) has bond angle 180
+atom 150 (I) has bond angle 180
+atom 151 (I) is an edge atom (nbonded=1)
+atom 152 (I) is an edge atom (nbonded=1)
+atom 153 (Cs) is dumb
+atom 154 (Cs) is dumb
+atom 155 (I) is an edge atom (nbonded=1)
+atom 156 (I) is an edge atom (nbonded=1)
+atom 157 (Cs) is dumb
+atom 158 (Cs) is dumb
+atom 159 (Cs) is dumb
+atom 160 (Cs) is dumb
+atom 165 (I) has bond angle 180
+atom 166 (I) is an edge atom (nbonded=1)
+atom 167 (I) is an edge atom (nbonded=1)
+atom 168 (I) has bond angle 180
+atom 169 (I) is an edge atom (nbonded=1)
+atom 170 (I) is an edge atom (nbonded=1)
+atom 171 (I) has bond angle 180
+atom 172 (I) has bond angle 180
+atom 173 (Cs) is dumb
+atom 174 (Cs) is dumb
+atom 177 (I) has bond angle 180
+atom 178 (I) is an edge atom (nbonded=1)
+atom 179 (I) is an edge atom (nbonded=1)
+atom 180 (Cs) is dumb
+atom 181 (Cs) is dumb
+atom 182 (Cs) is dumb
+atom 183 (Cs) is dumb
+atom 184 (I) is an edge atom (nbonded=1)
+atom 185 (Cs) is dumb
+atom 186 (Cs) is dumb
+atom 187 (Cs) is dumb
+atom 190 (I) is an edge atom (nbonded=1)
+atom 191 (I) is an edge atom (nbonded=1)
+atom 192 (I) is an edge atom (nbonded=1)
+atom 193 (I) is an edge atom (nbonded=1)
+atom 194 (I) has bond angle 180
+atom 195 (Cs) is dumb
+atom 197 (I) is an edge atom (nbonded=1)
+atom 198 (I) is an edge atom (nbonded=1)
+atom 47 (Pb) has neighbors with pars {0, 1, 0, 1, 0, 0} (ave: 0.333333) 
+atom 48 (Pb) has neighbors with pars {1, 1, 1, 0, 0, 0} (ave: 0.5) 
+atom 49 (Pb) has neighbors with pars {0, 1, 0, 0, 0, 0} (ave: 0.166667) 
+atom 50 (Pb) has neighbors with pars {1, 1, 0, 0, 0, 0} (ave: 0.333333) 
+atom 65 (Pb) has neighbors with pars {0, 1, 1, 0, 0, 0} (ave: 0.333333) 
+atom 66 (Pb) has neighbors with pars {1, 0, 1, 0, 0, 1} (ave: 0.5) 
+atom 78 (Pb) has neighbors with pars {0, 0, 0, 1, 1, 0} (ave: 0.333333) 
+atom 79 (Pb) has neighbors with pars {0, 0, 0, 1, 0, 0} (ave: 0.166667) 
+atom 90 (Pb) has neighbors with pars {0, 0, 1, 0, 1, 0} (ave: 0.333333) 
+atom 104 (Pb) has neighbors with pars {0, 1, 1, 0, 1, 0} (ave: 0.5) 
+atom 105 (Pb) has neighbors with pars {1, 0, 0, 1, 0, 0} (ave: 0.333333) 
+atom 115 (Pb) has neighbors with pars {0, 0, 1, 0, 1, 1} (ave: 0.5) 
+atom 129 (Pb) has neighbors with pars {1, 0, 0, 1, 0, 0} (ave: 0.333333) 
+atom 130 (Pb) has neighbors with pars {0, 1, 0, 0, 0, 0} (ave: 0.166667) 
+atom 131 (Pb) has neighbors with pars {1, 0, 0, 0, 0, 0} (ave: 0.166667) 
+atom 132 (Pb) has neighbors with pars {0, 0, 0, 0, 0, 0} (ave: 0) 
+atom 147 (Pb) has neighbors with pars {1, 0, 1, 0, 0, 0} (ave: 0.333333) 
+atom 148 (Pb) has neighbors with pars {0, 0, 0, 0, 0, 1} (ave: 0.166667) 
+atom 161 (Pb) has neighbors with pars {0, 0, 0, 1, 0, 1} (ave: 0.333333) 
+atom 162 (Pb) has neighbors with pars {1, 1, 0, 1, 0, 0} (ave: 0.5) 
+atom 163 (Pb) has neighbors with pars {0, 0, 0, 0, 1, 0} (ave: 0.166667) 
+atom 164 (Pb) has neighbors with pars {0, 1, 0, 0, 1, 0} (ave: 0.333333) 
+atom 175 (Pb) has neighbors with pars {0, 0, 1, 0, 0, 1} (ave: 0.333333) 
+atom 176 (Pb) has neighbors with pars {1, 0, 0, 1, 0, 1} (ave: 0.5) 
+atom 188 (Pb) has neighbors with pars {0, 1, 0, 1, 1, 0} (ave: 0.5) 
+atom 189 (Pb) has neighbors with pars {0, 0, 0, 1, 1, 0} (ave: 0.333333) 
+atom 196 (Pb) has neighbors with pars {0, 0, 0, 1, 1, 1} (ave: 0.5) 
+nnonlocal = 199
+xd = 23 yd = 23 zd = 23
+new xd = 23 yd = 23 zd = 23
+Final Calculation parameters:
+nx = 92  ny = 92  nz = 92 npot = 8192
+ms = 40  ns = 32 natom = 199 nc = 4096
+VBmin = -0.3	, VBmzx=-0.23
+CBmin = -0.16	, CBmzx=-0.1
+ngrid = 778688 nspin = 2
+threads = 16
+Rnlcut = 4.10067
+natomtype = 3
+init
+dx = 0.5 dy = 0.5 dz = 0.5 dv = 0.125 dr = 0.866025
+read pot..CpotCs.datOpotCs.datCpotI.datOpotI.datCpotPb.datOpotPb.datdone
+dV = 2.0464 Vmin = -1.29684 Vmax = 0.749556
+dT = 59.2176
+Del VB: 0.0035
+Del CB: 0.003
+nn = 108
+homo = 431 lumo = 432
+nnlc = 2325
+gen_projectors: dsyev exit: 0
+Projector dr = 0.004005
+For atom 0 with Zval 55 we have l1=0 l2=0.000000
+For atom 1 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 2 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 3 with Zval 55 we have l1=0 l2=0.000000
+For atom 4 with Zval 55 we have l1=0 l2=0.000000
+For atom 5 with Zval 55 we have l1=0 l2=0.000000
+For atom 6 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 7 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 8 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 9 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 10 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 11 with Zval 55 we have l1=0 l2=0.000000
+For atom 12 with Zval 55 we have l1=0 l2=0.000000
+For atom 13 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 14 with Zval 55 we have l1=0 l2=0.000000
+For atom 15 with Zval 55 we have l1=0 l2=0.000000
+For atom 16 with Zval 55 we have l1=0 l2=0.000000
+For atom 17 with Zval 55 we have l1=0 l2=0.000000
+For atom 18 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 19 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 20 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 21 with Zval 55 we have l1=0 l2=0.000000
+For atom 22 with Zval 55 we have l1=0 l2=0.000000
+For atom 23 with Zval 55 we have l1=0 l2=0.000000
+For atom 24 with Zval 55 we have l1=0 l2=0.000000
+For atom 25 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 26 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 27 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 28 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 29 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 30 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 31 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 32 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 33 with Zval 55 we have l1=0 l2=0.000000
+For atom 34 with Zval 55 we have l1=0 l2=0.000000
+For atom 35 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 36 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 37 with Zval 55 we have l1=0 l2=0.000000
+For atom 38 with Zval 55 we have l1=0 l2=0.000000
+For atom 39 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 40 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 41 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 42 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 43 with Zval 55 we have l1=0 l2=0.000000
+For atom 44 with Zval 55 we have l1=0 l2=0.000000
+For atom 45 with Zval 55 we have l1=0 l2=0.000000
+For atom 46 with Zval 55 we have l1=0 l2=0.000000
+For atom 47 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 48 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 49 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 50 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 51 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 52 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 53 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 54 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 55 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 56 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 57 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 58 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 59 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 60 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 61 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 62 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 63 with Zval 55 we have l1=0 l2=0.000000
+For atom 64 with Zval 55 we have l1=0 l2=0.000000
+For atom 65 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 66 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 67 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 68 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 69 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 70 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 71 with Zval 55 we have l1=0 l2=0.000000
+For atom 72 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 73 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 74 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 75 with Zval 55 we have l1=0 l2=0.000000
+For atom 76 with Zval 55 we have l1=0 l2=0.000000
+For atom 77 with Zval 55 we have l1=0 l2=0.000000
+For atom 78 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 79 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 80 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 81 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 82 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 83 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 84 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 85 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 86 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 87 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 88 with Zval 55 we have l1=0 l2=0.000000
+For atom 89 with Zval 55 we have l1=0 l2=0.000000
+For atom 90 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 91 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 92 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 93 with Zval 55 we have l1=0 l2=0.000000
+For atom 94 with Zval 55 we have l1=0 l2=0.000000
+For atom 95 with Zval 55 we have l1=0 l2=0.000000
+For atom 96 with Zval 55 we have l1=0 l2=0.000000
+For atom 97 with Zval 55 we have l1=0 l2=0.000000
+For atom 98 with Zval 55 we have l1=0 l2=0.000000
+For atom 99 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 100 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 101 with Zval 55 we have l1=0 l2=0.000000
+For atom 102 with Zval 55 we have l1=0 l2=0.000000
+For atom 103 with Zval 55 we have l1=0 l2=0.000000
+For atom 104 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 105 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 106 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 107 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 108 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 109 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 110 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 111 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 112 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 113 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 114 with Zval 55 we have l1=0 l2=0.000000
+For atom 115 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 116 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 117 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 118 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 119 with Zval 55 we have l1=0 l2=0.000000
+For atom 120 with Zval 55 we have l1=0 l2=0.000000
+For atom 121 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 122 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 123 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 124 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 125 with Zval 55 we have l1=0 l2=0.000000
+For atom 126 with Zval 55 we have l1=0 l2=0.000000
+For atom 127 with Zval 55 we have l1=0 l2=0.000000
+For atom 128 with Zval 55 we have l1=0 l2=0.000000
+For atom 129 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 130 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 131 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 132 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 133 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 134 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 135 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 136 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 137 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 138 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 139 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 140 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 141 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 142 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 143 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 144 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 145 with Zval 55 we have l1=0 l2=0.000000
+For atom 146 with Zval 55 we have l1=0 l2=0.000000
+For atom 147 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 148 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 149 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 150 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 151 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 152 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 153 with Zval 55 we have l1=0 l2=0.000000
+For atom 154 with Zval 55 we have l1=0 l2=0.000000
+For atom 155 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 156 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 157 with Zval 55 we have l1=0 l2=0.000000
+For atom 158 with Zval 55 we have l1=0 l2=0.000000
+For atom 159 with Zval 55 we have l1=0 l2=0.000000
+For atom 160 with Zval 55 we have l1=0 l2=0.000000
+For atom 161 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 162 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 163 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 164 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 165 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 166 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 167 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 168 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 169 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 170 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 171 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 172 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 173 with Zval 55 we have l1=0 l2=0.000000
+For atom 174 with Zval 55 we have l1=0 l2=0.000000
+For atom 175 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 176 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 177 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 178 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 179 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 180 with Zval 55 we have l1=0 l2=0.000000
+For atom 181 with Zval 55 we have l1=0 l2=0.000000
+For atom 182 with Zval 55 we have l1=0 l2=0.000000
+For atom 183 with Zval 55 we have l1=0 l2=0.000000
+For atom 184 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 185 with Zval 55 we have l1=0 l2=0.000000
+For atom 186 with Zval 55 we have l1=0 l2=0.000000
+For atom 187 with Zval 55 we have l1=0 l2=0.000000
+For atom 188 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 189 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 190 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 191 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 192 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 193 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 194 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 195 with Zval 55 we have l1=0 l2=0.000000
+For atom 196 with Zval 82 we have l1=1.06406 l2=-0.008080
+gen_projectors: dsyev exit: 0
+For atom 197 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+For atom 198 with Zval 53 we have l1=0.0451564 l2=0.002202
+gen_projectors: dsyev exit: 0
+Timing hamiltonian:
+Kinetic time: 126787 msec / 755670 msec
+SO Pot  time: 406144 msec / 755670 msec
+NonLoc  time: 220079 msec / 755670 msec
+Loc pot time: 2660 msec / 755670 msec
+Emax, Emin, dE = 16.1668 -0.759646 16.9265
+done calculate energy range, CPU time (sec) 2997.2, wall run time (sec) 1176
+nc = 4096 dt = 9369.27 dE = 16.9265
+seed = -712633417
+done calculating filter, CPU time (sec) 177266, wall run time (sec) 11184
+cutoff is 788
+mstot ortho = 788
+done calculating ortho, CPU time (sec) 15295.5, wall run time (sec) 998
+done calculating Hmat, CPU time (sec) 4217.99, wall run time (sec) 2714
+This calculation ended at: Fri Sep 23 19:36:52 2022

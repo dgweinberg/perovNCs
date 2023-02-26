@@ -1,0 +1,4016 @@
+Mon Oct  3 07:38:40 2022
+
+******************************************************************************
+
+ist->nx = 124	ist->dx = 0.500000
+ist->ny = 124	ist->dy = 0.500000
+ist->nz = 124	ist->dz = 0.500000
+par->espz = 6.1 par->espz = 6.1 par->espz = 6.1
+The number of openMP threads used = 16
+Total # of filtered hole eigenstates = 64
+Total # of filtered electron eigenstates = 50
+The eval.par index of the HOMO state = 232
+The eval.par index of the LUMO state = 239
+The HOMO energy = -0.23768889 -6.46784739
+The LUMO energy = -0.14391366 -3.91609209
+Fundamental gap = 0.0937752302 2.5517552995
+The total number of atoms = 257
+Number of grid points used: nx = 124  ny = 124  nz = 124
+Length of pseudopotential files, npot = 8192
+Kinetic energy maximum = 10.0000
+Dielectric Constant: epsx = 6.1000 epsy = 6.1000 epsz = 6.1000
+Maximum sigma for an eigenstate, deps = 0.0000
+Energy windows, electrons = 0.2000 holes = 0.1000
+The number of hole eigenstates within 0.1000 of the HOMO energy = 64
+The number of electron eigenstates within 0.2000 of the LUMO energy = 50
+Total number of carrier states, ms = 114
+QD (minimum) dimensions: xd = 23.00 yd = 23.00 zd = 29.00
+Final Box Dimensions: xd = 31 yd = 31 zd = 31
+Gamma = 0.120690
+Grid point spacing: dx = 0.5000 dy = 0.5000 dz = 0.5000 dv = 0.125000 dr = 0.866025
+The index of lowest energy occupied level used = 162
+allocating memory for 64 hole and 50 electron states
+starting to read at offset 232
+231
+moving file head back by 2
+230
+moving file head back by 2
+229
+moving file head back by 2
+228
+moving file head back by 2
+227
+moving file head back by 2
+226
+moving file head back by 2
+225
+moving file head back by 2
+224
+moving file head back by 2
+223
+moving file head back by 2
+222
+moving file head back by 2
+221
+moving file head back by 2
+220
+moving file head back by 2
+219
+moving file head back by 2
+218
+moving file head back by 2
+217
+moving file head back by 2
+216
+moving file head back by 2
+215
+moving file head back by 2
+214
+moving file head back by 2
+213
+moving file head back by 2
+212
+moving file head back by 2
+211
+moving file head back by 2
+210
+moving file head back by 2
+209
+moving file head back by 2
+208
+moving file head back by 2
+207
+moving file head back by 2
+206
+moving file head back by 2
+205
+moving file head back by 2
+204
+moving file head back by 2
+203
+moving file head back by 2
+202
+moving file head back by 2
+201
+moving file head back by 2
+200
+moving file head back by 2
+199
+moving file head back by 2
+198
+moving file head back by 2
+197
+moving file head back by 2
+196
+moving file head back by 2
+195
+moving file head back by 2
+194
+moving file head back by 2
+193
+moving file head back by 2
+192
+moving file head back by 2
+191
+moving file head back by 2
+190
+moving file head back by 2
+189
+moving file head back by 2
+188
+moving file head back by 2
+187
+moving file head back by 2
+186
+moving file head back by 2
+185
+moving file head back by 2
+184
+moving file head back by 2
+183
+moving file head back by 2
+182
+moving file head back by 2
+181
+moving file head back by 2
+180
+moving file head back by 2
+179
+moving file head back by 2
+178
+moving file head back by 2
+177
+moving file head back by 2
+176
+moving file head back by 2
+175
+moving file head back by 2
+174
+moving file head back by 2
+173
+moving file head back by 2
+172
+moving file head back by 2
+171
+moving file head back by 2
+170
+moving file head back by 2
+169
+moving file head back by 2
+168
+moving file head back by 2
+167
+moving file head back by 2
+166
+moving file head back by 2
+165
+moving file head back by 2
+164
+moving file head back by 2
+163
+moving file head back by 2
+162
+moving file head back by 2
+161
+moving file head back by 2
+tlumo: 0 nstates:64 counter:234
+tlumo: 0 nstates:64 counter:235
+tlumo: 0 nstates:64 counter:236
+tlumo: 0 nstates:64 counter:237
+tlumo: 0 nstates:64 counter:238
+tlumo: 0 nstates:64 counter:239
+tlumo: 1 nstates:65 counter:240
+tlumo: 2 nstates:66 counter:241
+tlumo: 3 nstates:67 counter:242
+tlumo: 4 nstates:68 counter:243
+tlumo: 5 nstates:69 counter:244
+tlumo: 6 nstates:70 counter:245
+tlumo: 7 nstates:71 counter:246
+tlumo: 8 nstates:72 counter:247
+tlumo: 9 nstates:73 counter:248
+tlumo: 10 nstates:74 counter:249
+tlumo: 11 nstates:75 counter:250
+tlumo: 12 nstates:76 counter:251
+tlumo: 13 nstates:77 counter:252
+tlumo: 14 nstates:78 counter:253
+tlumo: 15 nstates:79 counter:254
+tlumo: 16 nstates:80 counter:255
+tlumo: 17 nstates:81 counter:256
+tlumo: 18 nstates:82 counter:257
+tlumo: 19 nstates:83 counter:258
+tlumo: 20 nstates:84 counter:259
+tlumo: 21 nstates:85 counter:260
+tlumo: 22 nstates:86 counter:261
+tlumo: 23 nstates:87 counter:262
+tlumo: 24 nstates:88 counter:263
+tlumo: 25 nstates:89 counter:264
+tlumo: 26 nstates:90 counter:265
+tlumo: 27 nstates:91 counter:266
+tlumo: 28 nstates:92 counter:267
+tlumo: 29 nstates:93 counter:268
+tlumo: 30 nstates:94 counter:269
+tlumo: 31 nstates:95 counter:270
+tlumo: 32 nstates:96 counter:271
+tlumo: 33 nstates:97 counter:272
+tlumo: 34 nstates:98 counter:273
+tlumo: 35 nstates:99 counter:274
+tlumo: 36 nstates:100 counter:275
+tlumo: 37 nstates:101 counter:276
+tlumo: 38 nstates:102 counter:277
+tlumo: 39 nstates:103 counter:278
+tlumo: 40 nstates:104 counter:279
+tlumo: 41 nstates:105 counter:280
+tlumo: 42 nstates:106 counter:281
+tlumo: 43 nstates:107 counter:282
+tlumo: 44 nstates:108 counter:283
+tlumo: 45 nstates:109 counter:284
+tlumo: 46 nstates:110 counter:285
+tlumo: 47 nstates:111 counter:286
+tlumo: 48 nstates:112 counter:287
+tlumo: 49 nstates:113 counter:288
+tlumo: 50 nstates:114 counter:289
+freeing psidummy
+closed ppsiclosed eval and psifreeing evalindex
+freeing psihomo
+freeing psidlumo
+freeing ThingsNumber of hole eigenstates used in the BSE calculation = 64
+Number of electron eigenstates used in the BSE calculation =  50
+Total number of eigenstates used in the BSE calculation = 114
+
+Stats on state0: (E=-0.277647)
+ Spin up fraction: 0.574281
+ Spin dn fraction: 0.425719
+
+Stats on state1: (E=-0.277647)
+ Spin up fraction: 0.425719
+ Spin dn fraction: 0.574281
+
+Stats on state2: (E=-0.276663)
+ Spin up fraction: 0.660785
+ Spin dn fraction: 0.339215
+
+Stats on state3: (E=-0.276663)
+ Spin up fraction: 0.339215
+ Spin dn fraction: 0.660785
+
+Stats on state4: (E=-0.275309)
+ Spin up fraction: 0.462274
+ Spin dn fraction: 0.537726
+
+Stats on state5: (E=-0.275309)
+ Spin up fraction: 0.537726
+ Spin dn fraction: 0.462274
+
+Stats on state6: (E=-0.274519)
+ Spin up fraction: 0.376749
+ Spin dn fraction: 0.623251
+
+Stats on state7: (E=-0.274519)
+ Spin up fraction: 0.623251
+ Spin dn fraction: 0.376749
+
+Stats on state8: (E=-0.273769)
+ Spin up fraction: 0.317812
+ Spin dn fraction: 0.682188
+
+Stats on state9: (E=-0.273769)
+ Spin up fraction: 0.682188
+ Spin dn fraction: 0.317812
+
+Stats on state10: (E=-0.272352)
+ Spin up fraction: 0.308929
+ Spin dn fraction: 0.691071
+
+Stats on state11: (E=-0.272352)
+ Spin up fraction: 0.691071
+ Spin dn fraction: 0.308929
+
+Stats on state12: (E=-0.27215)
+ Spin up fraction: 0.163301
+ Spin dn fraction: 0.836699
+
+Stats on state13: (E=-0.27215)
+ Spin up fraction: 0.836699
+ Spin dn fraction: 0.163301
+
+Stats on state14: (E=-0.269978)
+ Spin up fraction: 0.299207
+ Spin dn fraction: 0.700793
+
+Stats on state15: (E=-0.269978)
+ Spin up fraction: 0.700793
+ Spin dn fraction: 0.299207
+
+Stats on state16: (E=-0.269396)
+ Spin up fraction: 0.501600
+ Spin dn fraction: 0.498400
+
+Stats on state17: (E=-0.269396)
+ Spin up fraction: 0.498400
+ Spin dn fraction: 0.501600
+
+Stats on state18: (E=-0.269354)
+ Spin up fraction: 0.266427
+ Spin dn fraction: 0.733573
+
+Stats on state19: (E=-0.269354)
+ Spin up fraction: 0.733573
+ Spin dn fraction: 0.266427
+
+Stats on state20: (E=-0.26802)
+ Spin up fraction: 0.461684
+ Spin dn fraction: 0.538316
+
+Stats on state21: (E=-0.26802)
+ Spin up fraction: 0.538316
+ Spin dn fraction: 0.461684
+
+Stats on state22: (E=-0.267478)
+ Spin up fraction: 0.297049
+ Spin dn fraction: 0.702951
+
+Stats on state23: (E=-0.267478)
+ Spin up fraction: 0.702951
+ Spin dn fraction: 0.297049
+
+Stats on state24: (E=-0.265849)
+ Spin up fraction: 0.664310
+ Spin dn fraction: 0.335690
+
+Stats on state25: (E=-0.265849)
+ Spin up fraction: 0.335690
+ Spin dn fraction: 0.664310
+
+Stats on state26: (E=-0.264533)
+ Spin up fraction: 0.546729
+ Spin dn fraction: 0.453271
+
+Stats on state27: (E=-0.264533)
+ Spin up fraction: 0.453271
+ Spin dn fraction: 0.546729
+
+Stats on state28: (E=-0.263819)
+ Spin up fraction: 0.790547
+ Spin dn fraction: 0.209453
+
+Stats on state29: (E=-0.263819)
+ Spin up fraction: 0.209453
+ Spin dn fraction: 0.790547
+
+Stats on state30: (E=-0.263188)
+ Spin up fraction: 0.346857
+ Spin dn fraction: 0.653143
+
+Stats on state31: (E=-0.263188)
+ Spin up fraction: 0.653143
+ Spin dn fraction: 0.346857
+
+Stats on state32: (E=-0.26209)
+ Spin up fraction: 0.348550
+ Spin dn fraction: 0.651450
+
+Stats on state33: (E=-0.26209)
+ Spin up fraction: 0.651450
+ Spin dn fraction: 0.348550
+
+Stats on state34: (E=-0.261264)
+ Spin up fraction: 0.401924
+ Spin dn fraction: 0.598076
+
+Stats on state35: (E=-0.261264)
+ Spin up fraction: 0.598076
+ Spin dn fraction: 0.401924
+
+Stats on state36: (E=-0.260553)
+ Spin up fraction: 0.410456
+ Spin dn fraction: 0.589544
+
+Stats on state37: (E=-0.260553)
+ Spin up fraction: 0.589544
+ Spin dn fraction: 0.410456
+
+Stats on state38: (E=-0.260408)
+ Spin up fraction: 0.856739
+ Spin dn fraction: 0.143261
+
+Stats on state39: (E=-0.260408)
+ Spin up fraction: 0.143261
+ Spin dn fraction: 0.856739
+
+Stats on state40: (E=-0.25965)
+ Spin up fraction: 0.665509
+ Spin dn fraction: 0.334491
+
+Stats on state41: (E=-0.25965)
+ Spin up fraction: 0.334491
+ Spin dn fraction: 0.665509
+
+Stats on state42: (E=-0.256318)
+ Spin up fraction: 0.163457
+ Spin dn fraction: 0.836543
+
+Stats on state43: (E=-0.256318)
+ Spin up fraction: 0.836543
+ Spin dn fraction: 0.163457
+
+Stats on state44: (E=-0.255764)
+ Spin up fraction: 0.479147
+ Spin dn fraction: 0.520853
+
+Stats on state45: (E=-0.255764)
+ Spin up fraction: 0.520853
+ Spin dn fraction: 0.479147
+
+Stats on state46: (E=-0.254532)
+ Spin up fraction: 0.497312
+ Spin dn fraction: 0.502688
+
+Stats on state47: (E=-0.254532)
+ Spin up fraction: 0.502688
+ Spin dn fraction: 0.497312
+
+Stats on state48: (E=-0.254199)
+ Spin up fraction: 0.286791
+ Spin dn fraction: 0.713209
+
+Stats on state49: (E=-0.254199)
+ Spin up fraction: 0.713209
+ Spin dn fraction: 0.286791
+
+Stats on state50: (E=-0.253619)
+ Spin up fraction: 0.327717
+ Spin dn fraction: 0.672283
+
+Stats on state51: (E=-0.253619)
+ Spin up fraction: 0.672283
+ Spin dn fraction: 0.327717
+
+Stats on state52: (E=-0.252523)
+ Spin up fraction: 0.383571
+ Spin dn fraction: 0.616429
+
+Stats on state53: (E=-0.252523)
+ Spin up fraction: 0.616429
+ Spin dn fraction: 0.383571
+
+Stats on state54: (E=-0.251488)
+ Spin up fraction: 0.838982
+ Spin dn fraction: 0.161018
+
+Stats on state55: (E=-0.251488)
+ Spin up fraction: 0.161018
+ Spin dn fraction: 0.838982
+
+Stats on state56: (E=-0.247172)
+ Spin up fraction: 0.635935
+ Spin dn fraction: 0.364065
+
+Stats on state57: (E=-0.247172)
+ Spin up fraction: 0.364065
+ Spin dn fraction: 0.635935
+
+Stats on state58: (E=-0.246248)
+ Spin up fraction: 0.372528
+ Spin dn fraction: 0.627472
+
+Stats on state59: (E=-0.246248)
+ Spin up fraction: 0.627472
+ Spin dn fraction: 0.372528
+
+Stats on state60: (E=-0.24423)
+ Spin up fraction: 0.326279
+ Spin dn fraction: 0.673721
+
+Stats on state61: (E=-0.24423)
+ Spin up fraction: 0.673721
+ Spin dn fraction: 0.326279
+
+Stats on state62: (E=-0.237689)
+ Spin up fraction: 0.120244
+ Spin dn fraction: 0.879756
+
+Stats on state63: (E=-0.237689)
+ Spin up fraction: 0.879756
+ Spin dn fraction: 0.120244
+
+Stats on state64: (E=-0.143914)
+ Spin up fraction: 0.622760
+ Spin dn fraction: 0.377240
+
+Stats on state65: (E=-0.143914)
+ Spin up fraction: 0.377240
+ Spin dn fraction: 0.622760
+
+Stats on state66: (E=-0.135656)
+ Spin up fraction: 0.529827
+ Spin dn fraction: 0.470173
+
+Stats on state67: (E=-0.135656)
+ Spin up fraction: 0.470173
+ Spin dn fraction: 0.529827
+
+Stats on state68: (E=-0.134398)
+ Spin up fraction: 0.524246
+ Spin dn fraction: 0.475754
+
+Stats on state69: (E=-0.134398)
+ Spin up fraction: 0.475754
+ Spin dn fraction: 0.524246
+
+Stats on state70: (E=-0.133936)
+ Spin up fraction: 0.501992
+ Spin dn fraction: 0.498008
+
+Stats on state71: (E=-0.133936)
+ Spin up fraction: 0.498008
+ Spin dn fraction: 0.501992
+
+Stats on state72: (E=-0.128905)
+ Spin up fraction: 0.499269
+ Spin dn fraction: 0.500731
+
+Stats on state73: (E=-0.128905)
+ Spin up fraction: 0.500731
+ Spin dn fraction: 0.499269
+
+Stats on state74: (E=-0.128149)
+ Spin up fraction: 0.507766
+ Spin dn fraction: 0.492234
+
+Stats on state75: (E=-0.128149)
+ Spin up fraction: 0.492234
+ Spin dn fraction: 0.507766
+
+Stats on state76: (E=-0.128095)
+ Spin up fraction: 0.505723
+ Spin dn fraction: 0.494277
+
+Stats on state77: (E=-0.128095)
+ Spin up fraction: 0.494277
+ Spin dn fraction: 0.505723
+
+Stats on state78: (E=-0.124856)
+ Spin up fraction: 0.755054
+ Spin dn fraction: 0.244946
+
+Stats on state79: (E=-0.124856)
+ Spin up fraction: 0.244946
+ Spin dn fraction: 0.755054
+
+Stats on state80: (E=-0.124826)
+ Spin up fraction: 0.654898
+ Spin dn fraction: 0.345102
+
+Stats on state81: (E=-0.124826)
+ Spin up fraction: 0.345102
+ Spin dn fraction: 0.654898
+
+Stats on state82: (E=-0.124317)
+ Spin up fraction: 0.406434
+ Spin dn fraction: 0.593566
+
+Stats on state83: (E=-0.124317)
+ Spin up fraction: 0.593566
+ Spin dn fraction: 0.406434
+
+Stats on state84: (E=-0.123039)
+ Spin up fraction: 0.380854
+ Spin dn fraction: 0.619146
+
+Stats on state85: (E=-0.123039)
+ Spin up fraction: 0.619146
+ Spin dn fraction: 0.380854
+
+Stats on state86: (E=-0.117841)
+ Spin up fraction: 0.467524
+ Spin dn fraction: 0.532476
+
+Stats on state87: (E=-0.117841)
+ Spin up fraction: 0.532476
+ Spin dn fraction: 0.467524
+
+Stats on state88: (E=-0.11777)
+ Spin up fraction: 0.640866
+ Spin dn fraction: 0.359134
+
+Stats on state89: (E=-0.11777)
+ Spin up fraction: 0.359134
+ Spin dn fraction: 0.640866
+
+Stats on state90: (E=-0.117141)
+ Spin up fraction: 0.259731
+ Spin dn fraction: 0.740269
+
+Stats on state91: (E=-0.117141)
+ Spin up fraction: 0.740269
+ Spin dn fraction: 0.259731
+
+Stats on state92: (E=-0.116487)
+ Spin up fraction: 0.596447
+ Spin dn fraction: 0.403553
+
+Stats on state93: (E=-0.116487)
+ Spin up fraction: 0.403553
+ Spin dn fraction: 0.596447
+
+Stats on state94: (E=-0.11639)
+ Spin up fraction: 0.288296
+ Spin dn fraction: 0.711704
+
+Stats on state95: (E=-0.11639)
+ Spin up fraction: 0.711704
+ Spin dn fraction: 0.288296
+
+Stats on state96: (E=-0.116228)
+ Spin up fraction: 0.437160
+ Spin dn fraction: 0.562840
+
+Stats on state97: (E=-0.116228)
+ Spin up fraction: 0.562840
+ Spin dn fraction: 0.437160
+
+Stats on state98: (E=-0.112652)
+ Spin up fraction: 0.577555
+ Spin dn fraction: 0.422445
+
+Stats on state99: (E=-0.112652)
+ Spin up fraction: 0.422445
+ Spin dn fraction: 0.577555
+
+Stats on state100: (E=-0.11185)
+ Spin up fraction: 0.312424
+ Spin dn fraction: 0.687576
+
+Stats on state101: (E=-0.11185)
+ Spin up fraction: 0.687576
+ Spin dn fraction: 0.312424
+
+Stats on state102: (E=-0.110267)
+ Spin up fraction: 0.558948
+ Spin dn fraction: 0.441052
+
+Stats on state103: (E=-0.110267)
+ Spin up fraction: 0.441052
+ Spin dn fraction: 0.558948
+
+Stats on state104: (E=-0.109495)
+ Spin up fraction: 0.734117
+ Spin dn fraction: 0.265883
+
+Stats on state105: (E=-0.109495)
+ Spin up fraction: 0.265883
+ Spin dn fraction: 0.734117
+
+Stats on state106: (E=-0.109414)
+ Spin up fraction: 0.370621
+ Spin dn fraction: 0.629379
+
+Stats on state107: (E=-0.109414)
+ Spin up fraction: 0.629379
+ Spin dn fraction: 0.370621
+
+Stats on state108: (E=-0.10934)
+ Spin up fraction: 0.669375
+ Spin dn fraction: 0.330625
+
+Stats on state109: (E=-0.10934)
+ Spin up fraction: 0.330625
+ Spin dn fraction: 0.669375
+
+Stats on state110: (E=-0.104725)
+ Spin up fraction: 0.284777
+ Spin dn fraction: 0.715223
+
+Stats on state111: (E=-0.104725)
+ Spin up fraction: 0.715223
+ Spin dn fraction: 0.284777
+
+Stats on state112: (E=-0.104676)
+ Spin up fraction: 0.265616
+ Spin dn fraction: 0.734384
+
+Stats on state113: (E=-0.104676)
+ Spin up fraction: 0.734384
+ Spin dn fraction: 0.265616
+a:64 i:0 ibs:0
+a:64 i:1 ibs:1
+a:64 i:2 ibs:2
+a:64 i:3 ibs:3
+a:64 i:4 ibs:4
+a:64 i:5 ibs:5
+a:64 i:6 ibs:6
+a:64 i:7 ibs:7
+a:64 i:8 ibs:8
+a:64 i:9 ibs:9
+a:64 i:10 ibs:10
+a:64 i:11 ibs:11
+a:64 i:12 ibs:12
+a:64 i:13 ibs:13
+a:64 i:14 ibs:14
+a:64 i:15 ibs:15
+a:64 i:16 ibs:16
+a:64 i:17 ibs:17
+a:64 i:18 ibs:18
+a:64 i:19 ibs:19
+a:64 i:20 ibs:20
+a:64 i:21 ibs:21
+a:64 i:22 ibs:22
+a:64 i:23 ibs:23
+a:64 i:24 ibs:24
+a:64 i:25 ibs:25
+a:64 i:26 ibs:26
+a:64 i:27 ibs:27
+a:64 i:28 ibs:28
+a:64 i:29 ibs:29
+a:64 i:30 ibs:30
+a:64 i:31 ibs:31
+a:64 i:32 ibs:32
+a:64 i:33 ibs:33
+a:64 i:34 ibs:34
+a:64 i:35 ibs:35
+a:64 i:36 ibs:36
+a:64 i:37 ibs:37
+a:64 i:38 ibs:38
+a:64 i:39 ibs:39
+a:64 i:40 ibs:40
+a:64 i:41 ibs:41
+a:64 i:42 ibs:42
+a:64 i:43 ibs:43
+a:64 i:44 ibs:44
+a:64 i:45 ibs:45
+a:64 i:46 ibs:46
+a:64 i:47 ibs:47
+a:64 i:48 ibs:48
+a:64 i:49 ibs:49
+a:64 i:50 ibs:50
+a:64 i:51 ibs:51
+a:64 i:52 ibs:52
+a:64 i:53 ibs:53
+a:64 i:54 ibs:54
+a:64 i:55 ibs:55
+a:64 i:56 ibs:56
+a:64 i:57 ibs:57
+a:64 i:58 ibs:58
+a:64 i:59 ibs:59
+a:64 i:60 ibs:60
+a:64 i:61 ibs:61
+a:64 i:62 ibs:62
+a:64 i:63 ibs:63
+a:65 i:0 ibs:64
+a:65 i:1 ibs:65
+a:65 i:2 ibs:66
+a:65 i:3 ibs:67
+a:65 i:4 ibs:68
+a:65 i:5 ibs:69
+a:65 i:6 ibs:70
+a:65 i:7 ibs:71
+a:65 i:8 ibs:72
+a:65 i:9 ibs:73
+a:65 i:10 ibs:74
+a:65 i:11 ibs:75
+a:65 i:12 ibs:76
+a:65 i:13 ibs:77
+a:65 i:14 ibs:78
+a:65 i:15 ibs:79
+a:65 i:16 ibs:80
+a:65 i:17 ibs:81
+a:65 i:18 ibs:82
+a:65 i:19 ibs:83
+a:65 i:20 ibs:84
+a:65 i:21 ibs:85
+a:65 i:22 ibs:86
+a:65 i:23 ibs:87
+a:65 i:24 ibs:88
+a:65 i:25 ibs:89
+a:65 i:26 ibs:90
+a:65 i:27 ibs:91
+a:65 i:28 ibs:92
+a:65 i:29 ibs:93
+a:65 i:30 ibs:94
+a:65 i:31 ibs:95
+a:65 i:32 ibs:96
+a:65 i:33 ibs:97
+a:65 i:34 ibs:98
+a:65 i:35 ibs:99
+a:65 i:36 ibs:100
+a:65 i:37 ibs:101
+a:65 i:38 ibs:102
+a:65 i:39 ibs:103
+a:65 i:40 ibs:104
+a:65 i:41 ibs:105
+a:65 i:42 ibs:106
+a:65 i:43 ibs:107
+a:65 i:44 ibs:108
+a:65 i:45 ibs:109
+a:65 i:46 ibs:110
+a:65 i:47 ibs:111
+a:65 i:48 ibs:112
+a:65 i:49 ibs:113
+a:65 i:50 ibs:114
+a:65 i:51 ibs:115
+a:65 i:52 ibs:116
+a:65 i:53 ibs:117
+a:65 i:54 ibs:118
+a:65 i:55 ibs:119
+a:65 i:56 ibs:120
+a:65 i:57 ibs:121
+a:65 i:58 ibs:122
+a:65 i:59 ibs:123
+a:65 i:60 ibs:124
+a:65 i:61 ibs:125
+a:65 i:62 ibs:126
+a:65 i:63 ibs:127
+a:66 i:0 ibs:128
+a:66 i:1 ibs:129
+a:66 i:2 ibs:130
+a:66 i:3 ibs:131
+a:66 i:4 ibs:132
+a:66 i:5 ibs:133
+a:66 i:6 ibs:134
+a:66 i:7 ibs:135
+a:66 i:8 ibs:136
+a:66 i:9 ibs:137
+a:66 i:10 ibs:138
+a:66 i:11 ibs:139
+a:66 i:12 ibs:140
+a:66 i:13 ibs:141
+a:66 i:14 ibs:142
+a:66 i:15 ibs:143
+a:66 i:16 ibs:144
+a:66 i:17 ibs:145
+a:66 i:18 ibs:146
+a:66 i:19 ibs:147
+a:66 i:20 ibs:148
+a:66 i:21 ibs:149
+a:66 i:22 ibs:150
+a:66 i:23 ibs:151
+a:66 i:24 ibs:152
+a:66 i:25 ibs:153
+a:66 i:26 ibs:154
+a:66 i:27 ibs:155
+a:66 i:28 ibs:156
+a:66 i:29 ibs:157
+a:66 i:30 ibs:158
+a:66 i:31 ibs:159
+a:66 i:32 ibs:160
+a:66 i:33 ibs:161
+a:66 i:34 ibs:162
+a:66 i:35 ibs:163
+a:66 i:36 ibs:164
+a:66 i:37 ibs:165
+a:66 i:38 ibs:166
+a:66 i:39 ibs:167
+a:66 i:40 ibs:168
+a:66 i:41 ibs:169
+a:66 i:42 ibs:170
+a:66 i:43 ibs:171
+a:66 i:44 ibs:172
+a:66 i:45 ibs:173
+a:66 i:46 ibs:174
+a:66 i:47 ibs:175
+a:66 i:48 ibs:176
+a:66 i:49 ibs:177
+a:66 i:50 ibs:178
+a:66 i:51 ibs:179
+a:66 i:52 ibs:180
+a:66 i:53 ibs:181
+a:66 i:54 ibs:182
+a:66 i:55 ibs:183
+a:66 i:56 ibs:184
+a:66 i:57 ibs:185
+a:66 i:58 ibs:186
+a:66 i:59 ibs:187
+a:66 i:60 ibs:188
+a:66 i:61 ibs:189
+a:66 i:62 ibs:190
+a:66 i:63 ibs:191
+a:67 i:0 ibs:192
+a:67 i:1 ibs:193
+a:67 i:2 ibs:194
+a:67 i:3 ibs:195
+a:67 i:4 ibs:196
+a:67 i:5 ibs:197
+a:67 i:6 ibs:198
+a:67 i:7 ibs:199
+a:67 i:8 ibs:200
+a:67 i:9 ibs:201
+a:67 i:10 ibs:202
+a:67 i:11 ibs:203
+a:67 i:12 ibs:204
+a:67 i:13 ibs:205
+a:67 i:14 ibs:206
+a:67 i:15 ibs:207
+a:67 i:16 ibs:208
+a:67 i:17 ibs:209
+a:67 i:18 ibs:210
+a:67 i:19 ibs:211
+a:67 i:20 ibs:212
+a:67 i:21 ibs:213
+a:67 i:22 ibs:214
+a:67 i:23 ibs:215
+a:67 i:24 ibs:216
+a:67 i:25 ibs:217
+a:67 i:26 ibs:218
+a:67 i:27 ibs:219
+a:67 i:28 ibs:220
+a:67 i:29 ibs:221
+a:67 i:30 ibs:222
+a:67 i:31 ibs:223
+a:67 i:32 ibs:224
+a:67 i:33 ibs:225
+a:67 i:34 ibs:226
+a:67 i:35 ibs:227
+a:67 i:36 ibs:228
+a:67 i:37 ibs:229
+a:67 i:38 ibs:230
+a:67 i:39 ibs:231
+a:67 i:40 ibs:232
+a:67 i:41 ibs:233
+a:67 i:42 ibs:234
+a:67 i:43 ibs:235
+a:67 i:44 ibs:236
+a:67 i:45 ibs:237
+a:67 i:46 ibs:238
+a:67 i:47 ibs:239
+a:67 i:48 ibs:240
+a:67 i:49 ibs:241
+a:67 i:50 ibs:242
+a:67 i:51 ibs:243
+a:67 i:52 ibs:244
+a:67 i:53 ibs:245
+a:67 i:54 ibs:246
+a:67 i:55 ibs:247
+a:67 i:56 ibs:248
+a:67 i:57 ibs:249
+a:67 i:58 ibs:250
+a:67 i:59 ibs:251
+a:67 i:60 ibs:252
+a:67 i:61 ibs:253
+a:67 i:62 ibs:254
+a:67 i:63 ibs:255
+a:68 i:0 ibs:256
+a:68 i:1 ibs:257
+a:68 i:2 ibs:258
+a:68 i:3 ibs:259
+a:68 i:4 ibs:260
+a:68 i:5 ibs:261
+a:68 i:6 ibs:262
+a:68 i:7 ibs:263
+a:68 i:8 ibs:264
+a:68 i:9 ibs:265
+a:68 i:10 ibs:266
+a:68 i:11 ibs:267
+a:68 i:12 ibs:268
+a:68 i:13 ibs:269
+a:68 i:14 ibs:270
+a:68 i:15 ibs:271
+a:68 i:16 ibs:272
+a:68 i:17 ibs:273
+a:68 i:18 ibs:274
+a:68 i:19 ibs:275
+a:68 i:20 ibs:276
+a:68 i:21 ibs:277
+a:68 i:22 ibs:278
+a:68 i:23 ibs:279
+a:68 i:24 ibs:280
+a:68 i:25 ibs:281
+a:68 i:26 ibs:282
+a:68 i:27 ibs:283
+a:68 i:28 ibs:284
+a:68 i:29 ibs:285
+a:68 i:30 ibs:286
+a:68 i:31 ibs:287
+a:68 i:32 ibs:288
+a:68 i:33 ibs:289
+a:68 i:34 ibs:290
+a:68 i:35 ibs:291
+a:68 i:36 ibs:292
+a:68 i:37 ibs:293
+a:68 i:38 ibs:294
+a:68 i:39 ibs:295
+a:68 i:40 ibs:296
+a:68 i:41 ibs:297
+a:68 i:42 ibs:298
+a:68 i:43 ibs:299
+a:68 i:44 ibs:300
+a:68 i:45 ibs:301
+a:68 i:46 ibs:302
+a:68 i:47 ibs:303
+a:68 i:48 ibs:304
+a:68 i:49 ibs:305
+a:68 i:50 ibs:306
+a:68 i:51 ibs:307
+a:68 i:52 ibs:308
+a:68 i:53 ibs:309
+a:68 i:54 ibs:310
+a:68 i:55 ibs:311
+a:68 i:56 ibs:312
+a:68 i:57 ibs:313
+a:68 i:58 ibs:314
+a:68 i:59 ibs:315
+a:68 i:60 ibs:316
+a:68 i:61 ibs:317
+a:68 i:62 ibs:318
+a:68 i:63 ibs:319
+a:69 i:0 ibs:320
+a:69 i:1 ibs:321
+a:69 i:2 ibs:322
+a:69 i:3 ibs:323
+a:69 i:4 ibs:324
+a:69 i:5 ibs:325
+a:69 i:6 ibs:326
+a:69 i:7 ibs:327
+a:69 i:8 ibs:328
+a:69 i:9 ibs:329
+a:69 i:10 ibs:330
+a:69 i:11 ibs:331
+a:69 i:12 ibs:332
+a:69 i:13 ibs:333
+a:69 i:14 ibs:334
+a:69 i:15 ibs:335
+a:69 i:16 ibs:336
+a:69 i:17 ibs:337
+a:69 i:18 ibs:338
+a:69 i:19 ibs:339
+a:69 i:20 ibs:340
+a:69 i:21 ibs:341
+a:69 i:22 ibs:342
+a:69 i:23 ibs:343
+a:69 i:24 ibs:344
+a:69 i:25 ibs:345
+a:69 i:26 ibs:346
+a:69 i:27 ibs:347
+a:69 i:28 ibs:348
+a:69 i:29 ibs:349
+a:69 i:30 ibs:350
+a:69 i:31 ibs:351
+a:69 i:32 ibs:352
+a:69 i:33 ibs:353
+a:69 i:34 ibs:354
+a:69 i:35 ibs:355
+a:69 i:36 ibs:356
+a:69 i:37 ibs:357
+a:69 i:38 ibs:358
+a:69 i:39 ibs:359
+a:69 i:40 ibs:360
+a:69 i:41 ibs:361
+a:69 i:42 ibs:362
+a:69 i:43 ibs:363
+a:69 i:44 ibs:364
+a:69 i:45 ibs:365
+a:69 i:46 ibs:366
+a:69 i:47 ibs:367
+a:69 i:48 ibs:368
+a:69 i:49 ibs:369
+a:69 i:50 ibs:370
+a:69 i:51 ibs:371
+a:69 i:52 ibs:372
+a:69 i:53 ibs:373
+a:69 i:54 ibs:374
+a:69 i:55 ibs:375
+a:69 i:56 ibs:376
+a:69 i:57 ibs:377
+a:69 i:58 ibs:378
+a:69 i:59 ibs:379
+a:69 i:60 ibs:380
+a:69 i:61 ibs:381
+a:69 i:62 ibs:382
+a:69 i:63 ibs:383
+a:70 i:0 ibs:384
+a:70 i:1 ibs:385
+a:70 i:2 ibs:386
+a:70 i:3 ibs:387
+a:70 i:4 ibs:388
+a:70 i:5 ibs:389
+a:70 i:6 ibs:390
+a:70 i:7 ibs:391
+a:70 i:8 ibs:392
+a:70 i:9 ibs:393
+a:70 i:10 ibs:394
+a:70 i:11 ibs:395
+a:70 i:12 ibs:396
+a:70 i:13 ibs:397
+a:70 i:14 ibs:398
+a:70 i:15 ibs:399
+a:70 i:16 ibs:400
+a:70 i:17 ibs:401
+a:70 i:18 ibs:402
+a:70 i:19 ibs:403
+a:70 i:20 ibs:404
+a:70 i:21 ibs:405
+a:70 i:22 ibs:406
+a:70 i:23 ibs:407
+a:70 i:24 ibs:408
+a:70 i:25 ibs:409
+a:70 i:26 ibs:410
+a:70 i:27 ibs:411
+a:70 i:28 ibs:412
+a:70 i:29 ibs:413
+a:70 i:30 ibs:414
+a:70 i:31 ibs:415
+a:70 i:32 ibs:416
+a:70 i:33 ibs:417
+a:70 i:34 ibs:418
+a:70 i:35 ibs:419
+a:70 i:36 ibs:420
+a:70 i:37 ibs:421
+a:70 i:38 ibs:422
+a:70 i:39 ibs:423
+a:70 i:40 ibs:424
+a:70 i:41 ibs:425
+a:70 i:42 ibs:426
+a:70 i:43 ibs:427
+a:70 i:44 ibs:428
+a:70 i:45 ibs:429
+a:70 i:46 ibs:430
+a:70 i:47 ibs:431
+a:70 i:48 ibs:432
+a:70 i:49 ibs:433
+a:70 i:50 ibs:434
+a:70 i:51 ibs:435
+a:70 i:52 ibs:436
+a:70 i:53 ibs:437
+a:70 i:54 ibs:438
+a:70 i:55 ibs:439
+a:70 i:56 ibs:440
+a:70 i:57 ibs:441
+a:70 i:58 ibs:442
+a:70 i:59 ibs:443
+a:70 i:60 ibs:444
+a:70 i:61 ibs:445
+a:70 i:62 ibs:446
+a:70 i:63 ibs:447
+a:71 i:0 ibs:448
+a:71 i:1 ibs:449
+a:71 i:2 ibs:450
+a:71 i:3 ibs:451
+a:71 i:4 ibs:452
+a:71 i:5 ibs:453
+a:71 i:6 ibs:454
+a:71 i:7 ibs:455
+a:71 i:8 ibs:456
+a:71 i:9 ibs:457
+a:71 i:10 ibs:458
+a:71 i:11 ibs:459
+a:71 i:12 ibs:460
+a:71 i:13 ibs:461
+a:71 i:14 ibs:462
+a:71 i:15 ibs:463
+a:71 i:16 ibs:464
+a:71 i:17 ibs:465
+a:71 i:18 ibs:466
+a:71 i:19 ibs:467
+a:71 i:20 ibs:468
+a:71 i:21 ibs:469
+a:71 i:22 ibs:470
+a:71 i:23 ibs:471
+a:71 i:24 ibs:472
+a:71 i:25 ibs:473
+a:71 i:26 ibs:474
+a:71 i:27 ibs:475
+a:71 i:28 ibs:476
+a:71 i:29 ibs:477
+a:71 i:30 ibs:478
+a:71 i:31 ibs:479
+a:71 i:32 ibs:480
+a:71 i:33 ibs:481
+a:71 i:34 ibs:482
+a:71 i:35 ibs:483
+a:71 i:36 ibs:484
+a:71 i:37 ibs:485
+a:71 i:38 ibs:486
+a:71 i:39 ibs:487
+a:71 i:40 ibs:488
+a:71 i:41 ibs:489
+a:71 i:42 ibs:490
+a:71 i:43 ibs:491
+a:71 i:44 ibs:492
+a:71 i:45 ibs:493
+a:71 i:46 ibs:494
+a:71 i:47 ibs:495
+a:71 i:48 ibs:496
+a:71 i:49 ibs:497
+a:71 i:50 ibs:498
+a:71 i:51 ibs:499
+a:71 i:52 ibs:500
+a:71 i:53 ibs:501
+a:71 i:54 ibs:502
+a:71 i:55 ibs:503
+a:71 i:56 ibs:504
+a:71 i:57 ibs:505
+a:71 i:58 ibs:506
+a:71 i:59 ibs:507
+a:71 i:60 ibs:508
+a:71 i:61 ibs:509
+a:71 i:62 ibs:510
+a:71 i:63 ibs:511
+a:72 i:0 ibs:512
+a:72 i:1 ibs:513
+a:72 i:2 ibs:514
+a:72 i:3 ibs:515
+a:72 i:4 ibs:516
+a:72 i:5 ibs:517
+a:72 i:6 ibs:518
+a:72 i:7 ibs:519
+a:72 i:8 ibs:520
+a:72 i:9 ibs:521
+a:72 i:10 ibs:522
+a:72 i:11 ibs:523
+a:72 i:12 ibs:524
+a:72 i:13 ibs:525
+a:72 i:14 ibs:526
+a:72 i:15 ibs:527
+a:72 i:16 ibs:528
+a:72 i:17 ibs:529
+a:72 i:18 ibs:530
+a:72 i:19 ibs:531
+a:72 i:20 ibs:532
+a:72 i:21 ibs:533
+a:72 i:22 ibs:534
+a:72 i:23 ibs:535
+a:72 i:24 ibs:536
+a:72 i:25 ibs:537
+a:72 i:26 ibs:538
+a:72 i:27 ibs:539
+a:72 i:28 ibs:540
+a:72 i:29 ibs:541
+a:72 i:30 ibs:542
+a:72 i:31 ibs:543
+a:72 i:32 ibs:544
+a:72 i:33 ibs:545
+a:72 i:34 ibs:546
+a:72 i:35 ibs:547
+a:72 i:36 ibs:548
+a:72 i:37 ibs:549
+a:72 i:38 ibs:550
+a:72 i:39 ibs:551
+a:72 i:40 ibs:552
+a:72 i:41 ibs:553
+a:72 i:42 ibs:554
+a:72 i:43 ibs:555
+a:72 i:44 ibs:556
+a:72 i:45 ibs:557
+a:72 i:46 ibs:558
+a:72 i:47 ibs:559
+a:72 i:48 ibs:560
+a:72 i:49 ibs:561
+a:72 i:50 ibs:562
+a:72 i:51 ibs:563
+a:72 i:52 ibs:564
+a:72 i:53 ibs:565
+a:72 i:54 ibs:566
+a:72 i:55 ibs:567
+a:72 i:56 ibs:568
+a:72 i:57 ibs:569
+a:72 i:58 ibs:570
+a:72 i:59 ibs:571
+a:72 i:60 ibs:572
+a:72 i:61 ibs:573
+a:72 i:62 ibs:574
+a:72 i:63 ibs:575
+a:73 i:0 ibs:576
+a:73 i:1 ibs:577
+a:73 i:2 ibs:578
+a:73 i:3 ibs:579
+a:73 i:4 ibs:580
+a:73 i:5 ibs:581
+a:73 i:6 ibs:582
+a:73 i:7 ibs:583
+a:73 i:8 ibs:584
+a:73 i:9 ibs:585
+a:73 i:10 ibs:586
+a:73 i:11 ibs:587
+a:73 i:12 ibs:588
+a:73 i:13 ibs:589
+a:73 i:14 ibs:590
+a:73 i:15 ibs:591
+a:73 i:16 ibs:592
+a:73 i:17 ibs:593
+a:73 i:18 ibs:594
+a:73 i:19 ibs:595
+a:73 i:20 ibs:596
+a:73 i:21 ibs:597
+a:73 i:22 ibs:598
+a:73 i:23 ibs:599
+a:73 i:24 ibs:600
+a:73 i:25 ibs:601
+a:73 i:26 ibs:602
+a:73 i:27 ibs:603
+a:73 i:28 ibs:604
+a:73 i:29 ibs:605
+a:73 i:30 ibs:606
+a:73 i:31 ibs:607
+a:73 i:32 ibs:608
+a:73 i:33 ibs:609
+a:73 i:34 ibs:610
+a:73 i:35 ibs:611
+a:73 i:36 ibs:612
+a:73 i:37 ibs:613
+a:73 i:38 ibs:614
+a:73 i:39 ibs:615
+a:73 i:40 ibs:616
+a:73 i:41 ibs:617
+a:73 i:42 ibs:618
+a:73 i:43 ibs:619
+a:73 i:44 ibs:620
+a:73 i:45 ibs:621
+a:73 i:46 ibs:622
+a:73 i:47 ibs:623
+a:73 i:48 ibs:624
+a:73 i:49 ibs:625
+a:73 i:50 ibs:626
+a:73 i:51 ibs:627
+a:73 i:52 ibs:628
+a:73 i:53 ibs:629
+a:73 i:54 ibs:630
+a:73 i:55 ibs:631
+a:73 i:56 ibs:632
+a:73 i:57 ibs:633
+a:73 i:58 ibs:634
+a:73 i:59 ibs:635
+a:73 i:60 ibs:636
+a:73 i:61 ibs:637
+a:73 i:62 ibs:638
+a:73 i:63 ibs:639
+a:74 i:0 ibs:640
+a:74 i:1 ibs:641
+a:74 i:2 ibs:642
+a:74 i:3 ibs:643
+a:74 i:4 ibs:644
+a:74 i:5 ibs:645
+a:74 i:6 ibs:646
+a:74 i:7 ibs:647
+a:74 i:8 ibs:648
+a:74 i:9 ibs:649
+a:74 i:10 ibs:650
+a:74 i:11 ibs:651
+a:74 i:12 ibs:652
+a:74 i:13 ibs:653
+a:74 i:14 ibs:654
+a:74 i:15 ibs:655
+a:74 i:16 ibs:656
+a:74 i:17 ibs:657
+a:74 i:18 ibs:658
+a:74 i:19 ibs:659
+a:74 i:20 ibs:660
+a:74 i:21 ibs:661
+a:74 i:22 ibs:662
+a:74 i:23 ibs:663
+a:74 i:24 ibs:664
+a:74 i:25 ibs:665
+a:74 i:26 ibs:666
+a:74 i:27 ibs:667
+a:74 i:28 ibs:668
+a:74 i:29 ibs:669
+a:74 i:30 ibs:670
+a:74 i:31 ibs:671
+a:74 i:32 ibs:672
+a:74 i:33 ibs:673
+a:74 i:34 ibs:674
+a:74 i:35 ibs:675
+a:74 i:36 ibs:676
+a:74 i:37 ibs:677
+a:74 i:38 ibs:678
+a:74 i:39 ibs:679
+a:74 i:40 ibs:680
+a:74 i:41 ibs:681
+a:74 i:42 ibs:682
+a:74 i:43 ibs:683
+a:74 i:44 ibs:684
+a:74 i:45 ibs:685
+a:74 i:46 ibs:686
+a:74 i:47 ibs:687
+a:74 i:48 ibs:688
+a:74 i:49 ibs:689
+a:74 i:50 ibs:690
+a:74 i:51 ibs:691
+a:74 i:52 ibs:692
+a:74 i:53 ibs:693
+a:74 i:54 ibs:694
+a:74 i:55 ibs:695
+a:74 i:56 ibs:696
+a:74 i:57 ibs:697
+a:74 i:58 ibs:698
+a:74 i:59 ibs:699
+a:74 i:60 ibs:700
+a:74 i:61 ibs:701
+a:74 i:62 ibs:702
+a:74 i:63 ibs:703
+a:75 i:0 ibs:704
+a:75 i:1 ibs:705
+a:75 i:2 ibs:706
+a:75 i:3 ibs:707
+a:75 i:4 ibs:708
+a:75 i:5 ibs:709
+a:75 i:6 ibs:710
+a:75 i:7 ibs:711
+a:75 i:8 ibs:712
+a:75 i:9 ibs:713
+a:75 i:10 ibs:714
+a:75 i:11 ibs:715
+a:75 i:12 ibs:716
+a:75 i:13 ibs:717
+a:75 i:14 ibs:718
+a:75 i:15 ibs:719
+a:75 i:16 ibs:720
+a:75 i:17 ibs:721
+a:75 i:18 ibs:722
+a:75 i:19 ibs:723
+a:75 i:20 ibs:724
+a:75 i:21 ibs:725
+a:75 i:22 ibs:726
+a:75 i:23 ibs:727
+a:75 i:24 ibs:728
+a:75 i:25 ibs:729
+a:75 i:26 ibs:730
+a:75 i:27 ibs:731
+a:75 i:28 ibs:732
+a:75 i:29 ibs:733
+a:75 i:30 ibs:734
+a:75 i:31 ibs:735
+a:75 i:32 ibs:736
+a:75 i:33 ibs:737
+a:75 i:34 ibs:738
+a:75 i:35 ibs:739
+a:75 i:36 ibs:740
+a:75 i:37 ibs:741
+a:75 i:38 ibs:742
+a:75 i:39 ibs:743
+a:75 i:40 ibs:744
+a:75 i:41 ibs:745
+a:75 i:42 ibs:746
+a:75 i:43 ibs:747
+a:75 i:44 ibs:748
+a:75 i:45 ibs:749
+a:75 i:46 ibs:750
+a:75 i:47 ibs:751
+a:75 i:48 ibs:752
+a:75 i:49 ibs:753
+a:75 i:50 ibs:754
+a:75 i:51 ibs:755
+a:75 i:52 ibs:756
+a:75 i:53 ibs:757
+a:75 i:54 ibs:758
+a:75 i:55 ibs:759
+a:75 i:56 ibs:760
+a:75 i:57 ibs:761
+a:75 i:58 ibs:762
+a:75 i:59 ibs:763
+a:75 i:60 ibs:764
+a:75 i:61 ibs:765
+a:75 i:62 ibs:766
+a:75 i:63 ibs:767
+a:76 i:0 ibs:768
+a:76 i:1 ibs:769
+a:76 i:2 ibs:770
+a:76 i:3 ibs:771
+a:76 i:4 ibs:772
+a:76 i:5 ibs:773
+a:76 i:6 ibs:774
+a:76 i:7 ibs:775
+a:76 i:8 ibs:776
+a:76 i:9 ibs:777
+a:76 i:10 ibs:778
+a:76 i:11 ibs:779
+a:76 i:12 ibs:780
+a:76 i:13 ibs:781
+a:76 i:14 ibs:782
+a:76 i:15 ibs:783
+a:76 i:16 ibs:784
+a:76 i:17 ibs:785
+a:76 i:18 ibs:786
+a:76 i:19 ibs:787
+a:76 i:20 ibs:788
+a:76 i:21 ibs:789
+a:76 i:22 ibs:790
+a:76 i:23 ibs:791
+a:76 i:24 ibs:792
+a:76 i:25 ibs:793
+a:76 i:26 ibs:794
+a:76 i:27 ibs:795
+a:76 i:28 ibs:796
+a:76 i:29 ibs:797
+a:76 i:30 ibs:798
+a:76 i:31 ibs:799
+a:76 i:32 ibs:800
+a:76 i:33 ibs:801
+a:76 i:34 ibs:802
+a:76 i:35 ibs:803
+a:76 i:36 ibs:804
+a:76 i:37 ibs:805
+a:76 i:38 ibs:806
+a:76 i:39 ibs:807
+a:76 i:40 ibs:808
+a:76 i:41 ibs:809
+a:76 i:42 ibs:810
+a:76 i:43 ibs:811
+a:76 i:44 ibs:812
+a:76 i:45 ibs:813
+a:76 i:46 ibs:814
+a:76 i:47 ibs:815
+a:76 i:48 ibs:816
+a:76 i:49 ibs:817
+a:76 i:50 ibs:818
+a:76 i:51 ibs:819
+a:76 i:52 ibs:820
+a:76 i:53 ibs:821
+a:76 i:54 ibs:822
+a:76 i:55 ibs:823
+a:76 i:56 ibs:824
+a:76 i:57 ibs:825
+a:76 i:58 ibs:826
+a:76 i:59 ibs:827
+a:76 i:60 ibs:828
+a:76 i:61 ibs:829
+a:76 i:62 ibs:830
+a:76 i:63 ibs:831
+a:77 i:0 ibs:832
+a:77 i:1 ibs:833
+a:77 i:2 ibs:834
+a:77 i:3 ibs:835
+a:77 i:4 ibs:836
+a:77 i:5 ibs:837
+a:77 i:6 ibs:838
+a:77 i:7 ibs:839
+a:77 i:8 ibs:840
+a:77 i:9 ibs:841
+a:77 i:10 ibs:842
+a:77 i:11 ibs:843
+a:77 i:12 ibs:844
+a:77 i:13 ibs:845
+a:77 i:14 ibs:846
+a:77 i:15 ibs:847
+a:77 i:16 ibs:848
+a:77 i:17 ibs:849
+a:77 i:18 ibs:850
+a:77 i:19 ibs:851
+a:77 i:20 ibs:852
+a:77 i:21 ibs:853
+a:77 i:22 ibs:854
+a:77 i:23 ibs:855
+a:77 i:24 ibs:856
+a:77 i:25 ibs:857
+a:77 i:26 ibs:858
+a:77 i:27 ibs:859
+a:77 i:28 ibs:860
+a:77 i:29 ibs:861
+a:77 i:30 ibs:862
+a:77 i:31 ibs:863
+a:77 i:32 ibs:864
+a:77 i:33 ibs:865
+a:77 i:34 ibs:866
+a:77 i:35 ibs:867
+a:77 i:36 ibs:868
+a:77 i:37 ibs:869
+a:77 i:38 ibs:870
+a:77 i:39 ibs:871
+a:77 i:40 ibs:872
+a:77 i:41 ibs:873
+a:77 i:42 ibs:874
+a:77 i:43 ibs:875
+a:77 i:44 ibs:876
+a:77 i:45 ibs:877
+a:77 i:46 ibs:878
+a:77 i:47 ibs:879
+a:77 i:48 ibs:880
+a:77 i:49 ibs:881
+a:77 i:50 ibs:882
+a:77 i:51 ibs:883
+a:77 i:52 ibs:884
+a:77 i:53 ibs:885
+a:77 i:54 ibs:886
+a:77 i:55 ibs:887
+a:77 i:56 ibs:888
+a:77 i:57 ibs:889
+a:77 i:58 ibs:890
+a:77 i:59 ibs:891
+a:77 i:60 ibs:892
+a:77 i:61 ibs:893
+a:77 i:62 ibs:894
+a:77 i:63 ibs:895
+a:78 i:0 ibs:896
+a:78 i:1 ibs:897
+a:78 i:2 ibs:898
+a:78 i:3 ibs:899
+a:78 i:4 ibs:900
+a:78 i:5 ibs:901
+a:78 i:6 ibs:902
+a:78 i:7 ibs:903
+a:78 i:8 ibs:904
+a:78 i:9 ibs:905
+a:78 i:10 ibs:906
+a:78 i:11 ibs:907
+a:78 i:12 ibs:908
+a:78 i:13 ibs:909
+a:78 i:14 ibs:910
+a:78 i:15 ibs:911
+a:78 i:16 ibs:912
+a:78 i:17 ibs:913
+a:78 i:18 ibs:914
+a:78 i:19 ibs:915
+a:78 i:20 ibs:916
+a:78 i:21 ibs:917
+a:78 i:22 ibs:918
+a:78 i:23 ibs:919
+a:78 i:24 ibs:920
+a:78 i:25 ibs:921
+a:78 i:26 ibs:922
+a:78 i:27 ibs:923
+a:78 i:28 ibs:924
+a:78 i:29 ibs:925
+a:78 i:30 ibs:926
+a:78 i:31 ibs:927
+a:78 i:32 ibs:928
+a:78 i:33 ibs:929
+a:78 i:34 ibs:930
+a:78 i:35 ibs:931
+a:78 i:36 ibs:932
+a:78 i:37 ibs:933
+a:78 i:38 ibs:934
+a:78 i:39 ibs:935
+a:78 i:40 ibs:936
+a:78 i:41 ibs:937
+a:78 i:42 ibs:938
+a:78 i:43 ibs:939
+a:78 i:44 ibs:940
+a:78 i:45 ibs:941
+a:78 i:46 ibs:942
+a:78 i:47 ibs:943
+a:78 i:48 ibs:944
+a:78 i:49 ibs:945
+a:78 i:50 ibs:946
+a:78 i:51 ibs:947
+a:78 i:52 ibs:948
+a:78 i:53 ibs:949
+a:78 i:54 ibs:950
+a:78 i:55 ibs:951
+a:78 i:56 ibs:952
+a:78 i:57 ibs:953
+a:78 i:58 ibs:954
+a:78 i:59 ibs:955
+a:78 i:60 ibs:956
+a:78 i:61 ibs:957
+a:78 i:62 ibs:958
+a:78 i:63 ibs:959
+a:79 i:0 ibs:960
+a:79 i:1 ibs:961
+a:79 i:2 ibs:962
+a:79 i:3 ibs:963
+a:79 i:4 ibs:964
+a:79 i:5 ibs:965
+a:79 i:6 ibs:966
+a:79 i:7 ibs:967
+a:79 i:8 ibs:968
+a:79 i:9 ibs:969
+a:79 i:10 ibs:970
+a:79 i:11 ibs:971
+a:79 i:12 ibs:972
+a:79 i:13 ibs:973
+a:79 i:14 ibs:974
+a:79 i:15 ibs:975
+a:79 i:16 ibs:976
+a:79 i:17 ibs:977
+a:79 i:18 ibs:978
+a:79 i:19 ibs:979
+a:79 i:20 ibs:980
+a:79 i:21 ibs:981
+a:79 i:22 ibs:982
+a:79 i:23 ibs:983
+a:79 i:24 ibs:984
+a:79 i:25 ibs:985
+a:79 i:26 ibs:986
+a:79 i:27 ibs:987
+a:79 i:28 ibs:988
+a:79 i:29 ibs:989
+a:79 i:30 ibs:990
+a:79 i:31 ibs:991
+a:79 i:32 ibs:992
+a:79 i:33 ibs:993
+a:79 i:34 ibs:994
+a:79 i:35 ibs:995
+a:79 i:36 ibs:996
+a:79 i:37 ibs:997
+a:79 i:38 ibs:998
+a:79 i:39 ibs:999
+a:79 i:40 ibs:1000
+a:79 i:41 ibs:1001
+a:79 i:42 ibs:1002
+a:79 i:43 ibs:1003
+a:79 i:44 ibs:1004
+a:79 i:45 ibs:1005
+a:79 i:46 ibs:1006
+a:79 i:47 ibs:1007
+a:79 i:48 ibs:1008
+a:79 i:49 ibs:1009
+a:79 i:50 ibs:1010
+a:79 i:51 ibs:1011
+a:79 i:52 ibs:1012
+a:79 i:53 ibs:1013
+a:79 i:54 ibs:1014
+a:79 i:55 ibs:1015
+a:79 i:56 ibs:1016
+a:79 i:57 ibs:1017
+a:79 i:58 ibs:1018
+a:79 i:59 ibs:1019
+a:79 i:60 ibs:1020
+a:79 i:61 ibs:1021
+a:79 i:62 ibs:1022
+a:79 i:63 ibs:1023
+a:80 i:0 ibs:1024
+a:80 i:1 ibs:1025
+a:80 i:2 ibs:1026
+a:80 i:3 ibs:1027
+a:80 i:4 ibs:1028
+a:80 i:5 ibs:1029
+a:80 i:6 ibs:1030
+a:80 i:7 ibs:1031
+a:80 i:8 ibs:1032
+a:80 i:9 ibs:1033
+a:80 i:10 ibs:1034
+a:80 i:11 ibs:1035
+a:80 i:12 ibs:1036
+a:80 i:13 ibs:1037
+a:80 i:14 ibs:1038
+a:80 i:15 ibs:1039
+a:80 i:16 ibs:1040
+a:80 i:17 ibs:1041
+a:80 i:18 ibs:1042
+a:80 i:19 ibs:1043
+a:80 i:20 ibs:1044
+a:80 i:21 ibs:1045
+a:80 i:22 ibs:1046
+a:80 i:23 ibs:1047
+a:80 i:24 ibs:1048
+a:80 i:25 ibs:1049
+a:80 i:26 ibs:1050
+a:80 i:27 ibs:1051
+a:80 i:28 ibs:1052
+a:80 i:29 ibs:1053
+a:80 i:30 ibs:1054
+a:80 i:31 ibs:1055
+a:80 i:32 ibs:1056
+a:80 i:33 ibs:1057
+a:80 i:34 ibs:1058
+a:80 i:35 ibs:1059
+a:80 i:36 ibs:1060
+a:80 i:37 ibs:1061
+a:80 i:38 ibs:1062
+a:80 i:39 ibs:1063
+a:80 i:40 ibs:1064
+a:80 i:41 ibs:1065
+a:80 i:42 ibs:1066
+a:80 i:43 ibs:1067
+a:80 i:44 ibs:1068
+a:80 i:45 ibs:1069
+a:80 i:46 ibs:1070
+a:80 i:47 ibs:1071
+a:80 i:48 ibs:1072
+a:80 i:49 ibs:1073
+a:80 i:50 ibs:1074
+a:80 i:51 ibs:1075
+a:80 i:52 ibs:1076
+a:80 i:53 ibs:1077
+a:80 i:54 ibs:1078
+a:80 i:55 ibs:1079
+a:80 i:56 ibs:1080
+a:80 i:57 ibs:1081
+a:80 i:58 ibs:1082
+a:80 i:59 ibs:1083
+a:80 i:60 ibs:1084
+a:80 i:61 ibs:1085
+a:80 i:62 ibs:1086
+a:80 i:63 ibs:1087
+a:81 i:0 ibs:1088
+a:81 i:1 ibs:1089
+a:81 i:2 ibs:1090
+a:81 i:3 ibs:1091
+a:81 i:4 ibs:1092
+a:81 i:5 ibs:1093
+a:81 i:6 ibs:1094
+a:81 i:7 ibs:1095
+a:81 i:8 ibs:1096
+a:81 i:9 ibs:1097
+a:81 i:10 ibs:1098
+a:81 i:11 ibs:1099
+a:81 i:12 ibs:1100
+a:81 i:13 ibs:1101
+a:81 i:14 ibs:1102
+a:81 i:15 ibs:1103
+a:81 i:16 ibs:1104
+a:81 i:17 ibs:1105
+a:81 i:18 ibs:1106
+a:81 i:19 ibs:1107
+a:81 i:20 ibs:1108
+a:81 i:21 ibs:1109
+a:81 i:22 ibs:1110
+a:81 i:23 ibs:1111
+a:81 i:24 ibs:1112
+a:81 i:25 ibs:1113
+a:81 i:26 ibs:1114
+a:81 i:27 ibs:1115
+a:81 i:28 ibs:1116
+a:81 i:29 ibs:1117
+a:81 i:30 ibs:1118
+a:81 i:31 ibs:1119
+a:81 i:32 ibs:1120
+a:81 i:33 ibs:1121
+a:81 i:34 ibs:1122
+a:81 i:35 ibs:1123
+a:81 i:36 ibs:1124
+a:81 i:37 ibs:1125
+a:81 i:38 ibs:1126
+a:81 i:39 ibs:1127
+a:81 i:40 ibs:1128
+a:81 i:41 ibs:1129
+a:81 i:42 ibs:1130
+a:81 i:43 ibs:1131
+a:81 i:44 ibs:1132
+a:81 i:45 ibs:1133
+a:81 i:46 ibs:1134
+a:81 i:47 ibs:1135
+a:81 i:48 ibs:1136
+a:81 i:49 ibs:1137
+a:81 i:50 ibs:1138
+a:81 i:51 ibs:1139
+a:81 i:52 ibs:1140
+a:81 i:53 ibs:1141
+a:81 i:54 ibs:1142
+a:81 i:55 ibs:1143
+a:81 i:56 ibs:1144
+a:81 i:57 ibs:1145
+a:81 i:58 ibs:1146
+a:81 i:59 ibs:1147
+a:81 i:60 ibs:1148
+a:81 i:61 ibs:1149
+a:81 i:62 ibs:1150
+a:81 i:63 ibs:1151
+a:82 i:0 ibs:1152
+a:82 i:1 ibs:1153
+a:82 i:2 ibs:1154
+a:82 i:3 ibs:1155
+a:82 i:4 ibs:1156
+a:82 i:5 ibs:1157
+a:82 i:6 ibs:1158
+a:82 i:7 ibs:1159
+a:82 i:8 ibs:1160
+a:82 i:9 ibs:1161
+a:82 i:10 ibs:1162
+a:82 i:11 ibs:1163
+a:82 i:12 ibs:1164
+a:82 i:13 ibs:1165
+a:82 i:14 ibs:1166
+a:82 i:15 ibs:1167
+a:82 i:16 ibs:1168
+a:82 i:17 ibs:1169
+a:82 i:18 ibs:1170
+a:82 i:19 ibs:1171
+a:82 i:20 ibs:1172
+a:82 i:21 ibs:1173
+a:82 i:22 ibs:1174
+a:82 i:23 ibs:1175
+a:82 i:24 ibs:1176
+a:82 i:25 ibs:1177
+a:82 i:26 ibs:1178
+a:82 i:27 ibs:1179
+a:82 i:28 ibs:1180
+a:82 i:29 ibs:1181
+a:82 i:30 ibs:1182
+a:82 i:31 ibs:1183
+a:82 i:32 ibs:1184
+a:82 i:33 ibs:1185
+a:82 i:34 ibs:1186
+a:82 i:35 ibs:1187
+a:82 i:36 ibs:1188
+a:82 i:37 ibs:1189
+a:82 i:38 ibs:1190
+a:82 i:39 ibs:1191
+a:82 i:40 ibs:1192
+a:82 i:41 ibs:1193
+a:82 i:42 ibs:1194
+a:82 i:43 ibs:1195
+a:82 i:44 ibs:1196
+a:82 i:45 ibs:1197
+a:82 i:46 ibs:1198
+a:82 i:47 ibs:1199
+a:82 i:48 ibs:1200
+a:82 i:49 ibs:1201
+a:82 i:50 ibs:1202
+a:82 i:51 ibs:1203
+a:82 i:52 ibs:1204
+a:82 i:53 ibs:1205
+a:82 i:54 ibs:1206
+a:82 i:55 ibs:1207
+a:82 i:56 ibs:1208
+a:82 i:57 ibs:1209
+a:82 i:58 ibs:1210
+a:82 i:59 ibs:1211
+a:82 i:60 ibs:1212
+a:82 i:61 ibs:1213
+a:82 i:62 ibs:1214
+a:82 i:63 ibs:1215
+a:83 i:0 ibs:1216
+a:83 i:1 ibs:1217
+a:83 i:2 ibs:1218
+a:83 i:3 ibs:1219
+a:83 i:4 ibs:1220
+a:83 i:5 ibs:1221
+a:83 i:6 ibs:1222
+a:83 i:7 ibs:1223
+a:83 i:8 ibs:1224
+a:83 i:9 ibs:1225
+a:83 i:10 ibs:1226
+a:83 i:11 ibs:1227
+a:83 i:12 ibs:1228
+a:83 i:13 ibs:1229
+a:83 i:14 ibs:1230
+a:83 i:15 ibs:1231
+a:83 i:16 ibs:1232
+a:83 i:17 ibs:1233
+a:83 i:18 ibs:1234
+a:83 i:19 ibs:1235
+a:83 i:20 ibs:1236
+a:83 i:21 ibs:1237
+a:83 i:22 ibs:1238
+a:83 i:23 ibs:1239
+a:83 i:24 ibs:1240
+a:83 i:25 ibs:1241
+a:83 i:26 ibs:1242
+a:83 i:27 ibs:1243
+a:83 i:28 ibs:1244
+a:83 i:29 ibs:1245
+a:83 i:30 ibs:1246
+a:83 i:31 ibs:1247
+a:83 i:32 ibs:1248
+a:83 i:33 ibs:1249
+a:83 i:34 ibs:1250
+a:83 i:35 ibs:1251
+a:83 i:36 ibs:1252
+a:83 i:37 ibs:1253
+a:83 i:38 ibs:1254
+a:83 i:39 ibs:1255
+a:83 i:40 ibs:1256
+a:83 i:41 ibs:1257
+a:83 i:42 ibs:1258
+a:83 i:43 ibs:1259
+a:83 i:44 ibs:1260
+a:83 i:45 ibs:1261
+a:83 i:46 ibs:1262
+a:83 i:47 ibs:1263
+a:83 i:48 ibs:1264
+a:83 i:49 ibs:1265
+a:83 i:50 ibs:1266
+a:83 i:51 ibs:1267
+a:83 i:52 ibs:1268
+a:83 i:53 ibs:1269
+a:83 i:54 ibs:1270
+a:83 i:55 ibs:1271
+a:83 i:56 ibs:1272
+a:83 i:57 ibs:1273
+a:83 i:58 ibs:1274
+a:83 i:59 ibs:1275
+a:83 i:60 ibs:1276
+a:83 i:61 ibs:1277
+a:83 i:62 ibs:1278
+a:83 i:63 ibs:1279
+a:84 i:0 ibs:1280
+a:84 i:1 ibs:1281
+a:84 i:2 ibs:1282
+a:84 i:3 ibs:1283
+a:84 i:4 ibs:1284
+a:84 i:5 ibs:1285
+a:84 i:6 ibs:1286
+a:84 i:7 ibs:1287
+a:84 i:8 ibs:1288
+a:84 i:9 ibs:1289
+a:84 i:10 ibs:1290
+a:84 i:11 ibs:1291
+a:84 i:12 ibs:1292
+a:84 i:13 ibs:1293
+a:84 i:14 ibs:1294
+a:84 i:15 ibs:1295
+a:84 i:16 ibs:1296
+a:84 i:17 ibs:1297
+a:84 i:18 ibs:1298
+a:84 i:19 ibs:1299
+a:84 i:20 ibs:1300
+a:84 i:21 ibs:1301
+a:84 i:22 ibs:1302
+a:84 i:23 ibs:1303
+a:84 i:24 ibs:1304
+a:84 i:25 ibs:1305
+a:84 i:26 ibs:1306
+a:84 i:27 ibs:1307
+a:84 i:28 ibs:1308
+a:84 i:29 ibs:1309
+a:84 i:30 ibs:1310
+a:84 i:31 ibs:1311
+a:84 i:32 ibs:1312
+a:84 i:33 ibs:1313
+a:84 i:34 ibs:1314
+a:84 i:35 ibs:1315
+a:84 i:36 ibs:1316
+a:84 i:37 ibs:1317
+a:84 i:38 ibs:1318
+a:84 i:39 ibs:1319
+a:84 i:40 ibs:1320
+a:84 i:41 ibs:1321
+a:84 i:42 ibs:1322
+a:84 i:43 ibs:1323
+a:84 i:44 ibs:1324
+a:84 i:45 ibs:1325
+a:84 i:46 ibs:1326
+a:84 i:47 ibs:1327
+a:84 i:48 ibs:1328
+a:84 i:49 ibs:1329
+a:84 i:50 ibs:1330
+a:84 i:51 ibs:1331
+a:84 i:52 ibs:1332
+a:84 i:53 ibs:1333
+a:84 i:54 ibs:1334
+a:84 i:55 ibs:1335
+a:84 i:56 ibs:1336
+a:84 i:57 ibs:1337
+a:84 i:58 ibs:1338
+a:84 i:59 ibs:1339
+a:84 i:60 ibs:1340
+a:84 i:61 ibs:1341
+a:84 i:62 ibs:1342
+a:84 i:63 ibs:1343
+a:85 i:0 ibs:1344
+a:85 i:1 ibs:1345
+a:85 i:2 ibs:1346
+a:85 i:3 ibs:1347
+a:85 i:4 ibs:1348
+a:85 i:5 ibs:1349
+a:85 i:6 ibs:1350
+a:85 i:7 ibs:1351
+a:85 i:8 ibs:1352
+a:85 i:9 ibs:1353
+a:85 i:10 ibs:1354
+a:85 i:11 ibs:1355
+a:85 i:12 ibs:1356
+a:85 i:13 ibs:1357
+a:85 i:14 ibs:1358
+a:85 i:15 ibs:1359
+a:85 i:16 ibs:1360
+a:85 i:17 ibs:1361
+a:85 i:18 ibs:1362
+a:85 i:19 ibs:1363
+a:85 i:20 ibs:1364
+a:85 i:21 ibs:1365
+a:85 i:22 ibs:1366
+a:85 i:23 ibs:1367
+a:85 i:24 ibs:1368
+a:85 i:25 ibs:1369
+a:85 i:26 ibs:1370
+a:85 i:27 ibs:1371
+a:85 i:28 ibs:1372
+a:85 i:29 ibs:1373
+a:85 i:30 ibs:1374
+a:85 i:31 ibs:1375
+a:85 i:32 ibs:1376
+a:85 i:33 ibs:1377
+a:85 i:34 ibs:1378
+a:85 i:35 ibs:1379
+a:85 i:36 ibs:1380
+a:85 i:37 ibs:1381
+a:85 i:38 ibs:1382
+a:85 i:39 ibs:1383
+a:85 i:40 ibs:1384
+a:85 i:41 ibs:1385
+a:85 i:42 ibs:1386
+a:85 i:43 ibs:1387
+a:85 i:44 ibs:1388
+a:85 i:45 ibs:1389
+a:85 i:46 ibs:1390
+a:85 i:47 ibs:1391
+a:85 i:48 ibs:1392
+a:85 i:49 ibs:1393
+a:85 i:50 ibs:1394
+a:85 i:51 ibs:1395
+a:85 i:52 ibs:1396
+a:85 i:53 ibs:1397
+a:85 i:54 ibs:1398
+a:85 i:55 ibs:1399
+a:85 i:56 ibs:1400
+a:85 i:57 ibs:1401
+a:85 i:58 ibs:1402
+a:85 i:59 ibs:1403
+a:85 i:60 ibs:1404
+a:85 i:61 ibs:1405
+a:85 i:62 ibs:1406
+a:85 i:63 ibs:1407
+a:86 i:0 ibs:1408
+a:86 i:1 ibs:1409
+a:86 i:2 ibs:1410
+a:86 i:3 ibs:1411
+a:86 i:4 ibs:1412
+a:86 i:5 ibs:1413
+a:86 i:6 ibs:1414
+a:86 i:7 ibs:1415
+a:86 i:8 ibs:1416
+a:86 i:9 ibs:1417
+a:86 i:10 ibs:1418
+a:86 i:11 ibs:1419
+a:86 i:12 ibs:1420
+a:86 i:13 ibs:1421
+a:86 i:14 ibs:1422
+a:86 i:15 ibs:1423
+a:86 i:16 ibs:1424
+a:86 i:17 ibs:1425
+a:86 i:18 ibs:1426
+a:86 i:19 ibs:1427
+a:86 i:20 ibs:1428
+a:86 i:21 ibs:1429
+a:86 i:22 ibs:1430
+a:86 i:23 ibs:1431
+a:86 i:24 ibs:1432
+a:86 i:25 ibs:1433
+a:86 i:26 ibs:1434
+a:86 i:27 ibs:1435
+a:86 i:28 ibs:1436
+a:86 i:29 ibs:1437
+a:86 i:30 ibs:1438
+a:86 i:31 ibs:1439
+a:86 i:32 ibs:1440
+a:86 i:33 ibs:1441
+a:86 i:34 ibs:1442
+a:86 i:35 ibs:1443
+a:86 i:36 ibs:1444
+a:86 i:37 ibs:1445
+a:86 i:38 ibs:1446
+a:86 i:39 ibs:1447
+a:86 i:40 ibs:1448
+a:86 i:41 ibs:1449
+a:86 i:42 ibs:1450
+a:86 i:43 ibs:1451
+a:86 i:44 ibs:1452
+a:86 i:45 ibs:1453
+a:86 i:46 ibs:1454
+a:86 i:47 ibs:1455
+a:86 i:48 ibs:1456
+a:86 i:49 ibs:1457
+a:86 i:50 ibs:1458
+a:86 i:51 ibs:1459
+a:86 i:52 ibs:1460
+a:86 i:53 ibs:1461
+a:86 i:54 ibs:1462
+a:86 i:55 ibs:1463
+a:86 i:56 ibs:1464
+a:86 i:57 ibs:1465
+a:86 i:58 ibs:1466
+a:86 i:59 ibs:1467
+a:86 i:60 ibs:1468
+a:86 i:61 ibs:1469
+a:86 i:62 ibs:1470
+a:86 i:63 ibs:1471
+a:87 i:0 ibs:1472
+a:87 i:1 ibs:1473
+a:87 i:2 ibs:1474
+a:87 i:3 ibs:1475
+a:87 i:4 ibs:1476
+a:87 i:5 ibs:1477
+a:87 i:6 ibs:1478
+a:87 i:7 ibs:1479
+a:87 i:8 ibs:1480
+a:87 i:9 ibs:1481
+a:87 i:10 ibs:1482
+a:87 i:11 ibs:1483
+a:87 i:12 ibs:1484
+a:87 i:13 ibs:1485
+a:87 i:14 ibs:1486
+a:87 i:15 ibs:1487
+a:87 i:16 ibs:1488
+a:87 i:17 ibs:1489
+a:87 i:18 ibs:1490
+a:87 i:19 ibs:1491
+a:87 i:20 ibs:1492
+a:87 i:21 ibs:1493
+a:87 i:22 ibs:1494
+a:87 i:23 ibs:1495
+a:87 i:24 ibs:1496
+a:87 i:25 ibs:1497
+a:87 i:26 ibs:1498
+a:87 i:27 ibs:1499
+a:87 i:28 ibs:1500
+a:87 i:29 ibs:1501
+a:87 i:30 ibs:1502
+a:87 i:31 ibs:1503
+a:87 i:32 ibs:1504
+a:87 i:33 ibs:1505
+a:87 i:34 ibs:1506
+a:87 i:35 ibs:1507
+a:87 i:36 ibs:1508
+a:87 i:37 ibs:1509
+a:87 i:38 ibs:1510
+a:87 i:39 ibs:1511
+a:87 i:40 ibs:1512
+a:87 i:41 ibs:1513
+a:87 i:42 ibs:1514
+a:87 i:43 ibs:1515
+a:87 i:44 ibs:1516
+a:87 i:45 ibs:1517
+a:87 i:46 ibs:1518
+a:87 i:47 ibs:1519
+a:87 i:48 ibs:1520
+a:87 i:49 ibs:1521
+a:87 i:50 ibs:1522
+a:87 i:51 ibs:1523
+a:87 i:52 ibs:1524
+a:87 i:53 ibs:1525
+a:87 i:54 ibs:1526
+a:87 i:55 ibs:1527
+a:87 i:56 ibs:1528
+a:87 i:57 ibs:1529
+a:87 i:58 ibs:1530
+a:87 i:59 ibs:1531
+a:87 i:60 ibs:1532
+a:87 i:61 ibs:1533
+a:87 i:62 ibs:1534
+a:87 i:63 ibs:1535
+a:88 i:0 ibs:1536
+a:88 i:1 ibs:1537
+a:88 i:2 ibs:1538
+a:88 i:3 ibs:1539
+a:88 i:4 ibs:1540
+a:88 i:5 ibs:1541
+a:88 i:6 ibs:1542
+a:88 i:7 ibs:1543
+a:88 i:8 ibs:1544
+a:88 i:9 ibs:1545
+a:88 i:10 ibs:1546
+a:88 i:11 ibs:1547
+a:88 i:12 ibs:1548
+a:88 i:13 ibs:1549
+a:88 i:14 ibs:1550
+a:88 i:15 ibs:1551
+a:88 i:16 ibs:1552
+a:88 i:17 ibs:1553
+a:88 i:18 ibs:1554
+a:88 i:19 ibs:1555
+a:88 i:20 ibs:1556
+a:88 i:21 ibs:1557
+a:88 i:22 ibs:1558
+a:88 i:23 ibs:1559
+a:88 i:24 ibs:1560
+a:88 i:25 ibs:1561
+a:88 i:26 ibs:1562
+a:88 i:27 ibs:1563
+a:88 i:28 ibs:1564
+a:88 i:29 ibs:1565
+a:88 i:30 ibs:1566
+a:88 i:31 ibs:1567
+a:88 i:32 ibs:1568
+a:88 i:33 ibs:1569
+a:88 i:34 ibs:1570
+a:88 i:35 ibs:1571
+a:88 i:36 ibs:1572
+a:88 i:37 ibs:1573
+a:88 i:38 ibs:1574
+a:88 i:39 ibs:1575
+a:88 i:40 ibs:1576
+a:88 i:41 ibs:1577
+a:88 i:42 ibs:1578
+a:88 i:43 ibs:1579
+a:88 i:44 ibs:1580
+a:88 i:45 ibs:1581
+a:88 i:46 ibs:1582
+a:88 i:47 ibs:1583
+a:88 i:48 ibs:1584
+a:88 i:49 ibs:1585
+a:88 i:50 ibs:1586
+a:88 i:51 ibs:1587
+a:88 i:52 ibs:1588
+a:88 i:53 ibs:1589
+a:88 i:54 ibs:1590
+a:88 i:55 ibs:1591
+a:88 i:56 ibs:1592
+a:88 i:57 ibs:1593
+a:88 i:58 ibs:1594
+a:88 i:59 ibs:1595
+a:88 i:60 ibs:1596
+a:88 i:61 ibs:1597
+a:88 i:62 ibs:1598
+a:88 i:63 ibs:1599
+a:89 i:0 ibs:1600
+a:89 i:1 ibs:1601
+a:89 i:2 ibs:1602
+a:89 i:3 ibs:1603
+a:89 i:4 ibs:1604
+a:89 i:5 ibs:1605
+a:89 i:6 ibs:1606
+a:89 i:7 ibs:1607
+a:89 i:8 ibs:1608
+a:89 i:9 ibs:1609
+a:89 i:10 ibs:1610
+a:89 i:11 ibs:1611
+a:89 i:12 ibs:1612
+a:89 i:13 ibs:1613
+a:89 i:14 ibs:1614
+a:89 i:15 ibs:1615
+a:89 i:16 ibs:1616
+a:89 i:17 ibs:1617
+a:89 i:18 ibs:1618
+a:89 i:19 ibs:1619
+a:89 i:20 ibs:1620
+a:89 i:21 ibs:1621
+a:89 i:22 ibs:1622
+a:89 i:23 ibs:1623
+a:89 i:24 ibs:1624
+a:89 i:25 ibs:1625
+a:89 i:26 ibs:1626
+a:89 i:27 ibs:1627
+a:89 i:28 ibs:1628
+a:89 i:29 ibs:1629
+a:89 i:30 ibs:1630
+a:89 i:31 ibs:1631
+a:89 i:32 ibs:1632
+a:89 i:33 ibs:1633
+a:89 i:34 ibs:1634
+a:89 i:35 ibs:1635
+a:89 i:36 ibs:1636
+a:89 i:37 ibs:1637
+a:89 i:38 ibs:1638
+a:89 i:39 ibs:1639
+a:89 i:40 ibs:1640
+a:89 i:41 ibs:1641
+a:89 i:42 ibs:1642
+a:89 i:43 ibs:1643
+a:89 i:44 ibs:1644
+a:89 i:45 ibs:1645
+a:89 i:46 ibs:1646
+a:89 i:47 ibs:1647
+a:89 i:48 ibs:1648
+a:89 i:49 ibs:1649
+a:89 i:50 ibs:1650
+a:89 i:51 ibs:1651
+a:89 i:52 ibs:1652
+a:89 i:53 ibs:1653
+a:89 i:54 ibs:1654
+a:89 i:55 ibs:1655
+a:89 i:56 ibs:1656
+a:89 i:57 ibs:1657
+a:89 i:58 ibs:1658
+a:89 i:59 ibs:1659
+a:89 i:60 ibs:1660
+a:89 i:61 ibs:1661
+a:89 i:62 ibs:1662
+a:89 i:63 ibs:1663
+a:90 i:0 ibs:1664
+a:90 i:1 ibs:1665
+a:90 i:2 ibs:1666
+a:90 i:3 ibs:1667
+a:90 i:4 ibs:1668
+a:90 i:5 ibs:1669
+a:90 i:6 ibs:1670
+a:90 i:7 ibs:1671
+a:90 i:8 ibs:1672
+a:90 i:9 ibs:1673
+a:90 i:10 ibs:1674
+a:90 i:11 ibs:1675
+a:90 i:12 ibs:1676
+a:90 i:13 ibs:1677
+a:90 i:14 ibs:1678
+a:90 i:15 ibs:1679
+a:90 i:16 ibs:1680
+a:90 i:17 ibs:1681
+a:90 i:18 ibs:1682
+a:90 i:19 ibs:1683
+a:90 i:20 ibs:1684
+a:90 i:21 ibs:1685
+a:90 i:22 ibs:1686
+a:90 i:23 ibs:1687
+a:90 i:24 ibs:1688
+a:90 i:25 ibs:1689
+a:90 i:26 ibs:1690
+a:90 i:27 ibs:1691
+a:90 i:28 ibs:1692
+a:90 i:29 ibs:1693
+a:90 i:30 ibs:1694
+a:90 i:31 ibs:1695
+a:90 i:32 ibs:1696
+a:90 i:33 ibs:1697
+a:90 i:34 ibs:1698
+a:90 i:35 ibs:1699
+a:90 i:36 ibs:1700
+a:90 i:37 ibs:1701
+a:90 i:38 ibs:1702
+a:90 i:39 ibs:1703
+a:90 i:40 ibs:1704
+a:90 i:41 ibs:1705
+a:90 i:42 ibs:1706
+a:90 i:43 ibs:1707
+a:90 i:44 ibs:1708
+a:90 i:45 ibs:1709
+a:90 i:46 ibs:1710
+a:90 i:47 ibs:1711
+a:90 i:48 ibs:1712
+a:90 i:49 ibs:1713
+a:90 i:50 ibs:1714
+a:90 i:51 ibs:1715
+a:90 i:52 ibs:1716
+a:90 i:53 ibs:1717
+a:90 i:54 ibs:1718
+a:90 i:55 ibs:1719
+a:90 i:56 ibs:1720
+a:90 i:57 ibs:1721
+a:90 i:58 ibs:1722
+a:90 i:59 ibs:1723
+a:90 i:60 ibs:1724
+a:90 i:61 ibs:1725
+a:90 i:62 ibs:1726
+a:90 i:63 ibs:1727
+a:91 i:0 ibs:1728
+a:91 i:1 ibs:1729
+a:91 i:2 ibs:1730
+a:91 i:3 ibs:1731
+a:91 i:4 ibs:1732
+a:91 i:5 ibs:1733
+a:91 i:6 ibs:1734
+a:91 i:7 ibs:1735
+a:91 i:8 ibs:1736
+a:91 i:9 ibs:1737
+a:91 i:10 ibs:1738
+a:91 i:11 ibs:1739
+a:91 i:12 ibs:1740
+a:91 i:13 ibs:1741
+a:91 i:14 ibs:1742
+a:91 i:15 ibs:1743
+a:91 i:16 ibs:1744
+a:91 i:17 ibs:1745
+a:91 i:18 ibs:1746
+a:91 i:19 ibs:1747
+a:91 i:20 ibs:1748
+a:91 i:21 ibs:1749
+a:91 i:22 ibs:1750
+a:91 i:23 ibs:1751
+a:91 i:24 ibs:1752
+a:91 i:25 ibs:1753
+a:91 i:26 ibs:1754
+a:91 i:27 ibs:1755
+a:91 i:28 ibs:1756
+a:91 i:29 ibs:1757
+a:91 i:30 ibs:1758
+a:91 i:31 ibs:1759
+a:91 i:32 ibs:1760
+a:91 i:33 ibs:1761
+a:91 i:34 ibs:1762
+a:91 i:35 ibs:1763
+a:91 i:36 ibs:1764
+a:91 i:37 ibs:1765
+a:91 i:38 ibs:1766
+a:91 i:39 ibs:1767
+a:91 i:40 ibs:1768
+a:91 i:41 ibs:1769
+a:91 i:42 ibs:1770
+a:91 i:43 ibs:1771
+a:91 i:44 ibs:1772
+a:91 i:45 ibs:1773
+a:91 i:46 ibs:1774
+a:91 i:47 ibs:1775
+a:91 i:48 ibs:1776
+a:91 i:49 ibs:1777
+a:91 i:50 ibs:1778
+a:91 i:51 ibs:1779
+a:91 i:52 ibs:1780
+a:91 i:53 ibs:1781
+a:91 i:54 ibs:1782
+a:91 i:55 ibs:1783
+a:91 i:56 ibs:1784
+a:91 i:57 ibs:1785
+a:91 i:58 ibs:1786
+a:91 i:59 ibs:1787
+a:91 i:60 ibs:1788
+a:91 i:61 ibs:1789
+a:91 i:62 ibs:1790
+a:91 i:63 ibs:1791
+a:92 i:0 ibs:1792
+a:92 i:1 ibs:1793
+a:92 i:2 ibs:1794
+a:92 i:3 ibs:1795
+a:92 i:4 ibs:1796
+a:92 i:5 ibs:1797
+a:92 i:6 ibs:1798
+a:92 i:7 ibs:1799
+a:92 i:8 ibs:1800
+a:92 i:9 ibs:1801
+a:92 i:10 ibs:1802
+a:92 i:11 ibs:1803
+a:92 i:12 ibs:1804
+a:92 i:13 ibs:1805
+a:92 i:14 ibs:1806
+a:92 i:15 ibs:1807
+a:92 i:16 ibs:1808
+a:92 i:17 ibs:1809
+a:92 i:18 ibs:1810
+a:92 i:19 ibs:1811
+a:92 i:20 ibs:1812
+a:92 i:21 ibs:1813
+a:92 i:22 ibs:1814
+a:92 i:23 ibs:1815
+a:92 i:24 ibs:1816
+a:92 i:25 ibs:1817
+a:92 i:26 ibs:1818
+a:92 i:27 ibs:1819
+a:92 i:28 ibs:1820
+a:92 i:29 ibs:1821
+a:92 i:30 ibs:1822
+a:92 i:31 ibs:1823
+a:92 i:32 ibs:1824
+a:92 i:33 ibs:1825
+a:92 i:34 ibs:1826
+a:92 i:35 ibs:1827
+a:92 i:36 ibs:1828
+a:92 i:37 ibs:1829
+a:92 i:38 ibs:1830
+a:92 i:39 ibs:1831
+a:92 i:40 ibs:1832
+a:92 i:41 ibs:1833
+a:92 i:42 ibs:1834
+a:92 i:43 ibs:1835
+a:92 i:44 ibs:1836
+a:92 i:45 ibs:1837
+a:92 i:46 ibs:1838
+a:92 i:47 ibs:1839
+a:92 i:48 ibs:1840
+a:92 i:49 ibs:1841
+a:92 i:50 ibs:1842
+a:92 i:51 ibs:1843
+a:92 i:52 ibs:1844
+a:92 i:53 ibs:1845
+a:92 i:54 ibs:1846
+a:92 i:55 ibs:1847
+a:92 i:56 ibs:1848
+a:92 i:57 ibs:1849
+a:92 i:58 ibs:1850
+a:92 i:59 ibs:1851
+a:92 i:60 ibs:1852
+a:92 i:61 ibs:1853
+a:92 i:62 ibs:1854
+a:92 i:63 ibs:1855
+a:93 i:0 ibs:1856
+a:93 i:1 ibs:1857
+a:93 i:2 ibs:1858
+a:93 i:3 ibs:1859
+a:93 i:4 ibs:1860
+a:93 i:5 ibs:1861
+a:93 i:6 ibs:1862
+a:93 i:7 ibs:1863
+a:93 i:8 ibs:1864
+a:93 i:9 ibs:1865
+a:93 i:10 ibs:1866
+a:93 i:11 ibs:1867
+a:93 i:12 ibs:1868
+a:93 i:13 ibs:1869
+a:93 i:14 ibs:1870
+a:93 i:15 ibs:1871
+a:93 i:16 ibs:1872
+a:93 i:17 ibs:1873
+a:93 i:18 ibs:1874
+a:93 i:19 ibs:1875
+a:93 i:20 ibs:1876
+a:93 i:21 ibs:1877
+a:93 i:22 ibs:1878
+a:93 i:23 ibs:1879
+a:93 i:24 ibs:1880
+a:93 i:25 ibs:1881
+a:93 i:26 ibs:1882
+a:93 i:27 ibs:1883
+a:93 i:28 ibs:1884
+a:93 i:29 ibs:1885
+a:93 i:30 ibs:1886
+a:93 i:31 ibs:1887
+a:93 i:32 ibs:1888
+a:93 i:33 ibs:1889
+a:93 i:34 ibs:1890
+a:93 i:35 ibs:1891
+a:93 i:36 ibs:1892
+a:93 i:37 ibs:1893
+a:93 i:38 ibs:1894
+a:93 i:39 ibs:1895
+a:93 i:40 ibs:1896
+a:93 i:41 ibs:1897
+a:93 i:42 ibs:1898
+a:93 i:43 ibs:1899
+a:93 i:44 ibs:1900
+a:93 i:45 ibs:1901
+a:93 i:46 ibs:1902
+a:93 i:47 ibs:1903
+a:93 i:48 ibs:1904
+a:93 i:49 ibs:1905
+a:93 i:50 ibs:1906
+a:93 i:51 ibs:1907
+a:93 i:52 ibs:1908
+a:93 i:53 ibs:1909
+a:93 i:54 ibs:1910
+a:93 i:55 ibs:1911
+a:93 i:56 ibs:1912
+a:93 i:57 ibs:1913
+a:93 i:58 ibs:1914
+a:93 i:59 ibs:1915
+a:93 i:60 ibs:1916
+a:93 i:61 ibs:1917
+a:93 i:62 ibs:1918
+a:93 i:63 ibs:1919
+a:94 i:0 ibs:1920
+a:94 i:1 ibs:1921
+a:94 i:2 ibs:1922
+a:94 i:3 ibs:1923
+a:94 i:4 ibs:1924
+a:94 i:5 ibs:1925
+a:94 i:6 ibs:1926
+a:94 i:7 ibs:1927
+a:94 i:8 ibs:1928
+a:94 i:9 ibs:1929
+a:94 i:10 ibs:1930
+a:94 i:11 ibs:1931
+a:94 i:12 ibs:1932
+a:94 i:13 ibs:1933
+a:94 i:14 ibs:1934
+a:94 i:15 ibs:1935
+a:94 i:16 ibs:1936
+a:94 i:17 ibs:1937
+a:94 i:18 ibs:1938
+a:94 i:19 ibs:1939
+a:94 i:20 ibs:1940
+a:94 i:21 ibs:1941
+a:94 i:22 ibs:1942
+a:94 i:23 ibs:1943
+a:94 i:24 ibs:1944
+a:94 i:25 ibs:1945
+a:94 i:26 ibs:1946
+a:94 i:27 ibs:1947
+a:94 i:28 ibs:1948
+a:94 i:29 ibs:1949
+a:94 i:30 ibs:1950
+a:94 i:31 ibs:1951
+a:94 i:32 ibs:1952
+a:94 i:33 ibs:1953
+a:94 i:34 ibs:1954
+a:94 i:35 ibs:1955
+a:94 i:36 ibs:1956
+a:94 i:37 ibs:1957
+a:94 i:38 ibs:1958
+a:94 i:39 ibs:1959
+a:94 i:40 ibs:1960
+a:94 i:41 ibs:1961
+a:94 i:42 ibs:1962
+a:94 i:43 ibs:1963
+a:94 i:44 ibs:1964
+a:94 i:45 ibs:1965
+a:94 i:46 ibs:1966
+a:94 i:47 ibs:1967
+a:94 i:48 ibs:1968
+a:94 i:49 ibs:1969
+a:94 i:50 ibs:1970
+a:94 i:51 ibs:1971
+a:94 i:52 ibs:1972
+a:94 i:53 ibs:1973
+a:94 i:54 ibs:1974
+a:94 i:55 ibs:1975
+a:94 i:56 ibs:1976
+a:94 i:57 ibs:1977
+a:94 i:58 ibs:1978
+a:94 i:59 ibs:1979
+a:94 i:60 ibs:1980
+a:94 i:61 ibs:1981
+a:94 i:62 ibs:1982
+a:94 i:63 ibs:1983
+a:95 i:0 ibs:1984
+a:95 i:1 ibs:1985
+a:95 i:2 ibs:1986
+a:95 i:3 ibs:1987
+a:95 i:4 ibs:1988
+a:95 i:5 ibs:1989
+a:95 i:6 ibs:1990
+a:95 i:7 ibs:1991
+a:95 i:8 ibs:1992
+a:95 i:9 ibs:1993
+a:95 i:10 ibs:1994
+a:95 i:11 ibs:1995
+a:95 i:12 ibs:1996
+a:95 i:13 ibs:1997
+a:95 i:14 ibs:1998
+a:95 i:15 ibs:1999
+a:95 i:16 ibs:2000
+a:95 i:17 ibs:2001
+a:95 i:18 ibs:2002
+a:95 i:19 ibs:2003
+a:95 i:20 ibs:2004
+a:95 i:21 ibs:2005
+a:95 i:22 ibs:2006
+a:95 i:23 ibs:2007
+a:95 i:24 ibs:2008
+a:95 i:25 ibs:2009
+a:95 i:26 ibs:2010
+a:95 i:27 ibs:2011
+a:95 i:28 ibs:2012
+a:95 i:29 ibs:2013
+a:95 i:30 ibs:2014
+a:95 i:31 ibs:2015
+a:95 i:32 ibs:2016
+a:95 i:33 ibs:2017
+a:95 i:34 ibs:2018
+a:95 i:35 ibs:2019
+a:95 i:36 ibs:2020
+a:95 i:37 ibs:2021
+a:95 i:38 ibs:2022
+a:95 i:39 ibs:2023
+a:95 i:40 ibs:2024
+a:95 i:41 ibs:2025
+a:95 i:42 ibs:2026
+a:95 i:43 ibs:2027
+a:95 i:44 ibs:2028
+a:95 i:45 ibs:2029
+a:95 i:46 ibs:2030
+a:95 i:47 ibs:2031
+a:95 i:48 ibs:2032
+a:95 i:49 ibs:2033
+a:95 i:50 ibs:2034
+a:95 i:51 ibs:2035
+a:95 i:52 ibs:2036
+a:95 i:53 ibs:2037
+a:95 i:54 ibs:2038
+a:95 i:55 ibs:2039
+a:95 i:56 ibs:2040
+a:95 i:57 ibs:2041
+a:95 i:58 ibs:2042
+a:95 i:59 ibs:2043
+a:95 i:60 ibs:2044
+a:95 i:61 ibs:2045
+a:95 i:62 ibs:2046
+a:95 i:63 ibs:2047
+a:96 i:0 ibs:2048
+a:96 i:1 ibs:2049
+a:96 i:2 ibs:2050
+a:96 i:3 ibs:2051
+a:96 i:4 ibs:2052
+a:96 i:5 ibs:2053
+a:96 i:6 ibs:2054
+a:96 i:7 ibs:2055
+a:96 i:8 ibs:2056
+a:96 i:9 ibs:2057
+a:96 i:10 ibs:2058
+a:96 i:11 ibs:2059
+a:96 i:12 ibs:2060
+a:96 i:13 ibs:2061
+a:96 i:14 ibs:2062
+a:96 i:15 ibs:2063
+a:96 i:16 ibs:2064
+a:96 i:17 ibs:2065
+a:96 i:18 ibs:2066
+a:96 i:19 ibs:2067
+a:96 i:20 ibs:2068
+a:96 i:21 ibs:2069
+a:96 i:22 ibs:2070
+a:96 i:23 ibs:2071
+a:96 i:24 ibs:2072
+a:96 i:25 ibs:2073
+a:96 i:26 ibs:2074
+a:96 i:27 ibs:2075
+a:96 i:28 ibs:2076
+a:96 i:29 ibs:2077
+a:96 i:30 ibs:2078
+a:96 i:31 ibs:2079
+a:96 i:32 ibs:2080
+a:96 i:33 ibs:2081
+a:96 i:34 ibs:2082
+a:96 i:35 ibs:2083
+a:96 i:36 ibs:2084
+a:96 i:37 ibs:2085
+a:96 i:38 ibs:2086
+a:96 i:39 ibs:2087
+a:96 i:40 ibs:2088
+a:96 i:41 ibs:2089
+a:96 i:42 ibs:2090
+a:96 i:43 ibs:2091
+a:96 i:44 ibs:2092
+a:96 i:45 ibs:2093
+a:96 i:46 ibs:2094
+a:96 i:47 ibs:2095
+a:96 i:48 ibs:2096
+a:96 i:49 ibs:2097
+a:96 i:50 ibs:2098
+a:96 i:51 ibs:2099
+a:96 i:52 ibs:2100
+a:96 i:53 ibs:2101
+a:96 i:54 ibs:2102
+a:96 i:55 ibs:2103
+a:96 i:56 ibs:2104
+a:96 i:57 ibs:2105
+a:96 i:58 ibs:2106
+a:96 i:59 ibs:2107
+a:96 i:60 ibs:2108
+a:96 i:61 ibs:2109
+a:96 i:62 ibs:2110
+a:96 i:63 ibs:2111
+a:97 i:0 ibs:2112
+a:97 i:1 ibs:2113
+a:97 i:2 ibs:2114
+a:97 i:3 ibs:2115
+a:97 i:4 ibs:2116
+a:97 i:5 ibs:2117
+a:97 i:6 ibs:2118
+a:97 i:7 ibs:2119
+a:97 i:8 ibs:2120
+a:97 i:9 ibs:2121
+a:97 i:10 ibs:2122
+a:97 i:11 ibs:2123
+a:97 i:12 ibs:2124
+a:97 i:13 ibs:2125
+a:97 i:14 ibs:2126
+a:97 i:15 ibs:2127
+a:97 i:16 ibs:2128
+a:97 i:17 ibs:2129
+a:97 i:18 ibs:2130
+a:97 i:19 ibs:2131
+a:97 i:20 ibs:2132
+a:97 i:21 ibs:2133
+a:97 i:22 ibs:2134
+a:97 i:23 ibs:2135
+a:97 i:24 ibs:2136
+a:97 i:25 ibs:2137
+a:97 i:26 ibs:2138
+a:97 i:27 ibs:2139
+a:97 i:28 ibs:2140
+a:97 i:29 ibs:2141
+a:97 i:30 ibs:2142
+a:97 i:31 ibs:2143
+a:97 i:32 ibs:2144
+a:97 i:33 ibs:2145
+a:97 i:34 ibs:2146
+a:97 i:35 ibs:2147
+a:97 i:36 ibs:2148
+a:97 i:37 ibs:2149
+a:97 i:38 ibs:2150
+a:97 i:39 ibs:2151
+a:97 i:40 ibs:2152
+a:97 i:41 ibs:2153
+a:97 i:42 ibs:2154
+a:97 i:43 ibs:2155
+a:97 i:44 ibs:2156
+a:97 i:45 ibs:2157
+a:97 i:46 ibs:2158
+a:97 i:47 ibs:2159
+a:97 i:48 ibs:2160
+a:97 i:49 ibs:2161
+a:97 i:50 ibs:2162
+a:97 i:51 ibs:2163
+a:97 i:52 ibs:2164
+a:97 i:53 ibs:2165
+a:97 i:54 ibs:2166
+a:97 i:55 ibs:2167
+a:97 i:56 ibs:2168
+a:97 i:57 ibs:2169
+a:97 i:58 ibs:2170
+a:97 i:59 ibs:2171
+a:97 i:60 ibs:2172
+a:97 i:61 ibs:2173
+a:97 i:62 ibs:2174
+a:97 i:63 ibs:2175
+a:98 i:0 ibs:2176
+a:98 i:1 ibs:2177
+a:98 i:2 ibs:2178
+a:98 i:3 ibs:2179
+a:98 i:4 ibs:2180
+a:98 i:5 ibs:2181
+a:98 i:6 ibs:2182
+a:98 i:7 ibs:2183
+a:98 i:8 ibs:2184
+a:98 i:9 ibs:2185
+a:98 i:10 ibs:2186
+a:98 i:11 ibs:2187
+a:98 i:12 ibs:2188
+a:98 i:13 ibs:2189
+a:98 i:14 ibs:2190
+a:98 i:15 ibs:2191
+a:98 i:16 ibs:2192
+a:98 i:17 ibs:2193
+a:98 i:18 ibs:2194
+a:98 i:19 ibs:2195
+a:98 i:20 ibs:2196
+a:98 i:21 ibs:2197
+a:98 i:22 ibs:2198
+a:98 i:23 ibs:2199
+a:98 i:24 ibs:2200
+a:98 i:25 ibs:2201
+a:98 i:26 ibs:2202
+a:98 i:27 ibs:2203
+a:98 i:28 ibs:2204
+a:98 i:29 ibs:2205
+a:98 i:30 ibs:2206
+a:98 i:31 ibs:2207
+a:98 i:32 ibs:2208
+a:98 i:33 ibs:2209
+a:98 i:34 ibs:2210
+a:98 i:35 ibs:2211
+a:98 i:36 ibs:2212
+a:98 i:37 ibs:2213
+a:98 i:38 ibs:2214
+a:98 i:39 ibs:2215
+a:98 i:40 ibs:2216
+a:98 i:41 ibs:2217
+a:98 i:42 ibs:2218
+a:98 i:43 ibs:2219
+a:98 i:44 ibs:2220
+a:98 i:45 ibs:2221
+a:98 i:46 ibs:2222
+a:98 i:47 ibs:2223
+a:98 i:48 ibs:2224
+a:98 i:49 ibs:2225
+a:98 i:50 ibs:2226
+a:98 i:51 ibs:2227
+a:98 i:52 ibs:2228
+a:98 i:53 ibs:2229
+a:98 i:54 ibs:2230
+a:98 i:55 ibs:2231
+a:98 i:56 ibs:2232
+a:98 i:57 ibs:2233
+a:98 i:58 ibs:2234
+a:98 i:59 ibs:2235
+a:98 i:60 ibs:2236
+a:98 i:61 ibs:2237
+a:98 i:62 ibs:2238
+a:98 i:63 ibs:2239
+a:99 i:0 ibs:2240
+a:99 i:1 ibs:2241
+a:99 i:2 ibs:2242
+a:99 i:3 ibs:2243
+a:99 i:4 ibs:2244
+a:99 i:5 ibs:2245
+a:99 i:6 ibs:2246
+a:99 i:7 ibs:2247
+a:99 i:8 ibs:2248
+a:99 i:9 ibs:2249
+a:99 i:10 ibs:2250
+a:99 i:11 ibs:2251
+a:99 i:12 ibs:2252
+a:99 i:13 ibs:2253
+a:99 i:14 ibs:2254
+a:99 i:15 ibs:2255
+a:99 i:16 ibs:2256
+a:99 i:17 ibs:2257
+a:99 i:18 ibs:2258
+a:99 i:19 ibs:2259
+a:99 i:20 ibs:2260
+a:99 i:21 ibs:2261
+a:99 i:22 ibs:2262
+a:99 i:23 ibs:2263
+a:99 i:24 ibs:2264
+a:99 i:25 ibs:2265
+a:99 i:26 ibs:2266
+a:99 i:27 ibs:2267
+a:99 i:28 ibs:2268
+a:99 i:29 ibs:2269
+a:99 i:30 ibs:2270
+a:99 i:31 ibs:2271
+a:99 i:32 ibs:2272
+a:99 i:33 ibs:2273
+a:99 i:34 ibs:2274
+a:99 i:35 ibs:2275
+a:99 i:36 ibs:2276
+a:99 i:37 ibs:2277
+a:99 i:38 ibs:2278
+a:99 i:39 ibs:2279
+a:99 i:40 ibs:2280
+a:99 i:41 ibs:2281
+a:99 i:42 ibs:2282
+a:99 i:43 ibs:2283
+a:99 i:44 ibs:2284
+a:99 i:45 ibs:2285
+a:99 i:46 ibs:2286
+a:99 i:47 ibs:2287
+a:99 i:48 ibs:2288
+a:99 i:49 ibs:2289
+a:99 i:50 ibs:2290
+a:99 i:51 ibs:2291
+a:99 i:52 ibs:2292
+a:99 i:53 ibs:2293
+a:99 i:54 ibs:2294
+a:99 i:55 ibs:2295
+a:99 i:56 ibs:2296
+a:99 i:57 ibs:2297
+a:99 i:58 ibs:2298
+a:99 i:59 ibs:2299
+a:99 i:60 ibs:2300
+a:99 i:61 ibs:2301
+a:99 i:62 ibs:2302
+a:99 i:63 ibs:2303
+a:100 i:0 ibs:2304
+a:100 i:1 ibs:2305
+a:100 i:2 ibs:2306
+a:100 i:3 ibs:2307
+a:100 i:4 ibs:2308
+a:100 i:5 ibs:2309
+a:100 i:6 ibs:2310
+a:100 i:7 ibs:2311
+a:100 i:8 ibs:2312
+a:100 i:9 ibs:2313
+a:100 i:10 ibs:2314
+a:100 i:11 ibs:2315
+a:100 i:12 ibs:2316
+a:100 i:13 ibs:2317
+a:100 i:14 ibs:2318
+a:100 i:15 ibs:2319
+a:100 i:16 ibs:2320
+a:100 i:17 ibs:2321
+a:100 i:18 ibs:2322
+a:100 i:19 ibs:2323
+a:100 i:20 ibs:2324
+a:100 i:21 ibs:2325
+a:100 i:22 ibs:2326
+a:100 i:23 ibs:2327
+a:100 i:24 ibs:2328
+a:100 i:25 ibs:2329
+a:100 i:26 ibs:2330
+a:100 i:27 ibs:2331
+a:100 i:28 ibs:2332
+a:100 i:29 ibs:2333
+a:100 i:30 ibs:2334
+a:100 i:31 ibs:2335
+a:100 i:32 ibs:2336
+a:100 i:33 ibs:2337
+a:100 i:34 ibs:2338
+a:100 i:35 ibs:2339
+a:100 i:36 ibs:2340
+a:100 i:37 ibs:2341
+a:100 i:38 ibs:2342
+a:100 i:39 ibs:2343
+a:100 i:40 ibs:2344
+a:100 i:41 ibs:2345
+a:100 i:42 ibs:2346
+a:100 i:43 ibs:2347
+a:100 i:44 ibs:2348
+a:100 i:45 ibs:2349
+a:100 i:46 ibs:2350
+a:100 i:47 ibs:2351
+a:100 i:48 ibs:2352
+a:100 i:49 ibs:2353
+a:100 i:50 ibs:2354
+a:100 i:51 ibs:2355
+a:100 i:52 ibs:2356
+a:100 i:53 ibs:2357
+a:100 i:54 ibs:2358
+a:100 i:55 ibs:2359
+a:100 i:56 ibs:2360
+a:100 i:57 ibs:2361
+a:100 i:58 ibs:2362
+a:100 i:59 ibs:2363
+a:100 i:60 ibs:2364
+a:100 i:61 ibs:2365
+a:100 i:62 ibs:2366
+a:100 i:63 ibs:2367
+a:101 i:0 ibs:2368
+a:101 i:1 ibs:2369
+a:101 i:2 ibs:2370
+a:101 i:3 ibs:2371
+a:101 i:4 ibs:2372
+a:101 i:5 ibs:2373
+a:101 i:6 ibs:2374
+a:101 i:7 ibs:2375
+a:101 i:8 ibs:2376
+a:101 i:9 ibs:2377
+a:101 i:10 ibs:2378
+a:101 i:11 ibs:2379
+a:101 i:12 ibs:2380
+a:101 i:13 ibs:2381
+a:101 i:14 ibs:2382
+a:101 i:15 ibs:2383
+a:101 i:16 ibs:2384
+a:101 i:17 ibs:2385
+a:101 i:18 ibs:2386
+a:101 i:19 ibs:2387
+a:101 i:20 ibs:2388
+a:101 i:21 ibs:2389
+a:101 i:22 ibs:2390
+a:101 i:23 ibs:2391
+a:101 i:24 ibs:2392
+a:101 i:25 ibs:2393
+a:101 i:26 ibs:2394
+a:101 i:27 ibs:2395
+a:101 i:28 ibs:2396
+a:101 i:29 ibs:2397
+a:101 i:30 ibs:2398
+a:101 i:31 ibs:2399
+a:101 i:32 ibs:2400
+a:101 i:33 ibs:2401
+a:101 i:34 ibs:2402
+a:101 i:35 ibs:2403
+a:101 i:36 ibs:2404
+a:101 i:37 ibs:2405
+a:101 i:38 ibs:2406
+a:101 i:39 ibs:2407
+a:101 i:40 ibs:2408
+a:101 i:41 ibs:2409
+a:101 i:42 ibs:2410
+a:101 i:43 ibs:2411
+a:101 i:44 ibs:2412
+a:101 i:45 ibs:2413
+a:101 i:46 ibs:2414
+a:101 i:47 ibs:2415
+a:101 i:48 ibs:2416
+a:101 i:49 ibs:2417
+a:101 i:50 ibs:2418
+a:101 i:51 ibs:2419
+a:101 i:52 ibs:2420
+a:101 i:53 ibs:2421
+a:101 i:54 ibs:2422
+a:101 i:55 ibs:2423
+a:101 i:56 ibs:2424
+a:101 i:57 ibs:2425
+a:101 i:58 ibs:2426
+a:101 i:59 ibs:2427
+a:101 i:60 ibs:2428
+a:101 i:61 ibs:2429
+a:101 i:62 ibs:2430
+a:101 i:63 ibs:2431
+a:102 i:0 ibs:2432
+a:102 i:1 ibs:2433
+a:102 i:2 ibs:2434
+a:102 i:3 ibs:2435
+a:102 i:4 ibs:2436
+a:102 i:5 ibs:2437
+a:102 i:6 ibs:2438
+a:102 i:7 ibs:2439
+a:102 i:8 ibs:2440
+a:102 i:9 ibs:2441
+a:102 i:10 ibs:2442
+a:102 i:11 ibs:2443
+a:102 i:12 ibs:2444
+a:102 i:13 ibs:2445
+a:102 i:14 ibs:2446
+a:102 i:15 ibs:2447
+a:102 i:16 ibs:2448
+a:102 i:17 ibs:2449
+a:102 i:18 ibs:2450
+a:102 i:19 ibs:2451
+a:102 i:20 ibs:2452
+a:102 i:21 ibs:2453
+a:102 i:22 ibs:2454
+a:102 i:23 ibs:2455
+a:102 i:24 ibs:2456
+a:102 i:25 ibs:2457
+a:102 i:26 ibs:2458
+a:102 i:27 ibs:2459
+a:102 i:28 ibs:2460
+a:102 i:29 ibs:2461
+a:102 i:30 ibs:2462
+a:102 i:31 ibs:2463
+a:102 i:32 ibs:2464
+a:102 i:33 ibs:2465
+a:102 i:34 ibs:2466
+a:102 i:35 ibs:2467
+a:102 i:36 ibs:2468
+a:102 i:37 ibs:2469
+a:102 i:38 ibs:2470
+a:102 i:39 ibs:2471
+a:102 i:40 ibs:2472
+a:102 i:41 ibs:2473
+a:102 i:42 ibs:2474
+a:102 i:43 ibs:2475
+a:102 i:44 ibs:2476
+a:102 i:45 ibs:2477
+a:102 i:46 ibs:2478
+a:102 i:47 ibs:2479
+a:102 i:48 ibs:2480
+a:102 i:49 ibs:2481
+a:102 i:50 ibs:2482
+a:102 i:51 ibs:2483
+a:102 i:52 ibs:2484
+a:102 i:53 ibs:2485
+a:102 i:54 ibs:2486
+a:102 i:55 ibs:2487
+a:102 i:56 ibs:2488
+a:102 i:57 ibs:2489
+a:102 i:58 ibs:2490
+a:102 i:59 ibs:2491
+a:102 i:60 ibs:2492
+a:102 i:61 ibs:2493
+a:102 i:62 ibs:2494
+a:102 i:63 ibs:2495
+a:103 i:0 ibs:2496
+a:103 i:1 ibs:2497
+a:103 i:2 ibs:2498
+a:103 i:3 ibs:2499
+a:103 i:4 ibs:2500
+a:103 i:5 ibs:2501
+a:103 i:6 ibs:2502
+a:103 i:7 ibs:2503
+a:103 i:8 ibs:2504
+a:103 i:9 ibs:2505
+a:103 i:10 ibs:2506
+a:103 i:11 ibs:2507
+a:103 i:12 ibs:2508
+a:103 i:13 ibs:2509
+a:103 i:14 ibs:2510
+a:103 i:15 ibs:2511
+a:103 i:16 ibs:2512
+a:103 i:17 ibs:2513
+a:103 i:18 ibs:2514
+a:103 i:19 ibs:2515
+a:103 i:20 ibs:2516
+a:103 i:21 ibs:2517
+a:103 i:22 ibs:2518
+a:103 i:23 ibs:2519
+a:103 i:24 ibs:2520
+a:103 i:25 ibs:2521
+a:103 i:26 ibs:2522
+a:103 i:27 ibs:2523
+a:103 i:28 ibs:2524
+a:103 i:29 ibs:2525
+a:103 i:30 ibs:2526
+a:103 i:31 ibs:2527
+a:103 i:32 ibs:2528
+a:103 i:33 ibs:2529
+a:103 i:34 ibs:2530
+a:103 i:35 ibs:2531
+a:103 i:36 ibs:2532
+a:103 i:37 ibs:2533
+a:103 i:38 ibs:2534
+a:103 i:39 ibs:2535
+a:103 i:40 ibs:2536
+a:103 i:41 ibs:2537
+a:103 i:42 ibs:2538
+a:103 i:43 ibs:2539
+a:103 i:44 ibs:2540
+a:103 i:45 ibs:2541
+a:103 i:46 ibs:2542
+a:103 i:47 ibs:2543
+a:103 i:48 ibs:2544
+a:103 i:49 ibs:2545
+a:103 i:50 ibs:2546
+a:103 i:51 ibs:2547
+a:103 i:52 ibs:2548
+a:103 i:53 ibs:2549
+a:103 i:54 ibs:2550
+a:103 i:55 ibs:2551
+a:103 i:56 ibs:2552
+a:103 i:57 ibs:2553
+a:103 i:58 ibs:2554
+a:103 i:59 ibs:2555
+a:103 i:60 ibs:2556
+a:103 i:61 ibs:2557
+a:103 i:62 ibs:2558
+a:103 i:63 ibs:2559
+a:104 i:0 ibs:2560
+a:104 i:1 ibs:2561
+a:104 i:2 ibs:2562
+a:104 i:3 ibs:2563
+a:104 i:4 ibs:2564
+a:104 i:5 ibs:2565
+a:104 i:6 ibs:2566
+a:104 i:7 ibs:2567
+a:104 i:8 ibs:2568
+a:104 i:9 ibs:2569
+a:104 i:10 ibs:2570
+a:104 i:11 ibs:2571
+a:104 i:12 ibs:2572
+a:104 i:13 ibs:2573
+a:104 i:14 ibs:2574
+a:104 i:15 ibs:2575
+a:104 i:16 ibs:2576
+a:104 i:17 ibs:2577
+a:104 i:18 ibs:2578
+a:104 i:19 ibs:2579
+a:104 i:20 ibs:2580
+a:104 i:21 ibs:2581
+a:104 i:22 ibs:2582
+a:104 i:23 ibs:2583
+a:104 i:24 ibs:2584
+a:104 i:25 ibs:2585
+a:104 i:26 ibs:2586
+a:104 i:27 ibs:2587
+a:104 i:28 ibs:2588
+a:104 i:29 ibs:2589
+a:104 i:30 ibs:2590
+a:104 i:31 ibs:2591
+a:104 i:32 ibs:2592
+a:104 i:33 ibs:2593
+a:104 i:34 ibs:2594
+a:104 i:35 ibs:2595
+a:104 i:36 ibs:2596
+a:104 i:37 ibs:2597
+a:104 i:38 ibs:2598
+a:104 i:39 ibs:2599
+a:104 i:40 ibs:2600
+a:104 i:41 ibs:2601
+a:104 i:42 ibs:2602
+a:104 i:43 ibs:2603
+a:104 i:44 ibs:2604
+a:104 i:45 ibs:2605
+a:104 i:46 ibs:2606
+a:104 i:47 ibs:2607
+a:104 i:48 ibs:2608
+a:104 i:49 ibs:2609
+a:104 i:50 ibs:2610
+a:104 i:51 ibs:2611
+a:104 i:52 ibs:2612
+a:104 i:53 ibs:2613
+a:104 i:54 ibs:2614
+a:104 i:55 ibs:2615
+a:104 i:56 ibs:2616
+a:104 i:57 ibs:2617
+a:104 i:58 ibs:2618
+a:104 i:59 ibs:2619
+a:104 i:60 ibs:2620
+a:104 i:61 ibs:2621
+a:104 i:62 ibs:2622
+a:104 i:63 ibs:2623
+a:105 i:0 ibs:2624
+a:105 i:1 ibs:2625
+a:105 i:2 ibs:2626
+a:105 i:3 ibs:2627
+a:105 i:4 ibs:2628
+a:105 i:5 ibs:2629
+a:105 i:6 ibs:2630
+a:105 i:7 ibs:2631
+a:105 i:8 ibs:2632
+a:105 i:9 ibs:2633
+a:105 i:10 ibs:2634
+a:105 i:11 ibs:2635
+a:105 i:12 ibs:2636
+a:105 i:13 ibs:2637
+a:105 i:14 ibs:2638
+a:105 i:15 ibs:2639
+a:105 i:16 ibs:2640
+a:105 i:17 ibs:2641
+a:105 i:18 ibs:2642
+a:105 i:19 ibs:2643
+a:105 i:20 ibs:2644
+a:105 i:21 ibs:2645
+a:105 i:22 ibs:2646
+a:105 i:23 ibs:2647
+a:105 i:24 ibs:2648
+a:105 i:25 ibs:2649
+a:105 i:26 ibs:2650
+a:105 i:27 ibs:2651
+a:105 i:28 ibs:2652
+a:105 i:29 ibs:2653
+a:105 i:30 ibs:2654
+a:105 i:31 ibs:2655
+a:105 i:32 ibs:2656
+a:105 i:33 ibs:2657
+a:105 i:34 ibs:2658
+a:105 i:35 ibs:2659
+a:105 i:36 ibs:2660
+a:105 i:37 ibs:2661
+a:105 i:38 ibs:2662
+a:105 i:39 ibs:2663
+a:105 i:40 ibs:2664
+a:105 i:41 ibs:2665
+a:105 i:42 ibs:2666
+a:105 i:43 ibs:2667
+a:105 i:44 ibs:2668
+a:105 i:45 ibs:2669
+a:105 i:46 ibs:2670
+a:105 i:47 ibs:2671
+a:105 i:48 ibs:2672
+a:105 i:49 ibs:2673
+a:105 i:50 ibs:2674
+a:105 i:51 ibs:2675
+a:105 i:52 ibs:2676
+a:105 i:53 ibs:2677
+a:105 i:54 ibs:2678
+a:105 i:55 ibs:2679
+a:105 i:56 ibs:2680
+a:105 i:57 ibs:2681
+a:105 i:58 ibs:2682
+a:105 i:59 ibs:2683
+a:105 i:60 ibs:2684
+a:105 i:61 ibs:2685
+a:105 i:62 ibs:2686
+a:105 i:63 ibs:2687
+a:106 i:0 ibs:2688
+a:106 i:1 ibs:2689
+a:106 i:2 ibs:2690
+a:106 i:3 ibs:2691
+a:106 i:4 ibs:2692
+a:106 i:5 ibs:2693
+a:106 i:6 ibs:2694
+a:106 i:7 ibs:2695
+a:106 i:8 ibs:2696
+a:106 i:9 ibs:2697
+a:106 i:10 ibs:2698
+a:106 i:11 ibs:2699
+a:106 i:12 ibs:2700
+a:106 i:13 ibs:2701
+a:106 i:14 ibs:2702
+a:106 i:15 ibs:2703
+a:106 i:16 ibs:2704
+a:106 i:17 ibs:2705
+a:106 i:18 ibs:2706
+a:106 i:19 ibs:2707
+a:106 i:20 ibs:2708
+a:106 i:21 ibs:2709
+a:106 i:22 ibs:2710
+a:106 i:23 ibs:2711
+a:106 i:24 ibs:2712
+a:106 i:25 ibs:2713
+a:106 i:26 ibs:2714
+a:106 i:27 ibs:2715
+a:106 i:28 ibs:2716
+a:106 i:29 ibs:2717
+a:106 i:30 ibs:2718
+a:106 i:31 ibs:2719
+a:106 i:32 ibs:2720
+a:106 i:33 ibs:2721
+a:106 i:34 ibs:2722
+a:106 i:35 ibs:2723
+a:106 i:36 ibs:2724
+a:106 i:37 ibs:2725
+a:106 i:38 ibs:2726
+a:106 i:39 ibs:2727
+a:106 i:40 ibs:2728
+a:106 i:41 ibs:2729
+a:106 i:42 ibs:2730
+a:106 i:43 ibs:2731
+a:106 i:44 ibs:2732
+a:106 i:45 ibs:2733
+a:106 i:46 ibs:2734
+a:106 i:47 ibs:2735
+a:106 i:48 ibs:2736
+a:106 i:49 ibs:2737
+a:106 i:50 ibs:2738
+a:106 i:51 ibs:2739
+a:106 i:52 ibs:2740
+a:106 i:53 ibs:2741
+a:106 i:54 ibs:2742
+a:106 i:55 ibs:2743
+a:106 i:56 ibs:2744
+a:106 i:57 ibs:2745
+a:106 i:58 ibs:2746
+a:106 i:59 ibs:2747
+a:106 i:60 ibs:2748
+a:106 i:61 ibs:2749
+a:106 i:62 ibs:2750
+a:106 i:63 ibs:2751
+a:107 i:0 ibs:2752
+a:107 i:1 ibs:2753
+a:107 i:2 ibs:2754
+a:107 i:3 ibs:2755
+a:107 i:4 ibs:2756
+a:107 i:5 ibs:2757
+a:107 i:6 ibs:2758
+a:107 i:7 ibs:2759
+a:107 i:8 ibs:2760
+a:107 i:9 ibs:2761
+a:107 i:10 ibs:2762
+a:107 i:11 ibs:2763
+a:107 i:12 ibs:2764
+a:107 i:13 ibs:2765
+a:107 i:14 ibs:2766
+a:107 i:15 ibs:2767
+a:107 i:16 ibs:2768
+a:107 i:17 ibs:2769
+a:107 i:18 ibs:2770
+a:107 i:19 ibs:2771
+a:107 i:20 ibs:2772
+a:107 i:21 ibs:2773
+a:107 i:22 ibs:2774
+a:107 i:23 ibs:2775
+a:107 i:24 ibs:2776
+a:107 i:25 ibs:2777
+a:107 i:26 ibs:2778
+a:107 i:27 ibs:2779
+a:107 i:28 ibs:2780
+a:107 i:29 ibs:2781
+a:107 i:30 ibs:2782
+a:107 i:31 ibs:2783
+a:107 i:32 ibs:2784
+a:107 i:33 ibs:2785
+a:107 i:34 ibs:2786
+a:107 i:35 ibs:2787
+a:107 i:36 ibs:2788
+a:107 i:37 ibs:2789
+a:107 i:38 ibs:2790
+a:107 i:39 ibs:2791
+a:107 i:40 ibs:2792
+a:107 i:41 ibs:2793
+a:107 i:42 ibs:2794
+a:107 i:43 ibs:2795
+a:107 i:44 ibs:2796
+a:107 i:45 ibs:2797
+a:107 i:46 ibs:2798
+a:107 i:47 ibs:2799
+a:107 i:48 ibs:2800
+a:107 i:49 ibs:2801
+a:107 i:50 ibs:2802
+a:107 i:51 ibs:2803
+a:107 i:52 ibs:2804
+a:107 i:53 ibs:2805
+a:107 i:54 ibs:2806
+a:107 i:55 ibs:2807
+a:107 i:56 ibs:2808
+a:107 i:57 ibs:2809
+a:107 i:58 ibs:2810
+a:107 i:59 ibs:2811
+a:107 i:60 ibs:2812
+a:107 i:61 ibs:2813
+a:107 i:62 ibs:2814
+a:107 i:63 ibs:2815
+a:108 i:0 ibs:2816
+a:108 i:1 ibs:2817
+a:108 i:2 ibs:2818
+a:108 i:3 ibs:2819
+a:108 i:4 ibs:2820
+a:108 i:5 ibs:2821
+a:108 i:6 ibs:2822
+a:108 i:7 ibs:2823
+a:108 i:8 ibs:2824
+a:108 i:9 ibs:2825
+a:108 i:10 ibs:2826
+a:108 i:11 ibs:2827
+a:108 i:12 ibs:2828
+a:108 i:13 ibs:2829
+a:108 i:14 ibs:2830
+a:108 i:15 ibs:2831
+a:108 i:16 ibs:2832
+a:108 i:17 ibs:2833
+a:108 i:18 ibs:2834
+a:108 i:19 ibs:2835
+a:108 i:20 ibs:2836
+a:108 i:21 ibs:2837
+a:108 i:22 ibs:2838
+a:108 i:23 ibs:2839
+a:108 i:24 ibs:2840
+a:108 i:25 ibs:2841
+a:108 i:26 ibs:2842
+a:108 i:27 ibs:2843
+a:108 i:28 ibs:2844
+a:108 i:29 ibs:2845
+a:108 i:30 ibs:2846
+a:108 i:31 ibs:2847
+a:108 i:32 ibs:2848
+a:108 i:33 ibs:2849
+a:108 i:34 ibs:2850
+a:108 i:35 ibs:2851
+a:108 i:36 ibs:2852
+a:108 i:37 ibs:2853
+a:108 i:38 ibs:2854
+a:108 i:39 ibs:2855
+a:108 i:40 ibs:2856
+a:108 i:41 ibs:2857
+a:108 i:42 ibs:2858
+a:108 i:43 ibs:2859
+a:108 i:44 ibs:2860
+a:108 i:45 ibs:2861
+a:108 i:46 ibs:2862
+a:108 i:47 ibs:2863
+a:108 i:48 ibs:2864
+a:108 i:49 ibs:2865
+a:108 i:50 ibs:2866
+a:108 i:51 ibs:2867
+a:108 i:52 ibs:2868
+a:108 i:53 ibs:2869
+a:108 i:54 ibs:2870
+a:108 i:55 ibs:2871
+a:108 i:56 ibs:2872
+a:108 i:57 ibs:2873
+a:108 i:58 ibs:2874
+a:108 i:59 ibs:2875
+a:108 i:60 ibs:2876
+a:108 i:61 ibs:2877
+a:108 i:62 ibs:2878
+a:108 i:63 ibs:2879
+a:109 i:0 ibs:2880
+a:109 i:1 ibs:2881
+a:109 i:2 ibs:2882
+a:109 i:3 ibs:2883
+a:109 i:4 ibs:2884
+a:109 i:5 ibs:2885
+a:109 i:6 ibs:2886
+a:109 i:7 ibs:2887
+a:109 i:8 ibs:2888
+a:109 i:9 ibs:2889
+a:109 i:10 ibs:2890
+a:109 i:11 ibs:2891
+a:109 i:12 ibs:2892
+a:109 i:13 ibs:2893
+a:109 i:14 ibs:2894
+a:109 i:15 ibs:2895
+a:109 i:16 ibs:2896
+a:109 i:17 ibs:2897
+a:109 i:18 ibs:2898
+a:109 i:19 ibs:2899
+a:109 i:20 ibs:2900
+a:109 i:21 ibs:2901
+a:109 i:22 ibs:2902
+a:109 i:23 ibs:2903
+a:109 i:24 ibs:2904
+a:109 i:25 ibs:2905
+a:109 i:26 ibs:2906
+a:109 i:27 ibs:2907
+a:109 i:28 ibs:2908
+a:109 i:29 ibs:2909
+a:109 i:30 ibs:2910
+a:109 i:31 ibs:2911
+a:109 i:32 ibs:2912
+a:109 i:33 ibs:2913
+a:109 i:34 ibs:2914
+a:109 i:35 ibs:2915
+a:109 i:36 ibs:2916
+a:109 i:37 ibs:2917
+a:109 i:38 ibs:2918
+a:109 i:39 ibs:2919
+a:109 i:40 ibs:2920
+a:109 i:41 ibs:2921
+a:109 i:42 ibs:2922
+a:109 i:43 ibs:2923
+a:109 i:44 ibs:2924
+a:109 i:45 ibs:2925
+a:109 i:46 ibs:2926
+a:109 i:47 ibs:2927
+a:109 i:48 ibs:2928
+a:109 i:49 ibs:2929
+a:109 i:50 ibs:2930
+a:109 i:51 ibs:2931
+a:109 i:52 ibs:2932
+a:109 i:53 ibs:2933
+a:109 i:54 ibs:2934
+a:109 i:55 ibs:2935
+a:109 i:56 ibs:2936
+a:109 i:57 ibs:2937
+a:109 i:58 ibs:2938
+a:109 i:59 ibs:2939
+a:109 i:60 ibs:2940
+a:109 i:61 ibs:2941
+a:109 i:62 ibs:2942
+a:109 i:63 ibs:2943
+a:110 i:0 ibs:2944
+a:110 i:1 ibs:2945
+a:110 i:2 ibs:2946
+a:110 i:3 ibs:2947
+a:110 i:4 ibs:2948
+a:110 i:5 ibs:2949
+a:110 i:6 ibs:2950
+a:110 i:7 ibs:2951
+a:110 i:8 ibs:2952
+a:110 i:9 ibs:2953
+a:110 i:10 ibs:2954
+a:110 i:11 ibs:2955
+a:110 i:12 ibs:2956
+a:110 i:13 ibs:2957
+a:110 i:14 ibs:2958
+a:110 i:15 ibs:2959
+a:110 i:16 ibs:2960
+a:110 i:17 ibs:2961
+a:110 i:18 ibs:2962
+a:110 i:19 ibs:2963
+a:110 i:20 ibs:2964
+a:110 i:21 ibs:2965
+a:110 i:22 ibs:2966
+a:110 i:23 ibs:2967
+a:110 i:24 ibs:2968
+a:110 i:25 ibs:2969
+a:110 i:26 ibs:2970
+a:110 i:27 ibs:2971
+a:110 i:28 ibs:2972
+a:110 i:29 ibs:2973
+a:110 i:30 ibs:2974
+a:110 i:31 ibs:2975
+a:110 i:32 ibs:2976
+a:110 i:33 ibs:2977
+a:110 i:34 ibs:2978
+a:110 i:35 ibs:2979
+a:110 i:36 ibs:2980
+a:110 i:37 ibs:2981
+a:110 i:38 ibs:2982
+a:110 i:39 ibs:2983
+a:110 i:40 ibs:2984
+a:110 i:41 ibs:2985
+a:110 i:42 ibs:2986
+a:110 i:43 ibs:2987
+a:110 i:44 ibs:2988
+a:110 i:45 ibs:2989
+a:110 i:46 ibs:2990
+a:110 i:47 ibs:2991
+a:110 i:48 ibs:2992
+a:110 i:49 ibs:2993
+a:110 i:50 ibs:2994
+a:110 i:51 ibs:2995
+a:110 i:52 ibs:2996
+a:110 i:53 ibs:2997
+a:110 i:54 ibs:2998
+a:110 i:55 ibs:2999
+a:110 i:56 ibs:3000
+a:110 i:57 ibs:3001
+a:110 i:58 ibs:3002
+a:110 i:59 ibs:3003
+a:110 i:60 ibs:3004
+a:110 i:61 ibs:3005
+a:110 i:62 ibs:3006
+a:110 i:63 ibs:3007
+a:111 i:0 ibs:3008
+a:111 i:1 ibs:3009
+a:111 i:2 ibs:3010
+a:111 i:3 ibs:3011
+a:111 i:4 ibs:3012
+a:111 i:5 ibs:3013
+a:111 i:6 ibs:3014
+a:111 i:7 ibs:3015
+a:111 i:8 ibs:3016
+a:111 i:9 ibs:3017
+a:111 i:10 ibs:3018
+a:111 i:11 ibs:3019
+a:111 i:12 ibs:3020
+a:111 i:13 ibs:3021
+a:111 i:14 ibs:3022
+a:111 i:15 ibs:3023
+a:111 i:16 ibs:3024
+a:111 i:17 ibs:3025
+a:111 i:18 ibs:3026
+a:111 i:19 ibs:3027
+a:111 i:20 ibs:3028
+a:111 i:21 ibs:3029
+a:111 i:22 ibs:3030
+a:111 i:23 ibs:3031
+a:111 i:24 ibs:3032
+a:111 i:25 ibs:3033
+a:111 i:26 ibs:3034
+a:111 i:27 ibs:3035
+a:111 i:28 ibs:3036
+a:111 i:29 ibs:3037
+a:111 i:30 ibs:3038
+a:111 i:31 ibs:3039
+a:111 i:32 ibs:3040
+a:111 i:33 ibs:3041
+a:111 i:34 ibs:3042
+a:111 i:35 ibs:3043
+a:111 i:36 ibs:3044
+a:111 i:37 ibs:3045
+a:111 i:38 ibs:3046
+a:111 i:39 ibs:3047
+a:111 i:40 ibs:3048
+a:111 i:41 ibs:3049
+a:111 i:42 ibs:3050
+a:111 i:43 ibs:3051
+a:111 i:44 ibs:3052
+a:111 i:45 ibs:3053
+a:111 i:46 ibs:3054
+a:111 i:47 ibs:3055
+a:111 i:48 ibs:3056
+a:111 i:49 ibs:3057
+a:111 i:50 ibs:3058
+a:111 i:51 ibs:3059
+a:111 i:52 ibs:3060
+a:111 i:53 ibs:3061
+a:111 i:54 ibs:3062
+a:111 i:55 ibs:3063
+a:111 i:56 ibs:3064
+a:111 i:57 ibs:3065
+a:111 i:58 ibs:3066
+a:111 i:59 ibs:3067
+a:111 i:60 ibs:3068
+a:111 i:61 ibs:3069
+a:111 i:62 ibs:3070
+a:111 i:63 ibs:3071
+a:112 i:0 ibs:3072
+a:112 i:1 ibs:3073
+a:112 i:2 ibs:3074
+a:112 i:3 ibs:3075
+a:112 i:4 ibs:3076
+a:112 i:5 ibs:3077
+a:112 i:6 ibs:3078
+a:112 i:7 ibs:3079
+a:112 i:8 ibs:3080
+a:112 i:9 ibs:3081
+a:112 i:10 ibs:3082
+a:112 i:11 ibs:3083
+a:112 i:12 ibs:3084
+a:112 i:13 ibs:3085
+a:112 i:14 ibs:3086
+a:112 i:15 ibs:3087
+a:112 i:16 ibs:3088
+a:112 i:17 ibs:3089
+a:112 i:18 ibs:3090
+a:112 i:19 ibs:3091
+a:112 i:20 ibs:3092
+a:112 i:21 ibs:3093
+a:112 i:22 ibs:3094
+a:112 i:23 ibs:3095
+a:112 i:24 ibs:3096
+a:112 i:25 ibs:3097
+a:112 i:26 ibs:3098
+a:112 i:27 ibs:3099
+a:112 i:28 ibs:3100
+a:112 i:29 ibs:3101
+a:112 i:30 ibs:3102
+a:112 i:31 ibs:3103
+a:112 i:32 ibs:3104
+a:112 i:33 ibs:3105
+a:112 i:34 ibs:3106
+a:112 i:35 ibs:3107
+a:112 i:36 ibs:3108
+a:112 i:37 ibs:3109
+a:112 i:38 ibs:3110
+a:112 i:39 ibs:3111
+a:112 i:40 ibs:3112
+a:112 i:41 ibs:3113
+a:112 i:42 ibs:3114
+a:112 i:43 ibs:3115
+a:112 i:44 ibs:3116
+a:112 i:45 ibs:3117
+a:112 i:46 ibs:3118
+a:112 i:47 ibs:3119
+a:112 i:48 ibs:3120
+a:112 i:49 ibs:3121
+a:112 i:50 ibs:3122
+a:112 i:51 ibs:3123
+a:112 i:52 ibs:3124
+a:112 i:53 ibs:3125
+a:112 i:54 ibs:3126
+a:112 i:55 ibs:3127
+a:112 i:56 ibs:3128
+a:112 i:57 ibs:3129
+a:112 i:58 ibs:3130
+a:112 i:59 ibs:3131
+a:112 i:60 ibs:3132
+a:112 i:61 ibs:3133
+a:112 i:62 ibs:3134
+a:112 i:63 ibs:3135
+a:113 i:0 ibs:3136
+a:113 i:1 ibs:3137
+a:113 i:2 ibs:3138
+a:113 i:3 ibs:3139
+a:113 i:4 ibs:3140
+a:113 i:5 ibs:3141
+a:113 i:6 ibs:3142
+a:113 i:7 ibs:3143
+a:113 i:8 ibs:3144
+a:113 i:9 ibs:3145
+a:113 i:10 ibs:3146
+a:113 i:11 ibs:3147
+a:113 i:12 ibs:3148
+a:113 i:13 ibs:3149
+a:113 i:14 ibs:3150
+a:113 i:15 ibs:3151
+a:113 i:16 ibs:3152
+a:113 i:17 ibs:3153
+a:113 i:18 ibs:3154
+a:113 i:19 ibs:3155
+a:113 i:20 ibs:3156
+a:113 i:21 ibs:3157
+a:113 i:22 ibs:3158
+a:113 i:23 ibs:3159
+a:113 i:24 ibs:3160
+a:113 i:25 ibs:3161
+a:113 i:26 ibs:3162
+a:113 i:27 ibs:3163
+a:113 i:28 ibs:3164
+a:113 i:29 ibs:3165
+a:113 i:30 ibs:3166
+a:113 i:31 ibs:3167
+a:113 i:32 ibs:3168
+a:113 i:33 ibs:3169
+a:113 i:34 ibs:3170
+a:113 i:35 ibs:3171
+a:113 i:36 ibs:3172
+a:113 i:37 ibs:3173
+a:113 i:38 ibs:3174
+a:113 i:39 ibs:3175
+a:113 i:40 ibs:3176
+a:113 i:41 ibs:3177
+a:113 i:42 ibs:3178
+a:113 i:43 ibs:3179
+a:113 i:44 ibs:3180
+a:113 i:45 ibs:3181
+a:113 i:46 ibs:3182
+a:113 i:47 ibs:3183
+a:113 i:48 ibs:3184
+a:113 i:49 ibs:3185
+a:113 i:50 ibs:3186
+a:113 i:51 ibs:3187
+a:113 i:52 ibs:3188
+a:113 i:53 ibs:3189
+a:113 i:54 ibs:3190
+a:113 i:55 ibs:3191
+a:113 i:56 ibs:3192
+a:113 i:57 ibs:3193
+a:113 i:58 ibs:3194
+a:113 i:59 ibs:3195
+a:113 i:60 ibs:3196
+a:113 i:61 ibs:3197
+a:113 i:62 ibs:3198
+a:113 i:63 ibs:3199
+Hole States:
+0	0	0.736658	-0.499378	-0.064340	276.672722	0.816490
+1	1	-0.736659	0.499376	0.064340	276.672665	0.816489
+2	2	-0.065752	0.181792	-0.476561	300.064718	0.789622
+3	3	0.065752	-0.181792	0.476559	300.064671	0.789622
+4	4	0.000981	-0.015126	-0.087082	283.957452	-0.082439
+5	5	-0.000981	0.015126	0.087082	283.957473	-0.082439
+6	6	-0.012535	-0.010969	0.614110	218.237971	1.123255
+7	7	0.012535	0.010969	-0.614110	218.237965	1.123255
+8	8	-0.000657	0.000283	0.304939	205.163259	0.140835
+9	9	0.000657	-0.000283	-0.304939	205.163261	0.140835
+10	10	0.023821	-0.011776	-0.304830	248.609277	-0.393541
+11	11	-0.023821	0.011776	0.304830	248.609277	-0.393541
+12	12	0.213896	0.021859	0.084093	205.637896	0.878348
+13	13	-0.213896	-0.021859	-0.084093	205.637896	0.878348
+14	14	-0.119903	-0.059414	0.830672	329.411051	1.361070
+15	15	0.119903	0.059414	-0.830672	329.411051	1.361070
+16	16	-0.197312	0.744638	-0.120152	305.360490	0.766961
+17	17	0.197312	-0.744638	0.120152	305.360490	0.766961
+18	18	0.007401	-0.133469	1.135830	324.130097	1.270128
+19	19	-0.007401	0.133469	-1.135830	324.130097	1.270128
+20	20	-0.126942	-0.129292	0.439861	300.080386	-0.487588
+21	21	0.126942	0.129292	-0.439861	300.080386	-0.487588
+22	22	-0.002769	0.001616	-0.653566	318.871415	-0.806422
+23	23	0.002769	-0.001616	0.653566	318.871415	-0.806422
+24	24	0.217433	-0.039761	-0.738203	249.221568	1.058406
+25	25	-0.217433	0.039761	0.738203	249.221568	1.058406
+26	26	-0.006309	0.028888	0.079445	249.296955	-0.374596
+27	27	0.006309	-0.028888	-0.079445	249.296955	-0.374596
+28	28	-0.001529	0.032823	-0.840515	264.796591	1.388349
+29	29	0.001529	-0.032823	0.840515	264.796591	1.388349
+30	30	-0.094885	0.395566	-0.298203	264.302291	0.332224
+31	31	0.094885	-0.395566	0.298203	264.302291	0.332224
+32	32	0.317348	0.022876	0.770378	374.697276	1.641707
+33	33	-0.317348	-0.022876	-0.770378	374.697276	1.641707
+34	34	0.038835	-0.428733	0.680637	329.487022	1.447585
+35	35	-0.038835	0.428733	-0.680637	329.487022	1.447585
+36	36	0.190858	0.005117	-0.418148	317.859246	-0.087540
+37	37	-0.190858	-0.005117	0.418148	317.859246	-0.087540
+38	38	-0.006123	-0.010263	0.840549	326.778090	-0.570763
+39	39	0.006123	0.010263	-0.840549	326.778090	-0.570763
+40	40	-0.263279	-0.218537	0.443668	348.633117	-0.860215
+41	41	0.263279	0.218537	-0.443668	348.633117	-0.860215
+42	42	-0.120847	-0.012333	0.210145	212.066961	0.241348
+43	43	0.120847	0.012333	-0.210145	212.066961	0.241348
+44	44	-0.587578	0.096253	0.070381	317.560948	1.452430
+45	45	0.587578	-0.096253	-0.070381	317.560948	1.452430
+46	46	0.595552	0.212803	0.001132	236.209547	0.828833
+47	47	-0.595552	-0.212803	-0.001132	236.209547	0.828833
+48	48	0.208488	-0.069264	-0.395633	239.156968	-0.228110
+49	49	-0.208488	0.069264	0.395633	239.156968	-0.228110
+50	50	0.197618	0.150294	0.866173	362.517859	1.236355
+51	51	-0.197618	-0.150294	-0.866173	362.517859	1.236355
+52	52	-0.017610	0.155777	-0.303175	377.964343	-0.760505
+53	53	0.017610	-0.155777	0.303175	377.964343	-0.760505
+54	54	-0.159315	0.054439	-0.072036	316.914730	-0.253022
+55	55	0.159315	-0.054439	0.072036	316.914730	-0.253022
+56	56	-0.082162	-0.525007	-0.556374	297.568186	1.481425
+57	57	0.082162	0.525007	0.556374	297.568186	1.481425
+58	58	-0.002741	-0.036376	-0.331861	296.640266	-0.524547
+59	59	0.002741	0.036376	0.331861	296.640266	-0.524547
+60	60	-0.125480	-0.085770	0.030598	347.167611	-0.166161
+61	61	0.125480	0.085770	-0.030598	347.167611	-0.166161
+62	62	-0.004449	0.005435	0.036413	256.454024	-0.011166
+63	63	0.004449	-0.005435	-0.036413	256.454024	-0.011166
+Electron States:
+64	64	-0.246781	0.080396	-0.529751	199.147047	-0.950950
+65	65	0.246781	-0.080396	0.529751	199.147047	-0.950950
+66	66	-0.386820	-0.245133	-0.083342	300.883007	0.155443
+67	67	0.386820	0.245133	0.083342	300.883007	0.155443
+68	68	0.129296	-0.184069	1.137613	261.641044	-0.635215
+69	69	-0.129296	0.184069	-1.137613	261.641044	-0.635215
+70	70	-0.272107	-0.047274	-0.079102	257.192402	-1.241036
+71	71	0.272107	0.047274	0.079102	257.192402	-1.241036
+72	72	-0.127743	0.041330	0.001312	309.865634	-0.201485
+73	73	0.127743	-0.041330	-0.001312	309.865634	-0.201485
+74	74	0.030974	-0.044747	-0.018683	201.950556	-0.259804
+75	75	-0.030974	0.044747	0.018683	201.950556	-0.259804
+76	76	-0.098194	-0.117989	0.204416	202.560958	-0.166496
+77	77	0.098194	0.117989	-0.204416	202.560958	-0.166496
+78	78	0.058459	0.020338	-0.405795	207.479676	-0.251622
+79	79	-0.058459	-0.020338	0.405795	207.479676	-0.251622
+80	80	0.077141	0.147037	1.082979	367.925951	0.119418
+81	81	-0.077141	-0.147037	-1.082979	367.925951	0.119418
+82	82	0.786984	0.318473	0.719733	361.861377	-0.255627
+83	83	-0.786984	-0.318473	-0.719733	361.861377	-0.255627
+84	84	-0.020227	-0.121601	0.025832	323.206535	-1.409059
+85	85	0.020227	0.121601	-0.025832	323.206535	-1.409059
+86	86	0.506858	-0.008079	0.017018	312.827644	0.427601
+87	87	-0.506858	0.008079	-0.017018	312.827644	0.427601
+88	88	-0.172419	-0.269920	0.162724	310.214959	0.506709
+89	89	0.172419	0.269920	-0.162724	310.214959	0.506709
+90	90	0.186269	-0.082002	-1.201387	373.508239	0.383867
+91	91	-0.186269	0.082002	1.201387	373.508239	0.383867
+92	92	-0.390452	-0.395958	-0.366391	271.970633	0.010478
+93	93	0.390452	0.395958	0.366391	271.970633	0.010478
+94	94	-0.188891	0.324428	1.368222	367.205551	-1.267698
+95	95	0.188891	-0.324428	-1.368222	367.205551	-1.267698
+96	96	0.215055	0.586227	-0.341936	263.788190	-0.922446
+97	97	-0.215055	-0.586227	0.341936	263.788190	-0.922446
+98	98	-0.023786	-0.001588	0.339527	274.259667	0.810820
+99	99	0.023786	0.001588	-0.339527	274.259667	0.810820
+100	100	-0.072619	0.042528	1.071225	271.023076	-1.028381
+101	101	0.072619	-0.042528	-1.071225	271.023075	-1.028381
+102	102	0.006810	-0.193709	-0.408335	433.231622	-0.863391
+103	103	-0.006810	0.193709	0.408335	433.231622	-0.863391
+104	104	-0.043248	0.039844	-0.023571	313.197381	-0.105655
+105	105	0.043248	-0.039844	0.023571	313.197381	-0.105655
+106	106	-0.028408	0.020533	-0.091705	323.646017	0.062226
+107	107	0.028408	-0.020532	0.091713	323.646035	0.062230
+108	108	0.073761	-0.138378	0.078866	213.407982	0.139790
+109	109	-0.073761	0.138378	-0.078866	213.407982	0.139789
+110	110	0.020957	-0.009530	0.012995	217.127978	-0.044141
+111	111	-0.020957	0.009530	-0.012995	217.127979	-0.044141
+112	112	0.013114	0.015524	-0.147234	218.694010	0.087576
+113	113	-0.013114	-0.015524	0.147234	218.694034	0.087575
+The number of electron-hole pairs in the exciton basis = 3200
+Ground state exciton has energy = 0.0829608972 (2.2574821591 eV) (0.0000000000 Imag)
+
+******************************************************************************
+
+Mon Oct  3 23:33:19 2022

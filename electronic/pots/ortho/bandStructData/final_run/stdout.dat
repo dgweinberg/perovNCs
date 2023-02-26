@@ -1,0 +1,342 @@
+Reading Inputs
+Allocating Memory
+Reading Band Structures
+Band Struct 0/1
+Read exp band struct
+opening system_0.par to read
+Closing file
+Scaling atomic positions
+readSystem
+Calculating recip space basis vectors
+readKPoints
+
+
+******************************************************************************
+
+Initial pseudopotentials Params:
+
+Band structure 0
+
+Cs  0.00000000  0.73523927  2.46919399  1.33888287  0.00000000  0.00000000  0.00000000
+Cs  0.00000000  0.73523927  2.46919399  1.33888287  0.00000000  0.00000000  0.00000000
+Cs  0.00000000  0.73523927  2.46919399  1.33888287  0.00000000  0.00000000  0.00000000
+Cs  0.00000000  0.73523927  2.46919399  1.33888287  0.00000000  0.00000000  0.00000000
+Pb  97.86083166  2.25710305  3.71951773  0.55872538  7.94721141  1.40412238 -0.01566674
+Pb  97.86083166  2.25710305  3.71951773  0.55872538  7.94721141  1.40412238 -0.01566674
+Pb  97.86083166  2.25710305  3.71951773  0.55872538  7.94721141  1.40412238 -0.01566674
+Pb  97.86083166  2.25710305  3.71951773  0.55872538  7.94721141  1.40412238 -0.01566674
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+
+Calculating plane wave basis vectors
+Max number of basis vectors for system 0 is 24389
+
+Finding basis vectors under KE cuttoff
+Actual number of basis vectors for system 0 is 5641
+inbv = 5641
+inbv_squared = 31820881
+four_inbv_squared = 127283524
+ik_times_nbv_squared = 1622864931
+
+Allocating the rest of memory now we know the basis set size
+Writing and sorting final basis states
+Done with Basis States!
+
+INPUT
+
+The number of band structures fit to was: 1
+The total number of iterations was: 0
+The beta used was:  10.0,  10.0,  0.0
+
+The atoms were place at the following positions:
+
+Cs 7.69772 8.18640 5.89240
+Cs 9.03828 8.02141 17.67720
+Cs 16.06572 0.08250 5.89240
+Cs 0.67028 16.12531 17.67720
+Pb 8.36800 0.00000 0.00000
+Pb 0.00000 8.10390 0.00000
+Pb 8.36800 0.00000 11.78480
+Pb 0.00000 8.10390 11.78480
+I 0.01891 9.10911 5.89240
+I 8.38691 15.20260 5.89240
+I 16.71709 7.09870 17.67720
+I 8.34909 1.00521 17.67720
+I 3.25716 3.19796 0.84308
+I 11.62516 4.90594 0.84308
+I 3.25716 3.19796 10.94172
+I 11.62516 4.90594 10.94172
+I 13.47884 13.00985 12.62788
+I 5.11084 11.30187 12.62788
+I 13.47884 13.00985 22.72652
+I 5.11084 11.30187 22.72652
+
+Band structure 0
+The number of atoms in the cell was: 20
+The number of bands calculated was: 128
+The number of k-points that were used to fit the pseudopotentials to was: 51
+The maximum kinetic energy was:  7.000
+The number of basis functions used was: 5641
+The number of threads used was: 16
+
+
+******************************************************************************
+
+Initializing spinOrbit!
+SOBool:1
+Starting k=0 (thread 0)
+Starting k=39 (thread 12)
+Starting k=45 (thread 14)
+Starting k=8 (thread 2)
+Starting k=36 (thread 11)
+Starting k=24 (thread 7)
+Starting k=4 (thread 1)
+Starting k=48 (thread 15)
+Starting k=21 (thread 6)
+Starting k=33 (thread 10)
+Starting k=12 (thread 3)
+Starting k=42 (thread 13)
+Starting k=30 (thread 9)
+Starting k=18 (thread 5)
+Starting k=15 (thread 4)
+Starting k=27 (thread 8)
+done with k=48 (thread 15)
+Starting k=49 (thread 15)
+done with k=33 (thread 10)
+Starting k=34 (thread 10)
+done with k=0 (thread 0)
+Starting k=1 (thread 0)
+done with k=21 (thread 6)
+Starting k=22 (thread 6)
+done with k=18 (thread 5)
+Starting k=19 (thread 5)
+done with k=8 (thread 2)
+Starting k=9 (thread 2)
+done with k=24 (thread 7)
+Starting k=25 (thread 7)
+done with k=30 (thread 9)
+Starting k=31 (thread 9)
+done with k=12 (thread 3)
+Starting k=13 (thread 3)
+done with k=4 (thread 1)
+Starting k=5 (thread 1)
+done with k=36 (thread 11)
+Starting k=37 (thread 11)
+done with k=15 (thread 4)
+Starting k=16 (thread 4)
+done with k=27 (thread 8)
+Starting k=28 (thread 8)
+done with k=42 (thread 13)
+Starting k=43 (thread 13)
+done with k=45 (thread 14)
+Starting k=46 (thread 14)
+done with k=39 (thread 12)
+Starting k=40 (thread 12)
+done with k=49 (thread 15)
+Starting k=50 (thread 15)
+done with k=22 (thread 6)
+Starting k=23 (thread 6)
+done with k=19 (thread 5)
+Starting k=20 (thread 5)
+done with k=9 (thread 2)
+Starting k=10 (thread 2)
+done with k=31 (thread 9)
+Starting k=32 (thread 9)
+done with k=34 (thread 10)
+Starting k=35 (thread 10)
+done with k=13 (thread 3)
+Starting k=14 (thread 3)
+done with k=1 (thread 0)
+Starting k=2 (thread 0)
+done with k=5 (thread 1)
+Starting k=6 (thread 1)
+done with k=16 (thread 4)
+Starting k=17 (thread 4)
+done with k=25 (thread 7)
+Starting k=26 (thread 7)
+done with k=37 (thread 11)
+Starting k=38 (thread 11)
+done with k=28 (thread 8)
+Starting k=29 (thread 8)
+done with k=43 (thread 13)
+Starting k=44 (thread 13)
+done with k=46 (thread 14)
+Starting k=47 (thread 14)
+done with k=40 (thread 12)
+Starting k=41 (thread 12)
+done with k=50 (thread 15)
+done with k=10 (thread 2)
+Starting k=11 (thread 2)
+done with k=23 (thread 6)
+done with k=20 (thread 5)
+done with k=32 (thread 9)
+done with k=35 (thread 10)
+done with k=14 (thread 3)
+done with k=2 (thread 0)
+Starting k=3 (thread 0)
+done with k=6 (thread 1)
+Starting k=7 (thread 1)
+done with k=17 (thread 4)
+done with k=29 (thread 8)
+done with k=38 (thread 11)
+done with k=44 (thread 13)
+done with k=47 (thread 14)
+done with k=26 (thread 7)
+done with k=41 (thread 12)
+done with k=3 (thread 0)
+done with k=7 (thread 1)
+done with k=11 (thread 2)
+Starting k=8 (thread 2)
+Starting k=0 (thread 0)
+Starting k=12 (thread 3)
+Starting k=4 (thread 1)
+Starting k=39 (thread 12)
+Starting k=15 (thread 4)
+Starting k=21 (thread 6)
+Starting k=36 (thread 11)
+Starting k=33 (thread 10)
+Starting k=48 (thread 15)
+Starting k=27 (thread 8)
+Starting k=30 (thread 9)
+Starting k=42 (thread 13)
+Starting k=45 (thread 14)
+Starting k=24 (thread 7)
+Starting k=18 (thread 5)
+done with k=4 (thread 1)
+Starting k=5 (thread 1)
+done with k=30 (thread 9)
+Starting k=31 (thread 9)
+done with k=42 (thread 13)
+Starting k=43 (thread 13)
+done with k=18 (thread 5)
+Starting k=19 (thread 5)
+done with k=36 (thread 11)
+Starting k=37 (thread 11)
+done with k=0 (thread 0)
+Starting k=1 (thread 0)
+done with k=27 (thread 8)
+Starting k=28 (thread 8)
+done with k=48 (thread 15)
+Starting k=49 (thread 15)
+done with k=33 (thread 10)
+Starting k=34 (thread 10)
+done with k=15 (thread 4)
+Starting k=16 (thread 4)
+done with k=21 (thread 6)
+Starting k=22 (thread 6)
+done with k=39 (thread 12)
+Starting k=40 (thread 12)
+done with k=12 (thread 3)
+Starting k=13 (thread 3)
+done with k=45 (thread 14)
+Starting k=46 (thread 14)
+done with k=8 (thread 2)
+Starting k=9 (thread 2)
+done with k=24 (thread 7)
+Starting k=25 (thread 7)
+done with k=43 (thread 13)
+Starting k=44 (thread 13)
+done with k=31 (thread 9)
+Starting k=32 (thread 9)
+done with k=28 (thread 8)
+Starting k=29 (thread 8)
+done with k=37 (thread 11)
+Starting k=38 (thread 11)
+done with k=5 (thread 1)
+Starting k=6 (thread 1)
+done with k=49 (thread 15)
+Starting k=50 (thread 15)
+done with k=19 (thread 5)
+Starting k=20 (thread 5)
+done with k=1 (thread 0)
+Starting k=2 (thread 0)
+done with k=40 (thread 12)
+Starting k=41 (thread 12)
+done with k=34 (thread 10)
+Starting k=35 (thread 10)
+done with k=46 (thread 14)
+Starting k=47 (thread 14)
+done with k=16 (thread 4)
+Starting k=17 (thread 4)
+done with k=22 (thread 6)
+Starting k=23 (thread 6)
+done with k=13 (thread 3)
+Starting k=14 (thread 3)
+done with k=9 (thread 2)
+Starting k=10 (thread 2)
+done with k=25 (thread 7)
+Starting k=26 (thread 7)
+done with k=44 (thread 13)
+done with k=32 (thread 9)
+done with k=29 (thread 8)
+done with k=6 (thread 1)
+Starting k=7 (thread 1)
+done with k=50 (thread 15)
+done with k=2 (thread 0)
+Starting k=3 (thread 0)
+done with k=38 (thread 11)
+done with k=20 (thread 5)
+done with k=41 (thread 12)
+done with k=35 (thread 10)
+done with k=47 (thread 14)
+done with k=17 (thread 4)
+done with k=23 (thread 6)
+done with k=14 (thread 3)
+done with k=10 (thread 2)
+Starting k=11 (thread 2)
+done with k=26 (thread 7)
+done with k=7 (thread 1)
+done with k=3 (thread 0)
+done with k=11 (thread 2)
+
+Begining Monte Carlo Run for 0 iterations
+	Calculating initial band structure...
+For 1 Band Structures with 5641 basis vectors and 51 kpoints, total compute time: WALL(1918.000000 sec) CPU (29304.540000 sec)
+Potential Energy: WALL(18.000000 sec) CPU (18.260000 sec)
+ SO Potential Energy: WALL(1058.000000 sec) CPU (16464.070000 sec)
+ NL Potential Energy: WALL(786.000000 sec) CPU (12205.220000 sec)
+ Kinetic Energy: WALL(38.000000 sec) CPU (598.730000 sec)
+ Diag: WALL(18867.000000 sec) CPU (280839.210000 sec)
+ right of gap effective mass VB: -0.0726612	 CB: 0.089366
+Done fitting for 0 iters (CPU 20869.230000 WALL 1691.000000). writing output.
+
+
+******************************************************************************
+
+The best mean squared error found was:  2.27956
+
+Band structure 0
+
+Cs  0.00000000  0.73523927  2.46919399  1.33888287  0.00000000  0.00000000  0.00000000
+Cs  0.00000000  0.73523927  2.46919399  1.33888287  0.00000000  0.00000000  0.00000000
+Cs  0.00000000  0.73523927  2.46919399  1.33888287  0.00000000  0.00000000  0.00000000
+Cs  0.00000000  0.73523927  2.46919399  1.33888287  0.00000000  0.00000000  0.00000000
+Pb  97.86083166  2.25710305  3.71951773  0.55872538  7.94721141  1.40412238 -0.01566674
+Pb  97.86083166  2.25710305  3.71951773  0.55872538  7.94721141  1.40412238 -0.01566674
+Pb  97.86083166  2.25710305  3.71951773  0.55872538  7.94721141  1.40412238 -0.01566674
+Pb  97.86083166  2.25710305  3.71951773  0.55872538  7.94721141  1.40412238 -0.01566674
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+I  117.89162750  2.12591587  2.91148249  0.58243028  2.23037552  0.16631532 -0.02486412
+
+******************************************************************************
+

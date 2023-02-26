@@ -1,0 +1,252 @@
+Sat Nov  5 07:53:37 2022
+
+******************************************************************************
+
+ist->nx = 196	ist->dx = 0.500000
+ist->ny = 196	ist->dy = 0.500000
+ist->nz = 240	ist->dz = 0.500000
+par->espz = 6.1 par->espz = 6.1 par->espz = 6.1
+The number of openMP threads used = 16
+Total # of filtered hole eigenstates = 0
+Total # of filtered electron eigenstates = 13
+The eval.par index of the HOMO state = 0
+The eval.par index of the LUMO state = 123
+The HOMO energy = -0.27494406 -7.48161280
+The LUMO energy = -0.15508426 -4.22005985
+Fundamental gap = 0.1198597995 3.2615529493
+The total number of atoms = 1930
+Number of grid points used: nx = 196  ny = 196  nz = 240
+Length of pseudopotential files, npot = 8192
+Kinetic energy maximum = 10.0000
+Dielectric Constant: epsx = 6.1000 epsy = 6.1000 epsz = 6.1000
+Maximum sigma for an eigenstate, deps = 0.0000
+Energy windows, electrons = 0.2000 holes = 0.1000
+The number of hole eigenstates within 0.1000 of the HOMO energy = 0
+The number of electron eigenstates within 0.2000 of the LUMO energy = 13
+Total number of carrier states, ms = 13
+QD (minimum) dimensions: xd = 41.00 yd = 41.00 zd = 58.00
+Final Box Dimensions: xd = 49 yd = 49 zd = 60
+Gamma = 0.060345
+Grid point spacing: dx = 0.5000 dy = 0.5000 dz = 0.5000 dv = 0.125000 dr = 0.866025
+The index of lowest energy occupied level used = 0
+allocating memory for 0 hole and 13 electron states
+starting to read at offset 0
+-1
+tlumo: 0 nstates:0 counter:2
+tlumo: 0 nstates:0 counter:3
+tlumo: 0 nstates:0 counter:4
+tlumo: 0 nstates:0 counter:5
+tlumo: 0 nstates:0 counter:6
+tlumo: 0 nstates:0 counter:7
+tlumo: 0 nstates:0 counter:8
+tlumo: 0 nstates:0 counter:9
+tlumo: 0 nstates:0 counter:10
+tlumo: 0 nstates:0 counter:11
+tlumo: 0 nstates:0 counter:12
+tlumo: 0 nstates:0 counter:13
+tlumo: 0 nstates:0 counter:14
+tlumo: 0 nstates:0 counter:15
+tlumo: 0 nstates:0 counter:16
+tlumo: 0 nstates:0 counter:17
+tlumo: 0 nstates:0 counter:18
+tlumo: 0 nstates:0 counter:19
+tlumo: 0 nstates:0 counter:20
+tlumo: 0 nstates:0 counter:21
+tlumo: 0 nstates:0 counter:22
+tlumo: 0 nstates:0 counter:23
+tlumo: 0 nstates:0 counter:24
+tlumo: 0 nstates:0 counter:25
+tlumo: 0 nstates:0 counter:26
+tlumo: 0 nstates:0 counter:27
+tlumo: 0 nstates:0 counter:28
+tlumo: 0 nstates:0 counter:29
+tlumo: 0 nstates:0 counter:30
+tlumo: 0 nstates:0 counter:31
+tlumo: 0 nstates:0 counter:32
+tlumo: 0 nstates:0 counter:33
+tlumo: 0 nstates:0 counter:34
+tlumo: 0 nstates:0 counter:35
+tlumo: 0 nstates:0 counter:36
+tlumo: 0 nstates:0 counter:37
+tlumo: 0 nstates:0 counter:38
+tlumo: 0 nstates:0 counter:39
+tlumo: 0 nstates:0 counter:40
+tlumo: 0 nstates:0 counter:41
+tlumo: 0 nstates:0 counter:42
+tlumo: 0 nstates:0 counter:43
+tlumo: 0 nstates:0 counter:44
+tlumo: 0 nstates:0 counter:45
+tlumo: 0 nstates:0 counter:46
+tlumo: 0 nstates:0 counter:47
+tlumo: 0 nstates:0 counter:48
+tlumo: 0 nstates:0 counter:49
+tlumo: 0 nstates:0 counter:50
+tlumo: 0 nstates:0 counter:51
+tlumo: 0 nstates:0 counter:52
+tlumo: 0 nstates:0 counter:53
+tlumo: 0 nstates:0 counter:54
+tlumo: 0 nstates:0 counter:55
+tlumo: 0 nstates:0 counter:56
+tlumo: 0 nstates:0 counter:57
+tlumo: 0 nstates:0 counter:58
+tlumo: 0 nstates:0 counter:59
+tlumo: 0 nstates:0 counter:60
+tlumo: 0 nstates:0 counter:61
+tlumo: 0 nstates:0 counter:62
+tlumo: 0 nstates:0 counter:63
+tlumo: 0 nstates:0 counter:64
+tlumo: 0 nstates:0 counter:65
+tlumo: 0 nstates:0 counter:66
+tlumo: 0 nstates:0 counter:67
+tlumo: 0 nstates:0 counter:68
+tlumo: 0 nstates:0 counter:69
+tlumo: 0 nstates:0 counter:70
+tlumo: 0 nstates:0 counter:71
+tlumo: 0 nstates:0 counter:72
+tlumo: 0 nstates:0 counter:73
+tlumo: 0 nstates:0 counter:74
+tlumo: 0 nstates:0 counter:75
+tlumo: 0 nstates:0 counter:76
+tlumo: 0 nstates:0 counter:77
+tlumo: 0 nstates:0 counter:78
+tlumo: 0 nstates:0 counter:79
+tlumo: 0 nstates:0 counter:80
+tlumo: 0 nstates:0 counter:81
+tlumo: 0 nstates:0 counter:82
+tlumo: 0 nstates:0 counter:83
+tlumo: 0 nstates:0 counter:84
+tlumo: 0 nstates:0 counter:85
+tlumo: 0 nstates:0 counter:86
+tlumo: 0 nstates:0 counter:87
+tlumo: 0 nstates:0 counter:88
+tlumo: 0 nstates:0 counter:89
+tlumo: 0 nstates:0 counter:90
+tlumo: 0 nstates:0 counter:91
+tlumo: 0 nstates:0 counter:92
+tlumo: 0 nstates:0 counter:93
+tlumo: 0 nstates:0 counter:94
+tlumo: 0 nstates:0 counter:95
+tlumo: 0 nstates:0 counter:96
+tlumo: 0 nstates:0 counter:97
+tlumo: 0 nstates:0 counter:98
+tlumo: 0 nstates:0 counter:99
+tlumo: 0 nstates:0 counter:100
+tlumo: 0 nstates:0 counter:101
+tlumo: 0 nstates:0 counter:102
+tlumo: 0 nstates:0 counter:103
+tlumo: 0 nstates:0 counter:104
+tlumo: 0 nstates:0 counter:105
+tlumo: 0 nstates:0 counter:106
+tlumo: 0 nstates:0 counter:107
+tlumo: 0 nstates:0 counter:108
+tlumo: 0 nstates:0 counter:109
+tlumo: 0 nstates:0 counter:110
+tlumo: 0 nstates:0 counter:111
+tlumo: 0 nstates:0 counter:112
+tlumo: 0 nstates:0 counter:113
+tlumo: 0 nstates:0 counter:114
+tlumo: 0 nstates:0 counter:115
+tlumo: 0 nstates:0 counter:116
+tlumo: 0 nstates:0 counter:117
+tlumo: 0 nstates:0 counter:118
+tlumo: 0 nstates:0 counter:119
+tlumo: 0 nstates:0 counter:120
+tlumo: 0 nstates:0 counter:121
+tlumo: 0 nstates:0 counter:122
+tlumo: 0 nstates:0 counter:123
+tlumo: 1 nstates:1 counter:124
+tlumo: 2 nstates:2 counter:125
+tlumo: 2 nstates:2 counter:126
+tlumo: 3 nstates:3 counter:127
+tlumo: 3 nstates:3 counter:128
+tlumo: 3 nstates:3 counter:129
+tlumo: 4 nstates:4 counter:130
+tlumo: 5 nstates:5 counter:131
+tlumo: 6 nstates:6 counter:132
+tlumo: 7 nstates:7 counter:133
+tlumo: 8 nstates:8 counter:134
+tlumo: 9 nstates:9 counter:135
+tlumo: 10 nstates:10 counter:136
+tlumo: 11 nstates:11 counter:137
+tlumo: 12 nstates:12 counter:138
+tlumo: 13 nstates:13 counter:139
+freeing psidummy
+closed ppsiclosed eval and psifreeing evalindex
+freeing psihomo
+freeing psidlumo
+freeing ThingsNumber of hole eigenstates used in the BSE calculation = 0
+Number of electron eigenstates used in the BSE calculation =  13
+Total number of eigenstates used in the BSE calculation = 13
+
+Stats on state0: (E=-0.155084)
+ Spin up fraction: 0.437125
+ Spin dn fraction: 0.562875
+
+Stats on state1: (E=-0.155084)
+ Spin up fraction: 0.562875
+ Spin dn fraction: 0.437125
+
+Stats on state2: (E=-0.152224)
+ Spin up fraction: 0.551016
+ Spin dn fraction: 0.448984
+
+Stats on state3: (E=-0.150372)
+ Spin up fraction: 0.446410
+ Spin dn fraction: 0.553590
+
+Stats on state4: (E=-0.150372)
+ Spin up fraction: 0.553590
+ Spin dn fraction: 0.446410
+
+Stats on state5: (E=-0.150183)
+ Spin up fraction: 0.481341
+ Spin dn fraction: 0.518659
+
+Stats on state6: (E=-0.150183)
+ Spin up fraction: 0.518659
+ Spin dn fraction: 0.481341
+
+Stats on state7: (E=-0.148163)
+ Spin up fraction: 0.571732
+ Spin dn fraction: 0.428268
+
+Stats on state8: (E=-0.148163)
+ Spin up fraction: 0.428268
+ Spin dn fraction: 0.571732
+
+Stats on state9: (E=-0.147389)
+ Spin up fraction: 0.609218
+ Spin dn fraction: 0.390782
+
+Stats on state10: (E=-0.147389)
+ Spin up fraction: 0.390782
+ Spin dn fraction: 0.609218
+
+Stats on state11: (E=-0.147221)
+ Spin up fraction: 0.446379
+ Spin dn fraction: 0.553621
+
+Stats on state12: (E=-0.147221)
+ Spin up fraction: 0.553621
+ Spin dn fraction: 0.446379
+Hole States:
+Electron States:
+0	0	0.675770	0.680354	0.406274	693.053114	-1.525244
+1	1	-0.675770	-0.680354	-0.406274	693.053114	-1.525244
+2	2	-0.558300	-0.287548	-0.258338	1064.018814	-1.117007
+3	3	-0.016582	-0.023646	-0.874896	900.733460	-0.044981
+4	4	0.016583	0.023646	0.874896	900.733281	-0.044981
+5	5	-0.124673	-0.174375	0.517834	894.514914	-2.440322
+6	6	0.124674	0.174375	-0.517834	894.514884	-2.440322
+7	7	-0.069679	0.278966	-0.302122	1140.111777	-0.124162
+8	8	0.069680	-0.278964	0.302120	1140.110210	-0.124164
+9	9	-0.363183	0.158567	1.355447	1261.929315	-0.505847
+10	10	0.363185	-0.158568	-1.355449	1261.933858	-0.505849
+11	11	-0.020165	-0.077734	1.066424	1263.878649	-1.961497
+12	12	0.020153	0.077773	-1.066408	1263.873010	-1.961479
+The number of electron-hole pairs in the exciton basis = 0
+Ground state exciton has energy = 0.0000000000 (0.0000000000 eV) (0.0000000000 Imag)
+
+******************************************************************************
+
+Sat Nov  5 08:01:32 2022

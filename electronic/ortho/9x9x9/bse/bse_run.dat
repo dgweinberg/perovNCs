@@ -1,0 +1,138 @@
+Tue Nov  1 04:25:56 2022
+
+******************************************************************************
+
+ist->nx = 240	ist->dx = 0.500000
+ist->ny = 240	ist->dy = 0.500000
+ist->nz = 240	ist->dz = 0.500000
+par->espz = 6.1 par->espz = 6.1 par->espz = 6.1
+The number of openMP threads used = 14
+Total # of filtered hole eigenstates = 4
+Total # of filtered electron eigenstates = 6
+The eval.par index of the HOMO state = 78
+The eval.par index of the LUMO state = 79
+The HOMO energy = -0.22838339 -6.21463186
+The LUMO energy = -0.15835280 -4.30900136
+Fundamental gap = 0.0700305937 1.9056304961
+The total number of atoms = 4144
+Number of grid points used: nx = 240  ny = 240  nz = 240
+Length of pseudopotential files, npot = 8192
+Kinetic energy maximum = 10.0000
+Dielectric Constant: epsx = 6.1000 epsy = 6.1000 epsz = 6.1000
+Maximum sigma for an eigenstate, deps = 0.0000
+Energy windows, electrons = 0.2000 holes = 0.1000
+The number of hole eigenstates within 0.1000 of the HOMO energy = 4
+The number of electron eigenstates within 0.2000 of the LUMO energy = 6
+Total number of carrier states, ms = 10
+QD (minimum) dimensions: xd = 58.00 yd = 59.00 zd = 58.00
+Final Box Dimensions: xd = 60 yd = 60 zd = 60
+Gamma = 0.060345
+Grid point spacing: dx = 0.5000 dy = 0.5000 dz = 0.5000 dv = 0.125000 dr = 0.866025
+The index of lowest energy occupied level used = 74
+allocating memory for 4 hole and 6 electron states
+starting to read at offset 78
+77
+moving file head back by 2
+76
+moving file head back by 2
+75
+moving file head back by 2
+74
+moving file head back by 2
+73
+moving file head back by 2
+tlumo: 1 nstates:5 counter:80
+tlumo: 2 nstates:6 counter:81
+tlumo: 3 nstates:7 counter:82
+tlumo: 4 nstates:8 counter:83
+tlumo: 5 nstates:9 counter:84
+tlumo: 6 nstates:10 counter:85
+freeing psidummy
+closed ppsiclosed eval and psifreeing evalindex
+freeing psihomo
+freeing psidlumo
+freeing ThingsNumber of hole eigenstates used in the BSE calculation = 4
+Number of electron eigenstates used in the BSE calculation =  6
+Total number of eigenstates used in the BSE calculation = 10
+
+Stats on state0: (E=-0.23063)
+ Spin up fraction: 0.299255
+ Spin dn fraction: 0.700745
+
+Stats on state1: (E=-0.230493)
+ Spin up fraction: 0.696993
+ Spin dn fraction: 0.303007
+
+Stats on state2: (E=-0.228383)
+ Spin up fraction: 0.961368
+ Spin dn fraction: 0.038632
+
+Stats on state3: (E=-0.228383)
+ Spin up fraction: 0.038632
+ Spin dn fraction: 0.961368
+
+Stats on state4: (E=-0.158353)
+ Spin up fraction: 0.482410
+ Spin dn fraction: 0.517590
+
+Stats on state5: (E=-0.158353)
+ Spin up fraction: 0.517591
+ Spin dn fraction: 0.482409
+
+Stats on state6: (E=-0.156022)
+ Spin up fraction: 0.546135
+ Spin dn fraction: 0.453865
+
+Stats on state7: (E=-0.156022)
+ Spin up fraction: 0.453864
+ Spin dn fraction: 0.546136
+
+Stats on state8: (E=-0.155889)
+ Spin up fraction: 0.450626
+ Spin dn fraction: 0.549374
+
+Stats on state9: (E=-0.155889)
+ Spin up fraction: 0.549374
+ Spin dn fraction: 0.450626
+a:4 i:0 ibs:0
+a:4 i:1 ibs:1
+a:4 i:2 ibs:2
+a:4 i:3 ibs:3
+a:5 i:0 ibs:4
+a:5 i:1 ibs:5
+a:5 i:2 ibs:6
+a:5 i:3 ibs:7
+a:6 i:0 ibs:8
+a:6 i:1 ibs:9
+a:6 i:2 ibs:10
+a:6 i:3 ibs:11
+a:7 i:0 ibs:12
+a:7 i:1 ibs:13
+a:7 i:2 ibs:14
+a:7 i:3 ibs:15
+a:8 i:0 ibs:16
+a:8 i:1 ibs:17
+a:8 i:2 ibs:18
+a:8 i:3 ibs:19
+a:9 i:0 ibs:20
+a:9 i:1 ibs:21
+a:9 i:2 ibs:22
+a:9 i:3 ibs:23
+Hole States:
+0	0	-0.009297	-0.171946	0.612057	1825.609916	-0.142874
+1	1	-0.166639	-0.336687	0.651929	1860.038968	-1.173666
+2	2	0.016454	-0.073670	0.228404	1390.367611	-0.401181
+3	3	-0.016455	0.073668	-0.228404	1390.367749	-0.401182
+Electron States:
+4	4	0.859631	-0.565581	0.133836	894.135199	-1.508728
+5	5	-0.859626	0.565578	-0.133839	894.135678	-1.508730
+6	6	0.333907	-0.035782	0.330849	1269.359444	-0.353143
+7	7	-0.333911	0.035802	-0.330843	1269.391952	-0.353137
+8	8	-0.432609	0.172126	1.058696	1229.750031	-1.910190
+9	9	0.432625	-0.172100	-1.058653	1229.743366	-1.910181
+The number of electron-hole pairs in the exciton basis = 24
+Ground state exciton has energy = 0.0659873595 (1.7956084340 eV) (0.0000000000 Imag)
+
+******************************************************************************
+
+Tue Nov  1 04:30:40 2022

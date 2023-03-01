@@ -5,3 +5,13 @@ structure of perovskite nanocrystals"
 
 Contents:
 
+	src - C source codes for the electronic structure calculations
+
+	NC_structures - details and scripts for structural minimization
+
+	graphics - scripts for generating the graphics in the paper
+
+	electronic - input files and data from the electronic calculations 
+				 for the cubic, orthorhombic and relaxed structures. See
+				 the "example" sub-directory for annotated input scripts.
+

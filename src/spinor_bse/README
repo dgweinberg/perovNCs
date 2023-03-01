@@ -1,0 +1,10 @@
+These source codes calculate the excitonic states of perovskite nanostructures. 
+They require (at least) the FFTW, Intel MKL, and OpenMP libraries at compile time.
+If the MKL libraries are unavailable the MKL functions may be replaced with the 
+standard LAPACK functions but this may require some re-configuring in particularly
+in the diag.c file.
+
+If the system is configured the code may be compiled by running:
+make bs
+
+

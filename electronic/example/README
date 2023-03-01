@@ -16,6 +16,23 @@ Scripts will likely need re-configuring to run properly on a new machine
 
 After execution:
 	Dirrectory filter -- results of the single quasiparticle calculation
+		eval.dat - list of quasiparticle energy levels and the varriance
+		 		   associated with that state. A variance below ~1e-6 
+		 		   indicates a state is generally a real eigensate of the
+		 		   system while high variance indicates a spurious state.
+
 
 	Dirrectory bse -- results of the excitonic calculation
+		exciton.dat - list of excitonic states generated from the BSE 
+					  calculation. Additional values of the expectation
+					  values of the direct, exchange and quasiparticle
+					  parts of the BSE hamiltonians (in hartree), and 
+					  the exciton binding energy (in eV) are given for
+					  each excitonic state.
+		spins.dat - list of the total spin expectation vaules along the
+					x,y,z directions and the S_tot^2 expectation value
+					for each of the excitonic states. 
+		OS.dat - oscillator strength and diploe matrix elements for each
+				 excitonic state, also broken down along the x,y,z axes.
+		
 

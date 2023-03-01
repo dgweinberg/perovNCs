@@ -1,6 +1,6 @@
 SHELL = /bin/sh
 
-MKLROOT = /opt/intel/compilers_and_libraries/linux/mkl
+#MKLROOT = /opt/intel/compilers_and_libraries/linux/mkl
 INTELLINK =  ${MKLROOT}/lib/intel64/libmkl_scalapack_ilp64.a -Wl,--start-group ${MKLROOT}/lib/intel64/libmkl_intel_ilp64.a ${MKLROOT}/lib/intel64/libmkl_intel_thread.a ${MKLROOT}/lib/intel64/libmkl_core.a ${MKLROOT}/lib/intel64/libmkl_blacs_intelmpi_ilp64.a -Wl,--end-group -liomp5 -lpthread -lm -ldl
 
 Linux_LIB =  ${INTELLINK} -L${HOME}/usr/lib -lfftw3

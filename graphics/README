@@ -1,0 +1,7 @@
+These python scripts generate the graphics used in the paper.
+They should be run with:
+python3 scriptName.py
+
+Many of the scripts reference and load from the data files
+in the "electronic" directory and will need to be edited if
+the directory structure is disturbed. 
